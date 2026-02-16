@@ -35,6 +35,7 @@
   };
 
   var STORAGE_KEY = "jfsc-handbook-role";
+  var CHOSEN_KEY = "jfsc-handbook-chosen"; // tracks explicit card click
 
   function getRole() {
     try {
@@ -44,9 +45,18 @@
     }
   }
 
+  function hasExplicitChoice() {
+    try {
+      return localStorage.getItem(CHOSEN_KEY) === "1";
+    } catch (e) {
+      return false;
+    }
+  }
+
   function setRole(role) {
     try {
       localStorage.setItem(STORAGE_KEY, role);
+      localStorage.setItem(CHOSEN_KEY, "1");
     } catch (e) {
       // localStorage not available
     }
@@ -215,9 +225,10 @@
    */
   function updateCards(role) {
     var cards = document.querySelectorAll(".role-card");
+    var chosen = hasExplicitChoice();
     cards.forEach(function (card) {
       var cardRole = card.getAttribute("data-role");
-      if (cardRole === role) {
+      if (chosen && cardRole === role) {
         card.classList.add("active");
       } else {
         card.classList.remove("active");
@@ -228,12 +239,11 @@
   /**
    * Enable the Start Reading button only once a sector has been selected
    */
-  function updateStartButton(role) {
+  function updateStartButton() {
     var btn = document.querySelector(".start-reading-btn");
     if (!btn) return;
 
-    var hasSelection = !!localStorage.getItem(STORAGE_KEY);
-    if (hasSelection) {
+    if (hasExplicitChoice()) {
       btn.classList.remove("btn-disabled");
       btn.removeAttribute("aria-disabled");
       btn.style.pointerEvents = "";
@@ -255,6 +265,12 @@
         if (role) {
           setRole(role);
           applyFilter(role);
+
+          // Scroll to the Start Reading button so it's visible
+          var btn = document.querySelector(".start-reading-btn");
+          if (btn) {
+            btn.scrollIntoView({ behavior: "smooth", block: "center" });
+          }
         }
       });
     });
