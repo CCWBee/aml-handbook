@@ -69,6 +69,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/role-filter.js
+  - javascripts/touch-tooltips.js
 
 nav:
   - Home: index.md
