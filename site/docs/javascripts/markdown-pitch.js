@@ -22,12 +22,12 @@
       '<p class="pitch-lead">Everything on this site was generated from plain text files. Not Word. Not SharePoint. Simple, editable text that produces a searchable, cross&#8209;referenced, mobile&#8209;friendly website automatically.</p>' +
       '<p class="pitch-lead">Close this box and try it. Select a sector, browse a section, tap a highlighted term for its definition. Then come back and consider: <strong>what does it cost us to keep doing this in Word?</strong></p>' +
 
-      // — Section 2: The problem (brief)
+      // — Section 2: The problem
       '<div class="pitch-section">' +
         '<h3 class="pitch-subheading">The problem we all recognise</h3>' +
         '<div class="pitch-problem-list">' +
-          '<p>Policy documents live in Word files on SharePoint. Nobody is certain which version is current. Formatting breaks when someone edits on a different machine. Tracked changes become unreadable after two rounds of review. Publishing means exporting a PDF that is immediately out of date. Staff download 200&#8209;page files to search for a single paragraph.</p>' +
-          '<p>It works, but only just. And the time and effort it quietly absorbs across the organisation is significant.</p>' +
+          '<p>The handbook is a 200+ page Word document so old and fragile that a simple edit can take half an hour. Collaborative editing is painful. Tracking who changed what is possible but manual, and getting to the current version is an ordeal in itself. Policy staff spend time fighting formatting instead of writing policy.</p>' +
+          '<p>For the people who actually need to read it, the experience is worse. Twenty separate PDFs on a website, ctrl+F to find what you need, no links between sections, no way to know if what you are reading is current. Comms manually converts the docx for publication. The document sits on SharePoint, but it is not a living resource. It is a file.</p>' +
         '</div>' +
       '</div>' +
 
@@ -37,19 +37,19 @@
         '<div class="pitch-grid">' +
           '<div class="pitch-item">' +
             '<strong>&#128196; One source of truth</strong>' +
-            '<p>No <em>final_v3_REAL_FINAL.docx</em>. One file per section, every change tracked, every version recoverable.</p>' +
+            '<p>One file per section instead of one enormous document. Each section is small, fast to open, and simple to edit. The handbook stops being a monolith.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
-            '<strong>&#127760; Automatic publishing</strong>' +
-            '<p>Edit a text file and the website rebuilds itself. Glossary, cross&#8209;references, navigation, and legislation links are all generated. No manual formatting.</p>' +
+            '<strong>&#9999;&#65039; Policy writes, formatting is handled</strong>' +
+            '<p>Policy staff write content and nothing else. Formatting, layout, glossary tooltips, cross&#8209;references, and legislation links are all generated automatically. Comms controls the look and feel once, at the top level, for every document.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
-            '<strong>&#128241; Any device, always current</strong>' +
-            '<p>Staff read it on phones, tablets, or desktops. Always the latest version. No downloading, no printing.</p>' +
+            '<strong>&#128269; Searchable and linked</strong>' +
+            '<p>One website instead of twenty PDFs. Full&#8209;text search across every section. Terms link to definitions. Sections cross&#8209;reference each other. Legislation links to the official source. The handbook becomes a tool people actually use.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
-            '<strong>&#9999;&#65039; Editing feels like Word</strong>' +
-            '<p>Free editors with familiar formatting toolbars. Staff don\'t learn code. Review workflows fit existing processes.</p>' +
+            '<strong>&#128241; Always current, any device</strong>' +
+            '<p>Staff read the handbook on whatever device they have. No downloading, no guessing whether the PDF is the latest version. An edit is published the moment it is saved.</p>' +
           '</div>' +
         '</div>' +
       '</div>' +
@@ -64,24 +64,16 @@
             '<p>See exactly what changed between any two versions, word by word, highlighted in colour. Every edit attributed to a person. A complete audit trail regulators can inspect on demand.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
-            '<strong>&#128214; One source, every format</strong>' +
-            '<p>The same text file can produce a website, a print&#8209;ready PDF, a Word document for external parties, or a briefing note. Update once, every format updates with it.</p>' +
+            '<strong>&#128214; Every format from one source</strong>' +
+            '<p>The same text file can produce a website, a print&#8209;ready PDF, or a Word document for external parties. Policy updates once and every output updates with it. No manual reformatting, no divergence between versions.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
             '<strong>&#129302; AI that knows your policies</strong>' +
-            '<p>Structured text is the ideal input for AI. A chatbot where staff ask "what are my CDD obligations for a high&#8209;risk customer?" and get an accurate, sourced answer from your own documents.</p>' +
+            '<p>Structured text is the ideal input for AI. A chatbot where staff ask "what are my CDD obligations for a high&#8209;risk customer?" and get an accurate, sourced answer from your own documents. Not a generic internet search.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
             '<strong>&#128276; Targeted change alerts</strong>' +
-            '<p>When a section is updated, the people affected are notified by role, team, or topic. Not an all&#8209;staff email with a PDF attachment nobody reads.</p>' +
-          '</div>' +
-          '<div class="pitch-teaser-item">' +
-            '<strong>&#9201; Instant rollback</strong>' +
-            '<p>Published an error? Revert to any previous version in seconds. Full history preserved, nothing lost. Compare today with last quarter at the click of a button.</p>' +
-          '</div>' +
-          '<div class="pitch-teaser-item">' +
-            '<strong>&#127757; Translation without rebuilding</strong>' +
-            '<p>Structured content goes to translators with formatting, layout, and cross&#8209;references intact. No rebuilding a 200&#8209;page document from scratch in another language.</p>' +
+            '<p>When a section is updated, the people affected are notified by role, team, or topic. Not an all&#8209;staff email hoping someone reads the attachment.</p>' +
           '</div>' +
         '</div>' +
       '</div>' +
