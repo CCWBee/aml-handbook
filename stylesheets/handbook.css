@@ -432,6 +432,199 @@ html {
   border-bottom-color: #d4d4d4;
 }
 
+/* ===== "Why Markdown?" Pitch Modal ===== */
+.pitch-trigger {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  z-index: 90;
+  background: #1d70b8;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 2px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: background 0.15s ease;
+}
+
+.pitch-trigger:hover {
+  background: #003078;
+}
+
+.pitch-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  z-index: 200;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.pitch-backdrop.visible {
+  opacity: 1;
+}
+
+.pitch-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.95);
+  z-index: 201;
+  background: #fff;
+  color: #0b0c0c;
+  max-width: 680px;
+  width: calc(100% - 2rem);
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
+  padding: 2rem 2.2rem;
+  border-radius: 2px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  opacity: 0;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.pitch-modal.visible {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+[data-md-color-scheme="slate"] .pitch-modal {
+  background: #1e1e1e;
+  color: #d4d4d4;
+}
+
+.pitch-close {
+  position: absolute;
+  top: 0.8rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  color: #505050;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0.2rem 0.4rem;
+}
+
+.pitch-close:hover {
+  color: #0b0c0c;
+}
+
+[data-md-color-scheme="slate"] .pitch-close {
+  color: #999;
+}
+
+[data-md-color-scheme="slate"] .pitch-close:hover {
+  color: #fff;
+}
+
+.pitch-heading {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 0 0 0.6rem 0;
+  line-height: 1.3;
+  color: #0b0c0c;
+}
+
+[data-md-color-scheme="slate"] .pitch-heading {
+  color: #e4e4e4;
+}
+
+.pitch-lead {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0 0 1.4rem 0;
+  color: #505050;
+}
+
+[data-md-color-scheme="slate"] .pitch-lead {
+  color: #aaa;
+}
+
+.pitch-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.4rem;
+}
+
+.pitch-item {
+  padding: 0.7rem 0.8rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 2px;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+[data-md-color-scheme="slate"] .pitch-item {
+  border-color: #404040;
+}
+
+.pitch-item strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.88rem;
+}
+
+.pitch-item p {
+  margin: 0;
+  color: #505050;
+}
+
+[data-md-color-scheme="slate"] .pitch-item p {
+  color: #aaa;
+}
+
+.pitch-icon {
+  font-size: 1.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.pitch-footer {
+  border-top: 1px solid #d2d2d2;
+  padding-top: 1rem;
+}
+
+[data-md-color-scheme="slate"] .pitch-footer {
+  border-top-color: #404040;
+}
+
+.pitch-footer p {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  margin: 0;
+  color: #505050;
+}
+
+[data-md-color-scheme="slate"] .pitch-footer p {
+  color: #aaa;
+}
+
+@media screen and (max-width: 600px) {
+  .pitch-modal {
+    padding: 1.4rem 1.2rem;
+    max-height: calc(100vh - 2rem);
+  }
+
+  .pitch-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pitch-heading {
+    font-size: 1.15rem;
+  }
+
+  .pitch-trigger {
+    bottom: 0.8rem;
+    right: 0.8rem;
+    font-size: 0.75rem;
+    padding: 0.4rem 0.8rem;
+  }
+}
+
 /* ===== Print Styles ===== */
 @media print {
   .role-badge,
