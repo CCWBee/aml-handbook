@@ -125,6 +125,9 @@
 
     // Update role cards on landing page
     updateCards(role);
+
+    // Enable/disable Start Reading button based on whether a sector is selected
+    updateStartButton(role);
   }
 
   /**
@@ -223,6 +226,25 @@
   }
 
   /**
+   * Enable the Start Reading button only once a sector has been selected
+   */
+  function updateStartButton(role) {
+    var btn = document.querySelector(".start-reading-btn");
+    if (!btn) return;
+
+    var hasSelection = !!localStorage.getItem(STORAGE_KEY);
+    if (hasSelection) {
+      btn.classList.remove("btn-disabled");
+      btn.removeAttribute("aria-disabled");
+      btn.style.pointerEvents = "";
+    } else {
+      btn.classList.add("btn-disabled");
+      btn.setAttribute("aria-disabled", "true");
+      btn.style.pointerEvents = "none";
+    }
+  }
+
+  /**
    * Set up role card click handlers on the landing page
    */
   function initCards() {
@@ -233,15 +255,6 @@
         if (role) {
           setRole(role);
           applyFilter(role);
-
-          // Scroll to the filtered section list for immediate feedback
-          var target = document.getElementById("role-confirmation");
-          if (!target || target.style.display === "none") {
-            target = document.getElementById("section-list");
-          }
-          if (target) {
-            target.scrollIntoView({ behavior: "smooth", block: "start" });
-          }
         }
       });
     });
