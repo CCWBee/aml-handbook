@@ -56,6 +56,36 @@
         '<p>To update content, a staff member edits a text file in a familiar word&#8209;processor&#8209;style editor and saves it. The site rebuilds itself. The entire workflow runs on infrastructure and skills the organisation already has today.</p>' +
         '<p><strong>This is not a proof of concept. It is ready now, built with capability you already own.</strong></p>' +
       '</div>' +
+      '<div class="pitch-teaser">' +
+        '<h3 class="pitch-subheading">And this is just the starting point.</h3>' +
+        '<p class="pitch-teaser-lead">Once your documents live as structured text, things that were previously impossible become trivial.</p>' +
+        '<div class="pitch-teaser-grid">' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#128269; Side&#8209;by&#8209;side version history</strong>' +
+            '<p>See exactly what changed between any two versions of a document, word by word, highlighted in green and red. No more emailing tracked&#8209;changes Word files back and forth. Every edit attributed to a person, with a complete audit trail regulators can inspect on demand.</p>' +
+          '</div>' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#128214; One source, every format</strong>' +
+            '<p>Write it once. Publish it as a website, a print&#8209;ready PDF, a Word document for external parties, or an internal briefing note. Same content, different outputs, generated automatically. Change it in one place and every format updates together.</p>' +
+          '</div>' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#129302; AI that actually understands your policies</strong>' +
+            '<p>Structured text is the ideal input for AI tools. Build a chatbot staff can ask "what are my CDD obligations for a high&#8209;risk customer?" and get an accurate, sourced answer drawn directly from your own documents. Not a generic internet search. Your policies, your rules, your answers.</p>' +
+          '</div>' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#128276; Automatic change notifications</strong>' +
+            '<p>When a section is updated, the people who need to know are told. Targeted alerts by role, by team, by topic. No more all&#8209;staff emails with a PDF attachment that nobody reads.</p>' +
+          '</div>' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#9201; Instant rollback</strong>' +
+            '<p>Someone publishes an error? Revert to any previous version in seconds. Full history preserved, nothing ever lost. Compare today\'s version with last quarter\'s at the click of a button.</p>' +
+          '</div>' +
+          '<div class="pitch-teaser-item">' +
+            '<strong>&#127757; Translation ready</strong>' +
+            '<p>Structured content can be sent for professional translation without losing formatting, layout, or cross&#8209;references. No more rebuilding a 200&#8209;page Word document from scratch in another language.</p>' +
+          '</div>' +
+        '</div>' +
+      '</div>' +
     '</div>';
 
   function isHomePage() {
