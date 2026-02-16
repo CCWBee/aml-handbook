@@ -17,73 +17,73 @@
     '<div class="pitch-modal">' +
       '<button class="pitch-close" aria-label="Close">&times;</button>' +
 
-      // — Section 1: The hook
+      // — Hook
       '<h2 class="pitch-heading">What if your documents could do this?</h2>' +
-      '<p class="pitch-lead">Everything on this site was generated from plain text files. Not Word. Not SharePoint. Simple, editable text that produces a searchable, cross&#8209;referenced, mobile&#8209;friendly website automatically.</p>' +
-      '<p class="pitch-lead">Close this box and try it. Select a sector, browse a section, tap a highlighted term for its definition. Then come back and consider: <strong>what does it cost us to keep doing this in Word?</strong></p>' +
+      '<p class="pitch-lead">Everything on this site was generated from plain text files. Not Word, not SharePoint. Simple, editable text that automatically produces the searchable, cross&#8209;referenced, mobile&#8209;friendly website you are looking at right now.</p>' +
+      '<p class="pitch-lead">Close this box and try it for yourself. Select a sector, browse a section, tap a highlighted term for its definition. Then ask yourself: <strong>what does it cost us to keep doing this in Word?</strong></p>' +
 
-      // — Section 2: The problem
+      // — The problem
       '<div class="pitch-section">' +
-        '<h3 class="pitch-subheading">The problem we all recognise</h3>' +
+        '<h3 class="pitch-subheading">Where we are today</h3>' +
         '<div class="pitch-problem-list">' +
-          '<p>The handbook is a 200+ page Word document so old and fragile that a simple edit can take half an hour. Collaborative editing is painful. Tracking who changed what is possible but manual, and getting to the current version is an ordeal in itself. Policy staff spend time fighting formatting instead of writing policy.</p>' +
-          '<p>For the people who actually need to read it, the experience is worse. Twenty separate PDFs on a website, ctrl+F to find what you need, no links between sections, no way to know if what you are reading is current. Comms manually converts the docx for publication. The document sits on SharePoint, but it is not a living resource. It is a file.</p>' +
+          '<p>The handbook is a 200+ page Word document. It is so large and fragile that a straightforward edit can take half an hour. Collaborative editing is painful. Tracking changes is possible but manual, and confirming the current version is an ordeal. Policy staff spend their time fighting formatting instead of writing policy.</p>' +
+          '<p>For the people who need to read it, the experience is harder still. Twenty separate PDFs on a website. No links between sections. No way to tell whether what you are reading is current. Comms manually converts the docx for publication each time. The document sits on SharePoint, but it is not a living resource. It is a file.</p>' +
         '</div>' +
       '</div>' +
 
-      // — Section 3: What you're looking at
+      // — What this changes
       '<div class="pitch-section">' +
-        '<h3 class="pitch-subheading">What this site demonstrates</h3>' +
+        '<h3 class="pitch-subheading">What changes with this approach</h3>' +
         '<div class="pitch-grid">' +
           '<div class="pitch-item">' +
             '<strong>&#128196; One source of truth</strong>' +
-            '<p>One file per section instead of one enormous document. Each section is small, fast to open, and simple to edit. The handbook stops being a monolith.</p>' +
+            '<p>One file per section instead of one enormous document. Each section is small, fast to open, and simple to edit independently.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
-            '<strong>&#9999;&#65039; Policy writes, formatting is handled</strong>' +
-            '<p>Policy staff write content and nothing else. Formatting, layout, glossary tooltips, cross&#8209;references, and legislation links are all generated automatically. Comms controls the look and feel once, at the top level, for every document.</p>' +
+            '<strong>&#9999;&#65039; Content separated from formatting</strong>' +
+            '<p>Policy staff write content. Formatting, layout, glossary tooltips, cross&#8209;references, and legislation links are generated automatically. Comms controls the look and feel once, at the top level, across every document.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
-            '<strong>&#128269; Searchable and linked</strong>' +
-            '<p>One website instead of twenty PDFs. Full&#8209;text search across every section. Terms link to definitions. Sections cross&#8209;reference each other. Legislation links to the official source. The handbook becomes a tool people actually use.</p>' +
+            '<strong>&#128269; Searchable, linked, and usable</strong>' +
+            '<p>One website instead of twenty PDFs. Full&#8209;text search across every section. Terms link to definitions. Sections cross&#8209;reference each other. Legislation links to the official source.</p>' +
           '</div>' +
           '<div class="pitch-item">' +
             '<strong>&#128241; Always current, any device</strong>' +
-            '<p>Staff read the handbook on whatever device they have. No downloading, no guessing whether the PDF is the latest version. An edit is published the moment it is saved.</p>' +
+            '<p>Staff read it on whatever device they have. No downloading, no guessing versions. An edit is live the moment it is saved.</p>' +
           '</div>' +
         '</div>' +
       '</div>' +
 
-      // — Section 4: What else opens up
+      // — What else opens up
       '<div class="pitch-teaser">' +
-        '<h3 class="pitch-subheading">And this is just a starting point</h3>' +
-        '<p class="pitch-teaser-lead">Once documents live as structured text, capabilities that are impossible in Word become straightforward.</p>' +
+        '<h3 class="pitch-subheading">What else this makes possible</h3>' +
+        '<p class="pitch-teaser-lead">Once documents are structured text rather than formatted files, things that are currently impractical become straightforward.</p>' +
         '<div class="pitch-teaser-grid">' +
           '<div class="pitch-teaser-item">' +
             '<strong>&#128269; Side&#8209;by&#8209;side version comparison</strong>' +
-            '<p>See exactly what changed between any two versions, word by word, highlighted in colour. Every edit attributed to a person. A complete audit trail regulators can inspect on demand.</p>' +
+            '<p>See exactly what changed between any two versions, word by word, highlighted in colour. Every edit attributed to a person, giving regulators a complete audit trail on demand.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
             '<strong>&#128214; Every format from one source</strong>' +
-            '<p>The same text file can produce a website, a print&#8209;ready PDF, or a Word document for external parties. Policy updates once and every output updates with it. No manual reformatting, no divergence between versions.</p>' +
+            '<p>The same source file produces a website, a print&#8209;ready PDF, or a Word document for external parties. Policy updates once and every output stays in sync. No manual reformatting.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
             '<strong>&#129302; AI that knows your policies</strong>' +
-            '<p>Structured text is the ideal input for AI. A chatbot where staff ask "what are my CDD obligations for a high&#8209;risk customer?" and get an accurate, sourced answer from your own documents. Not a generic internet search.</p>' +
+            '<p>Structured text is the ideal input for AI. Staff could ask "what are my CDD obligations for a high&#8209;risk customer?" and get an accurate, sourced answer drawn directly from your own documents.</p>' +
           '</div>' +
           '<div class="pitch-teaser-item">' +
-            '<strong>&#128276; Targeted change alerts</strong>' +
-            '<p>When a section is updated, the people affected are notified by role, team, or topic. Not an all&#8209;staff email hoping someone reads the attachment.</p>' +
+            '<strong>&#128276; Targeted change notifications</strong>' +
+            '<p>When a section is updated, the people affected are notified by role, team, or topic. No more relying on all&#8209;staff emails and hoping someone reads the attachment.</p>' +
           '</div>' +
         '</div>' +
       '</div>' +
 
-      // — Section 5: The bottom line
+      // — The bottom line
       '<div class="pitch-bottom">' +
         '<h3 class="pitch-subheading">Can we actually do this?</h3>' +
-        '<p>Yes. Today. This site is a collection of plain text files and one small configuration file. There is no custom software, no database, no web developer on retainer. The tools that build it are free, stable, open&#8209;source packages used by thousands of organisations worldwide.</p>' +
-        '<p>To update content, someone edits a text file in a familiar editor and saves it. The site rebuilds. The workflow runs entirely on infrastructure and skills the organisation already has.</p>' +
-        '<p class="pitch-closing"><strong>This is not a prototype. It is working software, built with capability we already own, ready to scale across any document we manage.</strong></p>' +
+        '<p>Yes, and not as a future project. This site is a collection of plain text files and one small configuration file. There is no custom software to maintain, no database, and no web developer on retainer. The tools that build it are free, stable, open&#8209;source packages already used by thousands of organisations worldwide.</p>' +
+        '<p>To update content, someone opens a text file in a familiar editor, makes their changes, and saves. The site rebuilds itself. The entire workflow runs on infrastructure and skills the organisation already has.</p>' +
+        '<p class="pitch-closing"><strong>This is not a prototype. It is working software, built with capability we already own, ready to scale to any document we manage.</strong></p>' +
       '</div>' +
     '</div>';
 
