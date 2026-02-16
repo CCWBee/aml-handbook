@@ -536,11 +536,34 @@ html {
 .pitch-lead {
   font-size: 0.88rem;
   line-height: 1.5;
-  margin: 0 0 1.4rem 0;
+  margin: 0 0 0.6rem 0;
   color: #505050;
 }
 
+.pitch-lead:last-of-type {
+  margin-bottom: 1.2rem;
+}
+
 [data-md-color-scheme="slate"] .pitch-lead {
+  color: #aaa;
+}
+
+.pitch-section {
+  margin-bottom: 1.4rem;
+}
+
+.pitch-problem-list p {
+  font-size: 0.84rem;
+  line-height: 1.5;
+  margin: 0 0 0.5rem 0;
+  color: #505050;
+}
+
+.pitch-problem-list p:last-child {
+  margin-bottom: 0;
+}
+
+[data-md-color-scheme="slate"] .pitch-problem-list p {
   color: #aaa;
 }
 
@@ -616,6 +639,38 @@ html {
 
 [data-md-color-scheme="slate"] .pitch-footer p {
   color: #aaa;
+}
+
+.pitch-bottom {
+  border-top: 1px solid #d2d2d2;
+  padding-top: 1.2rem;
+  margin-top: 1.4rem;
+}
+
+[data-md-color-scheme="slate"] .pitch-bottom {
+  border-top-color: #404040;
+}
+
+.pitch-bottom p {
+  font-size: 0.84rem;
+  line-height: 1.5;
+  margin: 0 0 0.6rem 0;
+  color: #505050;
+}
+
+[data-md-color-scheme="slate"] .pitch-bottom p {
+  color: #aaa;
+}
+
+.pitch-closing {
+  font-size: 0.88rem !important;
+  color: #0b0c0c !important;
+  margin-top: 0.8rem !important;
+  margin-bottom: 0 !important;
+}
+
+[data-md-color-scheme="slate"] .pitch-closing {
+  color: #e4e4e4 !important;
 }
 
 .pitch-teaser {

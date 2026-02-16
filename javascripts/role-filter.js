@@ -35,7 +35,7 @@
   };
 
   var STORAGE_KEY = "jfsc-handbook-role";
-  var CHOSEN_KEY = "jfsc-handbook-chosen"; // tracks explicit card click
+  var cardClickedThisVisit = false; // resets every page load
 
   function getRole() {
     try {
@@ -45,21 +45,13 @@
     }
   }
 
-  function hasExplicitChoice() {
-    try {
-      return localStorage.getItem(CHOSEN_KEY) === "1";
-    } catch (e) {
-      return false;
-    }
-  }
-
   function setRole(role) {
     try {
       localStorage.setItem(STORAGE_KEY, role);
-      localStorage.setItem(CHOSEN_KEY, "1");
     } catch (e) {
       // localStorage not available
     }
+    cardClickedThisVisit = true;
   }
 
   /**
@@ -225,10 +217,9 @@
    */
   function updateCards(role) {
     var cards = document.querySelectorAll(".role-card");
-    var chosen = hasExplicitChoice();
     cards.forEach(function (card) {
       var cardRole = card.getAttribute("data-role");
-      if (chosen && cardRole === role) {
+      if (cardClickedThisVisit && cardRole === role) {
         card.classList.add("active");
       } else {
         card.classList.remove("active");
@@ -243,7 +234,7 @@
     var btn = document.querySelector(".start-reading-btn");
     if (!btn) return;
 
-    if (hasExplicitChoice()) {
+    if (cardClickedThisVisit) {
       btn.classList.remove("btn-disabled");
       btn.removeAttribute("aria-disabled");
       btn.style.pointerEvents = "";
