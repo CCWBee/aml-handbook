@@ -63,8 +63,14 @@ def parse_glossary_markdown(md: str) -> list[tuple[str, str]]:
         if not term or re.match(r'^[\W_]+$', term):
             continue
 
-        # Skip entries where definition is too short (< 10 chars) or starts with ›
-        if len(defn) < 10 or defn.startswith('›'):
+        # Skip entries where definition is too short (< 15 chars) or starts with ›
+        if len(defn) < 15 or defn.startswith('›'):
+            continue
+
+        # Skip overly generic single-word terms that cause false tooltip matches
+        BLOCKED_TERMS = {'financing', 'terrorist', 'terrorism', 'person', 'business',
+                         'order', 'law', 'risk', 'fund', 'service', 'trust'}
+        if term.lower() in BLOCKED_TERMS:
             continue
 
         entries.append((term, defn))

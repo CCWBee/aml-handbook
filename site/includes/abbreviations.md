@@ -64,7 +64,6 @@
 *[financial group(s)]: A collection of persons who are members of the same group, each person fulfilling the conditions set out in Article 1(5) of the Money Laundering Order .
 *[Financial Institution(s)]: As defined in the FATF glossary. Refers to activities/operations specified in Part 2 of Schedule 2 to the Proceeds of Crime Law .
 *[financial services business(es)]: Has the meaning in Article 36 of the Proceeds of Crime Law.
-*[financing]: terrorism.
 *[financing of proliferation or proliferation financing]: For the purposes of this Handbook , this term means: Conduct which creates the risk of non-implementation, breaching, circumvention, or evasion of the Targeted financial sanctions related to prolif...
 *[financing of terrorism or terrorist financing]: • Conduct which is an offence under any provision of Articles 15, 16 and 16A of the Terrorism (Jersey) Law 2002 [the Terrorism Law]; • Conduct outside Jersey which, if occurring in Jersey, would be...
 *[FIU]: The Financial Intelligence Unit for Jersey as designated by the regulations made under 41B of the Proceeds of Crime (Jersey) Law 1999
@@ -164,7 +163,6 @@
 *[TCSP or trust and company service provider]: As defined in the FATF glossary and refers to activities/operations specified in paragraph 23 of Part 3 of Schedule 2 to the Proceeds of Crime Law .
 *[Terrorism and related terms]: Persons providing, by way of business, the service set out at paragraph 22(3)(b) of Part 3 of Schedule 2 to the Proceeds of Crime Law . ' Terrorism ', ' act of terrorism' and ' terrorist entity ' a...
 *[Terrorism Law]: described on the JFSC's website. Terrorism (Jersey) Law 2002.
-*[terrorist]: Refer to the definition of financing of
 *[TF Recruitment]: Active and passive processes through which terrorists, terrorist cells and terrorist organisations seek to enlist operational personnel, facilitated by a recruiter.
 *[TFS]: The term 'targeted financial sanctions' means both asset freezing and prohibitions to prevent funds or other assets from being made available, directly or indirectly, for the benefit of designated ...
 *[Third party identification requirements]: Has the meaning given at Article 17 of the Money Laundering Order .
