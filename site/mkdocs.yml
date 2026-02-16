@@ -1,0 +1,96 @@
+site_name: JFSC AML/CFT/CPF Handbook
+site_description: Interactive web version of the JFSC AML/CFT/CPF Handbook for Jersey
+site_url: ""
+docs_dir: docs
+site_dir: ../build
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+    - toc.integrate
+  icon:
+    logo: material/shield-check
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.betterem
+
+extra_css:
+  - stylesheets/handbook.css
+
+extra_javascript:
+  - javascripts/role-filter.js
+
+nav:
+  - Home: index.md
+  - Handbook:
+    - "1. Introduction": sections/01-introduction.md
+    - "2. Corporate Governance": sections/02-corporate-governance.md
+    - "3. Identification Measures - Overview": sections/03-identification-overview.md
+    - "4. Identification Measures": sections/04-identification-measures.md
+    - "5. Reliance on Obliged Persons": sections/05-reliance-obliged-persons.md
+    - "6. Ongoing Monitoring": sections/06-ongoing-monitoring.md
+    - "7. Enhanced and Simplified CDD": sections/07-enhanced-simplified-cdd.md
+    - "8. Reporting Obligations": sections/08-reporting-obligations.md
+    - "9. Screening, Awareness and Training": sections/09-screening-awareness-training.md
+    - "10. Record Keeping": sections/10-record-keeping.md
+    - "11. Wire Transfers": sections/11-wire-transfers.md
+    - "12. Trust Company Business": sections/12-trust-company.md
+    - "13. Fund and Security Services": sections/13-fund-services.md
+    - "14. Estate Agents and HVDs": sections/14-estate-agents-hvd.md
+    - "15. Lawyers": sections/15-lawyers.md
+    - "16. Accountants": sections/16-accountants.md
+    - "17. Prescribed NPOs": sections/17-prescribed-npos.md
+    - "18. AML Service Providers": sections/18-aml-providers.md
+  - Appendices:
+    - "Appendix B - Equivalent Countries": appendices/appendix-b.md
+  - Glossary: glossary.md

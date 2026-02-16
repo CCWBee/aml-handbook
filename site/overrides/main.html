@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block site_nav %}
+  {{ super() }}
+  <script>
+    // Inject role badge at the top of the primary sidebar
+    (function() {
+      function inject() {
+        var sidebar = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+        if (!sidebar || document.getElementById('role-badge')) return;
+        var wrap = document.createElement('div');
+        wrap.style.cssText = 'padding: 0.4rem 0.6rem 0.2rem; display: flex; align-items: center; gap: 0.4rem;';
+        wrap.innerHTML = '<span style="font-size: 0.72rem; color: var(--md-default-fg-color--light);">Viewing as:</span>'
+          + '<a class="role-badge" id="role-badge" title="Click to change sector filter">All Sectors</a>';
+        sidebar.insertBefore(wrap, sidebar.firstChild);
+      }
+      if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', inject);
+      else inject();
+    })();
+  </script>
+{% endblock %}

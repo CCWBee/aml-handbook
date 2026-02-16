@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Doc Converter</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; min-height: 100vh; display: flex; align-items: start; justify-content: center; padding: 2rem 1rem; }
+  .app { max-width: 900px; width: 100%; }
+  h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+  .subtitle { color: #888; font-size: 0.9rem; margin-bottom: 2rem; }
+  .pipeline { display: flex; gap: 1rem; align-items: start; }
+  .stage { background: #fff; border-radius: 12px; box-shadow: 0 2px 16px rgba(0,0,0,0.08); padding: 1.75rem; flex: 1; }
+  .stage h2 { font-size: 1.1rem; margin-bottom: 0.2rem; }
+  .stage .desc { font-size: 0.8rem; color: #999; margin-bottom: 1.25rem; }
+  .arrow { display: flex; align-items: center; font-size: 1.5rem; color: #bbb; padding-top: 4rem; }
+  .drop-zone { border: 2px dashed #ccc; border-radius: 8px; padding: 2rem 1rem; text-align: center; cursor: pointer; transition: border-color 0.2s, background 0.2s; margin-bottom: 1.25rem; }
+  .drop-zone:hover, .drop-zone.dragover { border-color: #4a90d9; background: #f0f6ff; }
+  .drop-zone p { color: #888; font-size: 0.9rem; }
+  .drop-zone .filename { color: #333; font-weight: 600; margin-top: 0.5rem; }
+  .md-preview { width: 100%; min-height: 200px; max-height: 400px; border: 1px solid #ddd; border-radius: 8px; padding: 0.75rem; font-family: "Cascadia Code", "Fira Code", monospace; font-size: 0.8rem; resize: vertical; margin-bottom: 1.25rem; background: #fafafa; line-height: 1.5; }
+  .md-preview:focus { outline: none; border-color: #4a90d9; background: #fff; }
+  label { display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.4rem; color: #555; }
+  select { width: 100%; padding: 0.55rem 0.75rem; border: 1px solid #ddd; border-radius: 6px; font-size: 0.9rem; background: #fff; margin-bottom: 1.25rem; }
+  button { width: 100%; padding: 0.7rem; border: none; border-radius: 8px; font-size: 0.95rem; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+  button:disabled { background: #aaa !important; cursor: not-allowed; }
+  .btn-ingest { background: #4a90d9; color: #fff; }
+  .btn-ingest:hover:not(:disabled) { background: #3a7bc8; }
+  .btn-output { background: #5cb85c; color: #fff; }
+  .btn-output:hover:not(:disabled) { background: #4cae4c; }
+  .btn-oneshot { background: #888; color: #fff; font-size: 0.8rem; padding: 0.5rem; margin-top: 0.5rem; }
+  .btn-oneshot:hover:not(:disabled) { background: #666; }
+  .status { font-size: 0.85rem; text-align: center; min-height: 1.4em; margin-top: 0.75rem; }
+  .status.error { color: #d9534f; }
+  .status.ok { color: #5cb85c; }
+  .engine-badge { display: inline-block; font-size: 0.75rem; background: #eee; color: #666; padding: 0.15rem 0.5rem; border-radius: 4px; margin-top: 0.5rem; }
+  @media (max-width: 700px) { .pipeline { flex-direction: column; } .arrow { display: none; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <h1>Doc Converter</h1>
+  <p class="subtitle">Two-stage pipeline: Ingest any file to Markdown, then export Markdown to any format.</p>
+
+  <div class="pipeline">
+    <!-- STAGE 1: INGEST -->
+    <div class="stage">
+      <h2>1. Ingest</h2>
+      <p class="desc">Any file &rarr; Markdown (Docling for PDFs/images/Office, Pandoc for text formats)</p>
+
+      <div class="drop-zone" id="dropZone">
+        <p>Drop a file here or click to browse</p>
+        <input type="file" id="fileInput" hidden>
+      </div>
+
+      <button class="btn-ingest" id="ingestBtn" disabled>Ingest to Markdown</button>
+      <div class="status" id="ingestStatus"></div>
+    </div>
+
+    <div class="arrow">&rarr;</div>
+
+    <!-- STAGE 2: OUTPUT -->
+    <div class="stage">
+      <h2>2. Export</h2>
+      <p class="desc">Edit the Markdown if needed, then convert to your desired output format.</p>
+
+      <textarea class="md-preview" id="mdPreview" placeholder="Markdown will appear here after ingestion... or paste your own."></textarea>
+
+      <label>Output format</label>
+      <select id="outputFormat">
+        <option value="markdown">Markdown (.md)</option>
+        <option value="html">HTML</option>
+        <option value="docx">Word (.docx)</option>
+        <option value="pdf">PDF</option>
+        <option value="plain">Plain text</option>
+        <option value="latex">LaTeX</option>
+        <option value="rst">reStructuredText</option>
+        <option value="epub">ePub</option>
+      </select>
+
+      <button class="btn-output" id="outputBtn">Export</button>
+      <div class="status" id="outputStatus"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const dropZone = document.getElementById('dropZone');
+const fileInput = document.getElementById('fileInput');
+const ingestBtn = document.getElementById('ingestBtn');
+const ingestStatus = document.getElementById('ingestStatus');
+const mdPreview = document.getElementById('mdPreview');
+const outputBtn = document.getElementById('outputBtn');
+const outputStatus = document.getElementById('outputStatus');
+let selectedFile = null;
+let originalFilename = 'document';
+
+// --- Drop zone ---
+dropZone.addEventListener('click', () => fileInput.click());
+dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+dropZone.addEventListener('drop', e => {
+  e.preventDefault();
+  dropZone.classList.remove('dragover');
+  if (e.dataTransfer.files.length) setFile(e.dataTransfer.files[0]);
+});
+fileInput.addEventListener('change', () => { if (fileInput.files.length) setFile(fileInput.files[0]); });
+
+function setFile(file) {
+  selectedFile = file;
+  originalFilename = file.name.replace(/\.[^.]+$/, '');
+  dropZone.innerHTML = `<p>Selected:</p><p class="filename">${file.name}</p><p style="color:#999;font-size:0.85rem">${(file.size / 1024).toFixed(1)} KB &mdash; click to change</p>`;
+  ingestBtn.disabled = false;
+  ingestStatus.textContent = '';
+}
+
+// --- Stage 1: Ingest ---
+ingestBtn.addEventListener('click', async () => {
+  if (!selectedFile) return;
+  ingestBtn.disabled = true;
+  ingestStatus.textContent = 'Ingesting...';
+  ingestStatus.className = 'status';
+
+  const form = new FormData();
+  form.append('file', selectedFile);
+
+  try {
+    const res = await fetch('/ingest', { method: 'POST', body: form });
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.detail || 'Ingest failed');
+    }
+    const engine = res.headers.get('X-Ingest-Engine') || '?';
+    const md = await res.text();
+    mdPreview.value = md;
+
+    ingestStatus.innerHTML = `Done <span class="engine-badge">via ${engine}</span>`;
+    ingestStatus.className = 'status ok';
+  } catch (e) {
+    ingestStatus.textContent = e.message;
+    ingestStatus.className = 'status error';
+  }
+  ingestBtn.disabled = false;
+});
+
+// --- Stage 2: Export ---
+outputBtn.addEventListener('click', async () => {
+  const md = mdPreview.value.trim();
+  if (!md) { outputStatus.textContent = 'No markdown to export'; outputStatus.className = 'status error'; return; }
+
+  outputBtn.disabled = true;
+  outputStatus.textContent = 'Converting...';
+  outputStatus.className = 'status';
+
+  const form = new FormData();
+  form.append('markdown', md);
+  form.append('output_format', document.getElementById('outputFormat').value);
+  form.append('filename', originalFilename);
+
+  try {
+    const res = await fetch('/output', { method: 'POST', body: form });
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.detail || 'Export failed');
+    }
+    const blob = await res.blob();
+    const disposition = res.headers.get('Content-Disposition') || '';
+    const match = disposition.match(/filename="?(.+?)"?$/);
+    const filename = match ? match[1] : 'converted';
+
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(a.href);
+
+    outputStatus.textContent = 'Downloaded!';
+    outputStatus.className = 'status ok';
+  } catch (e) {
+    outputStatus.textContent = e.message;
+    outputStatus.className = 'status error';
+  }
+  outputBtn.disabled = false;
+});
+</script>
+</body>
+</html>

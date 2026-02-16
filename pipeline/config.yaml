@@ -1,0 +1,183 @@
+# JFSC AML/CFT/CPF Handbook Pipeline Configuration
+
+base_url: "https://www.jerseyfsc.org"
+
+# Section metadata with actual JFSC PDF paths
+sections:
+  1:
+    title: "Introduction"
+    slug: "01-introduction"
+    roles: [all]
+    pdf_path: "/media/7456/section-1-clean-20240322.pdf"
+  2:
+    title: "Corporate Governance"
+    slug: "02-corporate-governance"
+    roles: [all]
+    pdf_path: "/media/obqpswku/section-2-clean-060126.pdf"
+  3:
+    title: "Identification Measures - Overview"
+    slug: "03-identification-overview"
+    roles: [all]
+    pdf_path: "/media/3u4nee1o/section-3-clean-060126.pdf"
+  4:
+    title: "Identification Measures"
+    slug: "04-identification-measures"
+    roles: [all]
+    pdf_path: "/media/7126/section-4-clean-131023.pdf"
+  5:
+    title: "Identification Measures - Reliance on Obliged Persons"
+    slug: "05-reliance-obliged-persons"
+    roles: [all]
+    pdf_path: "/media/7636/section-5-clean-20240613.pdf"
+  6:
+    title: "Ongoing Monitoring"
+    slug: "06-ongoing-monitoring"
+    roles: [all]
+    pdf_path: "/media/7052/handbook-section-6-clean-22-sept-2023.pdf"
+  7:
+    title: "Enhanced and Simplified CDD Measures"
+    slug: "07-enhanced-simplified-cdd"
+    roles: [all]
+    pdf_path: "/media/7289/section-7-clean-160124.pdf"
+  8:
+    title: "Reporting Money Laundering and Financing Obligations"
+    slug: "08-reporting-obligations"
+    roles: [all]
+    pdf_path: "/media/wslgyk4t/section-8-clean-22012026.pdf"
+  9:
+    title: "Screening, Awareness and Training"
+    slug: "09-screening-awareness-training"
+    roles: [all]
+    pdf_path: "/media/sflaylvb/section-9-clean-060126.pdf"
+  10:
+    title: "Record Keeping"
+    slug: "10-record-keeping"
+    roles: [all]
+    pdf_path: "/media/7425/section-10-clean-270224.pdf"
+  11:
+    title: "Wire Transfers"
+    slug: "11-wire-transfers"
+    roles: [all]
+    pdf_path: "/media/7026/handbook-section-11-clean.pdf"
+  12:
+    title: "Trust Company Business"
+    slug: "12-trust-company"
+    roles: [tcsp]
+    pdf_path: "/media/7027/handbook-section-12-clean.pdf"
+  13:
+    title: "Fund and Security Services Activities"
+    slug: "13-fund-services"
+    roles: [fund-services]
+    pdf_path: "/media/7595/section-13.pdf"
+  14:
+    title: "Estate Agents and High Value Dealers"
+    slug: "14-estate-agents-hvd"
+    roles: [estate-agents, high-value-dealers]
+    pdf_path: "/media/7029/handbook-section-14-clean.pdf"
+  15:
+    title: "Lawyers"
+    slug: "15-lawyers"
+    roles: [lawyers]
+    pdf_path: "/media/7030/handbook-section-15-clean.pdf"
+  16:
+    title: "Accountants"
+    slug: "16-accountants"
+    roles: [accountants]
+    pdf_path: "/media/7031/handbook-section-16-clean.pdf"
+  17:
+    title: "Prescribed Non-Profit Organisations"
+    slug: "17-prescribed-npos"
+    roles: [npos]
+    pdf_path: "/media/7458/section-17-clean-20240322.pdf"
+  18:
+    title: "AML Service Providers"
+    slug: "18-aml-providers"
+    roles: [aml-providers]
+    pdf_path: "/media/7192/section-18-clean-271123.pdf"
+
+# Extra PDFs (glossary, appendices)
+extras:
+  glossary:
+    title: "Glossary"
+    pdf_path: "/media/4ffdlrkj/glossary-clean-060126.pdf"
+    output: "glossary"
+  appendix_b:
+    title: "Appendix B - Equivalent Countries and Territories"
+    pdf_path: "/media/7708/hb-appendix-b.pdf"
+    output: "appendix-b"
+
+# Colour map: RGB tuples from pdfplumber -> content type
+# Will be calibrated from actual PDFs - these are initial guesses
+colour_map:
+  requirement:
+    - [0.0, 0.0, 0.0]        # Black
+  guidance:
+    - [0.031, 0.49, 0.729]   # JFSC blue (calibrated from Section 1)
+    - [0.0, 0.0, 1.0]        # Pure blue
+    - [0.0, 0.0, 0.502]      # Dark blue
+  example:
+    - [0.502, 0.502, 0.502]  # Grey
+
+# Keyword fallback patterns
+keyword_patterns:
+  requirement:
+    - "\\bmust\\b"
+    - "\\bshall\\b"
+    - "\\brequired to\\b"
+    - "\\bmandatory\\b"
+  guidance:
+    - "\\bshould\\b"
+    - "\\bmay\\b"
+    - "\\brecommended\\b"
+    - "\\bexpected to\\b"
+  example:
+    - "\\bfor example\\b"
+    - "\\bsuch as\\b"
+    - "\\be\\.g\\.\\b"
+
+# Role definitions for filtering UI
+roles:
+  all:
+    label: "All Sectors"
+    description: "Core handbook sections applicable to everyone"
+    icon: "shield"
+  fund-services:
+    label: "Fund Services"
+    description: "Fund and security services businesses"
+    icon: "chart-line"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,13]
+  tcsp:
+    label: "TCSPs"
+    description: "Trust and company service providers"
+    icon: "building"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,12]
+  estate-agents:
+    label: "Estate Agents"
+    description: "Estate agents and property dealers"
+    icon: "home"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,14]
+  high-value-dealers:
+    label: "High Value Dealers"
+    description: "High value goods dealers"
+    icon: "gem"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,14]
+  lawyers:
+    label: "Lawyers"
+    description: "Legal professionals"
+    icon: "gavel"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,15]
+  accountants:
+    label: "Accountants"
+    description: "Accounting professionals"
+    icon: "calculator"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,16]
+  npos:
+    label: "NPOs"
+    description: "Prescribed non-profit organisations"
+    icon: "heart"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,17]
+  aml-providers:
+    label: "AML Providers"
+    description: "AML/CFT service providers"
+    icon: "shield-check"
+    sections: [1,2,3,4,5,6,7,8,9,10,11,18]

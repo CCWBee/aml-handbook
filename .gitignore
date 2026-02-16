@@ -1,0 +1,8 @@
+pipeline/pdfs/
+pipeline/raw/
+build/
+site/site/
+__pycache__/
+*.pyc
+.env
+converter/__pycache__/

@@ -1,0 +1,408 @@
+/* JFSC Handbook — GOV.UK-inspired styles */
+
+/* ===== GOV.UK Colour Palette ===== */
+:root {
+  --md-primary-fg-color: #1d70b8;
+  --md-primary-fg-color--light: #d2e2f1;
+  --md-primary-fg-color--dark: #003078;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #1d70b8;
+  --md-default-fg-color: #0b0c0c;
+  --md-default-bg-color: #ffffff;
+  --md-typeset-a-color: #1d70b8;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #5694ca;
+  --md-primary-fg-color--light: #1a2a3a;
+  --md-primary-fg-color--dark: #a1c4e3;
+  --md-accent-fg-color: #5694ca;
+  --md-typeset-a-color: #5694ca;
+}
+
+/* ===== Layout: Wider, Tighter ===== */
+.md-grid {
+  max-width: 80rem;
+}
+
+.md-main__inner {
+  margin-top: 0;
+}
+
+.md-content__inner {
+  margin: 0 0.4rem 0.8rem;
+}
+
+.md-sidebar {
+  padding: 0.8rem 0;
+}
+
+/* Smooth scroll for TOC anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Tighter line-height for body text */
+.md-typeset {
+  line-height: 1.5;
+}
+
+/* ===== Header: Compact ===== */
+.md-header {
+  box-shadow: none;
+}
+
+/* ===== Hide Permalink Anchors Globally ===== */
+.md-typeset .headerlink {
+  display: none !important;
+}
+
+/* ===== Headings ===== */
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+/* ===== Role Grid ===== */
+.role-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.role-card {
+  border: 1px solid #b1b4b6;
+  border-radius: 2px;
+  padding: 0.8rem 1rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease;
+  text-align: center;
+}
+
+.role-card:hover {
+  border-color: var(--md-primary-fg-color);
+}
+
+.role-card.active {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: var(--md-primary-fg-color--light);
+}
+
+.role-card .role-card-title {
+  display: block;
+  font-size: 1.05rem;
+  margin: 0 0 0.4rem 0;
+}
+
+.role-card p:not(.role-card-title) {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ===== Role Confirmation ===== */
+.role-confirmation {
+  background: var(--md-primary-fg-color--light);
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 2px;
+  padding: 0.6rem 1rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.role-confirmation-text {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.role-reset-link {
+  color: var(--md-primary-fg-color);
+  text-decoration: underline;
+}
+
+/* ===== Start Reading Button: GOV.UK green ===== */
+.start-reading-btn {
+  font-size: 1rem !important;
+  padding: 0.65rem 1.8rem !important;
+  background: #00703c !important;
+  color: #fff !important;
+  border-color: #00703c !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.start-reading-btn:hover {
+  background: #005a30 !important;
+  border-color: #005a30 !important;
+}
+
+/* ===== Sector Banner (section pages) ===== */
+.sector-banner {
+  background: #f3f2f1;
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 0.4rem 0.8rem;
+  margin-bottom: 1rem;
+  font-size: 0.82rem;
+  color: #0b0c0c;
+}
+
+.sector-banner a.sector-banner-change {
+  margin-left: 0.5rem;
+  color: var(--md-primary-fg-color);
+  text-decoration: underline;
+}
+
+[data-md-color-scheme="slate"] .sector-banner {
+  background: #2a2a2a;
+  color: #d4d4d4;
+}
+
+/* ===== Role Filter: Hidden nav items ===== */
+.md-nav__item.role-hidden {
+  display: none !important;
+}
+
+/* ===== Role Badge in Header ===== */
+.role-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 2px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: #f3f2f1;
+  color: #0b0c0c !important;
+  border: 1px solid #b1b4b6;
+  cursor: pointer;
+  margin-left: 0.5rem;
+  white-space: nowrap;
+}
+
+.role-badge:hover {
+  background: #e8e6e4;
+}
+
+[data-md-color-scheme="slate"] .role-badge {
+  background: #2a2a2a;
+  color: #d4d4d4 !important;
+  border-color: #505050;
+}
+
+[data-md-color-scheme="slate"] .role-badge:hover {
+  background: #383838;
+}
+
+/* ===== JFSC Admonition Colours ===== */
+/*
+ * JFSC Handbook colour key:
+ *   Statutory Requirements -> Light blue
+ *   AML/CFT/CPF Codes of Practice -> Magenta/Pink
+ *   Guidance -> Green
+ */
+
+:root {
+  --jfsc-statutory-bg: #e3f2fd;
+  --jfsc-statutory-border: #1e88e5;
+  --jfsc-statutory-icon: #1565c0;
+  --jfsc-code-bg: #fce4ec;
+  --jfsc-code-border: #c2185b;
+  --jfsc-code-icon: #ad1457;
+  --jfsc-guidance-bg: #e8f5e9;
+  --jfsc-guidance-border: #43a047;
+  --jfsc-guidance-icon: #2e7d32;
+}
+
+[data-md-color-scheme="slate"] {
+  --jfsc-statutory-bg: #0d47a11a;
+  --jfsc-statutory-border: #42a5f5;
+  --jfsc-statutory-icon: #64b5f6;
+  --jfsc-code-bg: #880e4f1a;
+  --jfsc-code-border: #f06292;
+  --jfsc-code-icon: #f48fb1;
+  --jfsc-guidance-bg: #1b5e201a;
+  --jfsc-guidance-border: #66bb6a;
+  --jfsc-guidance-icon: #81c784;
+}
+
+/* Admonitions: square corners, tight padding */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0;
+}
+
+.md-typeset .admonition > .admonition-title,
+.md-typeset details > summary {
+  padding: 0.4rem 0.8rem 0.4rem 2rem;
+}
+
+.md-typeset .admonition > :last-child,
+.md-typeset details > :last-child {
+  margin-bottom: 0.4rem;
+}
+
+/* Statutory Requirements */
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-color: var(--jfsc-statutory-border);
+  border-left-width: 4px;
+}
+
+.md-typeset .admonition.danger > .admonition-title,
+.md-typeset details.danger > summary {
+  background-color: var(--jfsc-statutory-bg);
+  border-color: var(--jfsc-statutory-border);
+}
+
+.md-typeset .admonition.danger > .admonition-title::before,
+.md-typeset details.danger > summary::before {
+  background-color: var(--jfsc-statutory-icon);
+}
+
+/* Codes of Practice */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: var(--jfsc-code-border);
+  border-left-width: 4px;
+}
+
+.md-typeset .admonition.warning > .admonition-title,
+.md-typeset details.warning > summary {
+  background-color: var(--jfsc-code-bg);
+  border-color: var(--jfsc-code-border);
+}
+
+.md-typeset .admonition.warning > .admonition-title::before,
+.md-typeset details.warning > summary::before {
+  background-color: var(--jfsc-code-icon);
+}
+
+/* Guidance */
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-color: var(--jfsc-guidance-border);
+  border-left-width: 4px;
+}
+
+.md-typeset .admonition.info > .admonition-title,
+.md-typeset details.info > summary {
+  background-color: var(--jfsc-guidance-bg);
+  border-color: var(--jfsc-guidance-border);
+}
+
+.md-typeset .admonition.info > .admonition-title::before,
+.md-typeset details.info > summary::before {
+  background-color: var(--jfsc-guidance-icon);
+}
+
+/* ===== Tables: Full-width, compact ===== */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+  width: 100%;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  padding: 0.4rem 0.5rem;
+}
+
+/* ===== General Buttons: GOV.UK style ===== */
+.md-typeset .md-button--primary {
+  background: #00703c;
+  border-color: #00703c;
+  color: #fff;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.md-typeset .md-button--primary:hover {
+  background: #005a30;
+  border-color: #005a30;
+  color: #fff;
+}
+
+/* ===== Glossary Page ===== */
+.md-typeset dt {
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.md-typeset dd {
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset h2[id] {
+  scroll-margin-top: 4rem;
+}
+
+/* ===== Mobile Responsive ===== */
+@media screen and (max-width: 76.25em) {
+  /* Tablet: 2 columns for role grid */
+  .role-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  /* Phone: single column for role grid */
+  .role-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Tighter content padding */
+  .md-content__inner {
+    margin: 0 0.2rem 0.6rem;
+  }
+
+  /* Sector banner: smaller text */
+  .sector-banner {
+    font-size: 0.75rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  /* Role badge: compact */
+  .role-badge {
+    font-size: 0.65rem;
+    padding: 0.1rem 0.4rem;
+  }
+
+  /* Start reading button: full width */
+  .start-reading-btn {
+    width: 100% !important;
+    text-align: center !important;
+  }
+
+  /* Tables: allow horizontal scroll */
+  .md-typeset__table {
+    overflow-x: auto;
+  }
+}
+
+/* ===== Print Styles ===== */
+@media print {
+  .role-badge,
+  .role-grid,
+  .role-confirmation,
+  .start-reading-btn,
+  .md-header,
+  .md-sidebar,
+  .md-footer {
+    display: none !important;
+  }
+
+  .md-content {
+    margin: 0;
+    padding: 0;
+  }
+
+  .md-typeset .admonition,
+  .md-typeset details {
+    break-inside: avoid;
+  }
+}
