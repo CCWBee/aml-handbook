@@ -384,6 +384,41 @@ html {
   }
 }
 
+/* ===== Touch Tooltips for Abbreviations ===== */
+/* On touch devices, tap an abbreviation to show its definition */
+.abbr-tooltip {
+  position: absolute;
+  background: #0b0c0c;
+  color: #fff;
+  padding: 0.4rem 0.6rem;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  max-width: 280px;
+  z-index: 100;
+  pointer-events: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.abbr-tooltip::before {
+  content: "";
+  position: absolute;
+  top: -6px;
+  left: 1rem;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid #0b0c0c;
+}
+
+[data-md-color-scheme="slate"] .abbr-tooltip {
+  background: #d4d4d4;
+  color: #1a1a1a;
+}
+
+[data-md-color-scheme="slate"] .abbr-tooltip::before {
+  border-bottom-color: #d4d4d4;
+}
+
 /* ===== Print Styles ===== */
 @media print {
   .role-badge,
