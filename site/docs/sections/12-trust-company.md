@@ -19,7 +19,7 @@ tags:
 
 **3.** This section applies where a supervised person carries on a business under Article 2(3) of the FS(J) Law and, in the course of providing those services, the person provides any of the services specified in Article 2(4) of the FS(J) Law.
 
-**4.** This section also applies where a supervised person carries on a business that is described in paragraph 23(1)(b)(i) of Part 3 of Schedule 2 to the Proceeds of Crime Law.
+**4.** This section also applies where a supervised person carries on a business that is described in paragraph 23(1)(b)(i) of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999).
 
 **5.** This section does not deal with the provision of any service to a ' COBO-only fund '. A COBOonly fund is a scheme that would be a collective investment fund (as defined in the CIF(J) Law ) except for the fact that the capital, the collective investment of which is the object or one of the objects of the scheme or arrangement, is not acquired by means of an offer to the public of units for subscription, sale, or exchange.
 
@@ -27,7 +27,7 @@ tags:
 
 TCSPs
 
-**6.** Among other things, Article 13 of the Money Laundering Order requires a supervised person to apply identification measures:
+**6.** Among other things, Article 13 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) requires a supervised person to apply identification measures:
 
 - before the establishment of a business relationship or before carrying out a one-off transaction; and
 - in the course of a business relationship, where the supervised person has doubts about the adequacy of information previously obtained under identification measures.
@@ -44,7 +44,7 @@ TCSPs
 
 TCSPs
 
-**11.** This section must be read in conjunction with and is supplemental to, section 3.3.2 of this Handbook, which explains how a supervised person may demonstrate that it has obtained appropriate information for assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
+**11.** This section must be read in conjunction with and is supplemental to, [section 3.3.2](03-identification-overview.md#332-information-for-assessing-risk-stage-14) of this Handbook, which explains how a supervised person may demonstrate that it has obtained appropriate information for assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
 ## 12.2.2.1. Supervised person providing limited services
 
@@ -92,7 +92,7 @@ That supervised person is unlikely to have any oversight of, or control over, th
 
 TCSPs
 
-**20.** This section must be read in conjunction with and is supplemental to section 3.3.4 of this Handbook, which sets out several factors that are to be taken into account by a supervised person when assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
+**20.** This section must be read in conjunction with and is supplemental to [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook, which sets out several factors that are to be taken into account by a supervised person when assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
 !!! info "Guidance"
 
@@ -115,13 +115,13 @@ TCSPs
 
 **24.** Where a supervised person is to act as the general partner of a limited partnership, customers will include the limited partners of the partnership (see section 12.2.4.4 of this Handbook ).
 
-**25.** Where a supervised person is to provide a non-management service, such as registered office, in respect of a limited partnership, the customer will be the general partner acting for the limited partnership -a third party (see section 4.4.3 of this Handbook ).
+**25.** Where a supervised person is to provide a non-management service, such as registered office, in respect of a limited partnership, the customer will be the general partner acting for the limited partnership -a third party (see [section 4.4.3](04-identification-measures.md#443-finding-out-identity-legal-arrangement-that-is-a-limited-partnership) of this Handbook ).
 
-**26.** Where a supervised person is to provide a service to a company, the customer will be the company (see section 4.5.1 of this Handbook ).
+**26.** Where a supervised person is to provide a service to a company, the customer will be the company (see [section 4.5.1](04-identification-measures.md#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook ).
 
-**27.** Where a supervised person is to provide a service to a foundation, the customer will be the foundation (see section 4.5.3 of this Handbook ).
+**27.** Where a supervised person is to provide a service to a foundation, the customer will be the foundation (see [section 4.5.3](04-identification-measures.md#453-finding-out-identity-legal-person-that-is-a-foundation) of this Handbook ).
 
-**28.** Where a supervised person is to provide a service to a separate limited partnership, incorporated limited partnership or limited liability partnership, the customer will be the partnership (see Section 4.5.5 of this Handbook ).
+**28.** Where a supervised person is to provide a service to a separate limited partnership, incorporated limited partnership or limited liability partnership, the customer will be the partnership (see [Section 4.5.5](04-identification-measures.md#455-finding-out-identity-legal-person-that-is-a-partnership) of this Handbook ).
 
 **29.** Where a supervised person is to form a company, partnership or foundation, the customer will be the persons who are the Beneficial owners and/or controllers of the legal person (see sections 4.3.1 and 4.5 of this Handbook ).
 
@@ -240,7 +240,7 @@ TCSPs
 
 TCSPs
 
-**52.** This section must be read in conjunction with and is supplemental to section 4.8 of this Handbook.
+**52.** This section must be read in conjunction with and is supplemental to [section 4.8](04-identification-measures.md#48-failure-to-complete-identification-measures) of this Handbook.
 
 **53.** Under Article 14 of the Money Laundering Order, if a supervised person is unable to apply identification measures when required to do so, then it must terminate that business relationship or not carry out that one-off transaction and consider whether to make a SAR to the FIU.
 

@@ -12,14 +12,14 @@ tags:
 **1.** One of the most important controls over the prevention and detection of money laundering, the financing of terrorism and the financing of proliferation is to have appropriately screened employees who are:
 
 - alert to money laundering, terrorist financing, and proliferation financing risks; and
-- well trained in the recognition of notable transactions or activity which may indicate money laundering, the financing of terrorism, or the financing of proliferation activity (see section 6 of this Handbook ).
+- well trained in the recognition of notable transactions or activity which may indicate money laundering, the financing of terrorism, or the financing of proliferation activity (see [section 6](06-ongoing-monitoring.md) of this Handbook ).
 
 **2.** The effective application of even the best designed systems and controls (including policies and procedures ) is compromised if Employees lack competence or integrity, or are unaware of, or fail to apply, systems and controls (including policies and procedures ), or if Employees are not adequately trained.
 
 **3.** It is essential that a supervised person takes action to make sure that customer -facing and other Employees are:
 
 - competent and have integrity;
-- aware of policies and procedures and their obligations under the Anti-Money laundering and Counter-Terrorism Legislation and the AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law;
+- aware of policies and procedures and their obligations under the Anti-Money laundering and Counter-Terrorism Legislation and the AML/CFT/CPF Codes of Practice issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx);
 - trained in the recognition of notable transactions or activities (which may indicate money laundering, the financing of terrorism, or the financing of proliferation ) or transactions and activity with enhanced risk states and/or sanctioned persons.
 
 **4.** In particular, customer -facing Employees and those who handle, or are responsible for the handling of, customers and transactions will provide a supervised person with its strongest defence, or its weakest link.
@@ -32,7 +32,7 @@ tags:
 
 !!! danger "Statutory Requirement"
 
-    **7.** Article 11(1)(d) of the Money Laundering Order requires a relevant person to maintain appropriate and consistent policies and procedures relating to screening of employees.
+    **7.** Article 11(1)(d) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) requires a relevant person to maintain appropriate and consistent policies and procedures relating to screening of employees.
 
 
 !!! warning "AML/CFT/CPF Code of Practice"
@@ -61,7 +61,7 @@ tags:
 
 Overview
 
-**11.** The Money Laundering Order requirements concerning both the promotion of awareness and the provision of training apply to Employees whose duties relate to the provision of a supervised business (defined in the Glossary of this Handbook as ' relevant employees '). They do not apply to all Employees of a supervised person. However, money laundering, the financing of terrorism, or the financing of proliferation offences established in the Proceeds of Crime Law, Terrorism Law and other legislation are wider in scope, therefore all Employees will need to have a basic understanding of money laundering, the financing of terrorism, or the financing of proliferation and how they may manifest themselves. All Employees must also know and apply internal reporting procedures and know the identity of the MLRO (and, if applicable, the Deputy MLRO ) and know how to contact them.
+**11.** The Money Laundering Order requirements concerning both the promotion of awareness and the provision of training apply to Employees whose duties relate to the provision of a supervised business (defined in the Glossary of this Handbook as ' relevant employees '). They do not apply to all Employees of a supervised person. However, money laundering, the financing of terrorism, or the financing of proliferation offences established in the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999), Terrorism Law and other legislation are wider in scope, therefore all Employees will need to have a basic understanding of money laundering, the financing of terrorism, or the financing of proliferation and how they may manifest themselves. All Employees must also know and apply internal reporting procedures and know the identity of the MLRO (and, if applicable, the Deputy MLRO ) and know how to contact them.
 
 **12.** Relevant employees will include, among others, relationship managers, accounting and bookkeeping staff, and stockbrokers.
 
@@ -251,6 +251,6 @@ Overview
 
 #### 9.5.7 Monitoring the effectiveness of screening, awareness, and training
 
-**37.** Monitoring and testing the effectiveness of policies and procedures, awareness-raising measures and of training provided is a function of the MLCO, further detail of which is set out at Section 2.6 of this Handbook.
+**37.** Monitoring and testing the effectiveness of policies and procedures, awareness-raising measures and of training provided is a function of the MLCO, further detail of which is set out at [Section 2.6](02-corporate-governance.md#26-the-mlco) of this Handbook.
 
-**38.** Such monitoring and testing should also be considered in the context of the board 's periodic check that systems and controls (including policies and procedures ) are operating effectively, as set out at section 2.4.1 of this Handbook.
+**38.** Such monitoring and testing should also be considered in the context of the board 's periodic check that systems and controls (including policies and procedures ) are operating effectively, as set out at [section 2.4.1](02-corporate-governance.md#241-effectiveness-of-systems-and-controls) of this Handbook.

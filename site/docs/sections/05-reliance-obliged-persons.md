@@ -9,7 +9,7 @@ tags:
 
 # Section 5 - Identification Measures - Reliance on Obliged Persons
 
-**1.** In some strictly limited cases, a supervised person may meet its obligation to comply with Articles 13(1)(a) or (c)(ii) ( CDD ); 15(1)(a), (b), (d), (e) or (g) ( Enhanced CDD measures ); or 15A ( Enhanced CDD Measures in relation to PEPs ) of the Money Laundering Order, and AML/CFT/CPF Codes of Practice by placing reliance on measures that have already been applied by an obliged person to find out the identity of a mutual customer and to obtain evidence of identity.
+**1.** In some strictly limited cases, a supervised person may meet its obligation to comply with Articles 13(1)(a) or (c)(ii) ( CDD ); 15(1)(a), (b), (d), (e) or (g) ( Enhanced CDD measures ); or 15A ( Enhanced CDD Measures in relation to PEPs ) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), and AML/CFT/CPF Codes of Practice by placing reliance on measures that have already been applied by an obliged person to find out the identity of a mutual customer and to obtain evidence of identity.
 
 **2.** To consider what reliance might be placed on an obliged person, a supervised person will first need to determine what elements of identity must be found out and what evidence of identity is to be obtained for its customer. It will do so in accordance with Article 3 of the Money Laundering Order and the AML/CFT/CPF Codes of Practice set out in sections 3, 4 and 7 of this Handbook, and will also consider its risk assessment for the customer. Once it has determined what identification measures it is to apply, a supervised person can then consider whether those measures have already been applied by an obliged person.
 
@@ -17,7 +17,7 @@ tags:
 
 **4.** The effect of this is that the obliged person may not have found out all the same information on identity as the supervised person needs and may have obtained evidence of identity using different documents, data, or information. This means that, in practice, the scope to place reliance may sometimes be quite limited, and that it may be necessary for a supervised person to find out more information on identity and obtain evidence for that aspect of identity itself.
 
-**5.** However, it is not necessary for the obliged person to have found out identity or obtained evidence of identity exactly in line with policies and procedures applied by the supervised person, since Guidance notes in section 4 of this Handbook provide that there are different ways in which to apply identification measures. Also, where the obliged person is outside Jersey, different requirements and guidance will be applicable.
+**5.** However, it is not necessary for the obliged person to have found out identity or obtained evidence of identity exactly in line with policies and procedures applied by the supervised person, since Guidance notes in [section 4](04-identification-measures.md) of this Handbook provide that there are different ways in which to apply identification measures. Also, where the obliged person is outside Jersey, different requirements and guidance will be applicable.
 
 **6.** Where an obliged person meets the requirements outlined in Article 16 of the Money Laundering Order, a supervised person is permitted to place reliance on the obliged person to have found out the identity and to have obtained evidence of the identity of:
 
@@ -35,8 +35,8 @@ tags:
 **9.** Article 16 of the Money Laundering Order cannot be applied in any case where:
 
 - a supervised person suspects money laundering, the financing of terrorism, or proliferation financing;
-- a supervised person considers that there is a higher risk of money laundering, the financing of terrorism, or proliferation financing based on a risk assessment carried out under Article 16(4) of the Money Laundering Order (see section 5.1.1 of this Handbook ); or
-- the obliged person has a relevant connection to an enhanced risk state (see section 7.5 of this Handbook ).
+- a supervised person considers that there is a higher risk of money laundering, the financing of terrorism, or proliferation financing based on a risk assessment carried out under Article 16(4) of the Money Laundering Order (see [section 5.1.1](#511-assessment-of-risk) of this Handbook ); or
+- the obliged person has a relevant connection to an enhanced risk state (see [section 7.5](07-enhanced-simplified-cdd.md#75-customer-with-relevant-connection-to-an-enhanced-risk-state) of this Handbook ).
 
 **10.** Whilst the information on identity found out by the obliged person must be provided to the supervised person immediately before establishing a business relationship or carrying out a one-off transaction, a supervised person is not also required to immediately obtain evidence of identity. Evidence of identity may be held by an obliged person, so long as the supervised person is satisfied that the obliged person will provide the evidence that it holds, on request and without delay. However, it is not uncommon for evidence of identity to be called for at the same time as information on identity is provided by the obliged person.
 
@@ -72,7 +72,7 @@ tags:
 
 **16.** Where information on identity found out, or evidence of that identity, is passed by an obliged person to a supervised person to comply with requirements to counter money laundering and the financing of terrorism, the Data Protection (Jersey) Law 2018 restricts the use of the information to that purpose, except where another condition for processing personal data applies.
 
-**17.** A customer may be an individual (or group of individuals) or legal person. Section 4.3 of this Handbook deals with a customer who is an individual (or group of individuals), section 4.4 of this Handbook deals with a customer (an individual or legal person) who is acting for a legal arrangement, and section 4.5 of this Handbook deals with a customer who is a legal person.
+**17.** A customer may be an individual (or group of individuals) or legal person. [Section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook deals with a customer who is an individual (or group of individuals), [section 4.4](04-identification-measures.md#44-obligation-to-find-out-identity-and-obtain-evidence-legal-arrangements) of this Handbook deals with a customer (an individual or legal person) who is acting for a legal arrangement, and [section 4.5](04-identification-measures.md#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook deals with a customer who is a legal person.
 
 **18.** Under Article 16(1) of the Money Laundering Order, in this s ection ' customer of the obliged person ' means:
 
@@ -87,7 +87,7 @@ tags:
     **19.** In some strictly limited circumstances, Article 16(2) of the Money Laundering Order provides that a relevant person may be considered to have applied the reliance identification measures where such measures have already been applied by an obliged person. Obliged person means a person who the relevant person knows or has reasonable grounds for believing is:
 
     - a relevant person in respect of whom the JFSC discharges supervisory functions that is overseen for AML/CFT compliance in Jersey;
-    - a person who carries on equivalent business (refer to section 1.9 of this Handbook).
+    - a person who carries on equivalent business (refer to [section 1.9](01-introduction.md#19-equivalence-of-requirements-in-other-countries-and-territories) of this Handbook).
 
     **20.** Reliance must always be subject to a number of conditions.
 
@@ -112,7 +112,7 @@ tags:
     **26.** The sixth condition (Article 16(3) of the Money Laundering Order) is that, immediately before placing reliance, the relevant person assesses the risk of placing reliance and makes a written record as to the reason why it is appropriate for it to place reliance on the obliged person, having regard to:
 
     - the higher risk of money laundering or the financing of terrorism should the obliged person fail to carry out any action specified in the assurances obtained under paragraphs 23 and 25 above;
-    - the risk that an obliged person will fail to provide the relevant person with evidence without delay if requested to do so by the relevant person. See section 5.1.1 of this Handbook.
+    - the risk that an obliged person will fail to provide the relevant person with evidence without delay if requested to do so by the relevant person. See [section 5.1.1](#511-assessment-of-risk) of this Handbook.
 
     **27.** Under Article 16(8) of the Money Laundering Order a relevant person who relies on an obliged person under this Article must conduct tests in such manner and at such intervals as the relevant person considers appropriate in all the circumstances to establish whether:
 
@@ -168,7 +168,7 @@ tags:
 
 #### 5.1.1 Assessment of risk
 
-**42.** The risk factors that are set out in this section will also be relevant to a CRA that is conducted under section 3.3.4.1 of this Handbook, in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
+**42.** The risk factors that are set out in this section will also be relevant to a CRA that is conducted under [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook, in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
 
 !!! danger "Statutory Requirement"
 
@@ -198,7 +198,7 @@ tags:
     **48.** Immediately before relying upon an obliged person, a supervised person may demonstrate that it has had regard for the higher risk of money laundering, the financing of terrorism, or the financing of proliferation, and risk that an obliged person will fail to provide the supervised person with evidence of identity without delay if requested to do so, where it considers the following factors:
 
     - the stature and regulatory track record of the obliged person;
-    - the risks posed by the country/territory/area in which the obliged person is based. Factors to consider include those found at section 3.3.4.1 of this Handbook;
+    - the risks posed by the country/territory/area in which the obliged person is based. Factors to consider include those found at [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook;
     - the adequacy of the framework to combat money laundering, the financing of terrorism, or the financing of proliferation in place in the country/territory/area in which the obliged person is based, and the period of time that the framework has been in place;
     - the adequacy of the supervisory regime to combat money laundering, the financing of terrorism, or the financing of proliferation to which the obliged person is subject;
     - the adequacy of identification measures applied by the obliged person to combat money laundering, the financing of terrorism, and the financing of proliferation.

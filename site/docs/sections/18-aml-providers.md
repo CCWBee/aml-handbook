@@ -9,7 +9,7 @@ tags:
 
 # Section 18 - AML Service Providers
 
-**1.** This section applies only to supervised persons who are eligible to appoint an AMLSP in accordance with the Notice issued under Article 9A(4) of the Money Laundering Order ( Article 9A(4) Notice ).
+**1.** This section applies only to supervised persons who are eligible to appoint an AMLSP in accordance with the Notice issued under Article 9A(4) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) ( Article 9A(4) Notice ).
 
 **2.** An individual or organisation which is a supervised person may itself fulfil its own AML/CFT/CPF obligations. Alternatively, it may engage the services of an AMLSP and/or outsource within its group or to a third party (an outsourcing services provider) to assist it in meeting certain AML/CFT/CPF obligations.
 
@@ -95,7 +95,7 @@ tags:
 
     **28.** Where it is deemed appropriate, considering the size and complexity of the AMLSP Direct Customer, the JFSC anticipates the same Employee could hold both AMLSP Direct Customer MLCO and MLRO roles.
 
-    **29.** Evidence to support compliance with the AML/CFT/CPF Codes of Practice at section 18.2.2 of this Handbook is likely to include:
+    **29.** Evidence to support compliance with the AML/CFT/CPF Codes of Practice at [section 18.2.2](#1822-amlsp-responsibilities) of this Handbook is likely to include:
 
     - Documented consideration of AMLSP services, AMLSP Direct Customers, and AMLSP Indirect Customers within an AMLSP 's BRA, AML/CFT/CPF strategy and systems and controls (including policies and procedures );
     - A written agreement for services between an AMLSP and its AMLSP Direct Customer regarding the provision of AMLSP services; and
@@ -134,7 +134,7 @@ tags:
 
 !!! info "Guidance"
 
-    **35.** Section 2.5 of this Handbook provides further information about the role of the MLCO.
+    **35.** [Section 2.5](02-corporate-governance.md#25-risk-questionnaires) of this Handbook provides further information about the role of the MLCO.
 
     **36.** An AMLSP 's MLCO may also be appointed as an AMLSP Direct Customer MLCO.
 
@@ -182,7 +182,7 @@ tags:
 
 !!! info "Guidance"
 
-    **45.** Section 2.6 of this Handbook provides further information about the role of the MLRO.
+    **45.** [Section 2.6](02-corporate-governance.md#26-the-mlco) of this Handbook provides further information about the role of the MLRO.
 
     **46.** An AMLSP 's MLRO (or Deputies, as appropriate) may also be appointed as an AMLSP Direct Customer MLRO.
 
@@ -245,7 +245,7 @@ tags:
 | AMLSP provides a form of BRA, CRA, and policies and procedures (in a similar form to its own) which can be adopted by the AMLSP Direct Customer as its own. | The AMLSP confirms and can demonstrate to the G overning body of the AMLSP Direct Customer that the BRA, CRA, and policies and procedures of the AMLSP address the risks associated with the AMLSP Direct Customer 's business and customers (which includes AMLSP Indirect Customers and third parties for whom the AMLSP Indirect Customers act) as appropriate. For example, the AMLSP CRA of the AMLSP Direct Customer could be used as their BRA. In such instances the Governing body of the AMLSPDirect Customer would not need to adopt a separate BRA, CRA or policies and procedures. |
 | AMLSP assists the AMLSP Direct Customer with the application of CDD measures at the outset of a relationship and on an ongoing basis in accordance with the policies and procedures of the AMLSP Direct Customer (which includes AMLSP Indirect Customers and third parties for whom the AMLSP Indirect Customers act). | AMLSP assists the AMLSP Direct Customer with the application of CDD measures at the outset of a relationship and on an ongoing basis in accordance with the AMLSP 's policies and procedures (which will have been extended to make it clear that the AMLSP must carry out CDD in relation to each customer of the AMLSP Direct Customer and each third party for whom that customer acts). |
 | AMLSP assists the AMLSP Direct Customer with the ongoing monitoring of the AMLSP Direct Customer (which includes AMLSP Indirect Customers and third parties for whom the AMLSP Indirect Customers act). | AMLSP assists the AMLSP Direct Customer with the ongoing monitoring of the AMLSP Direct Customer (which includes AMLSP Indirect Customers and third parties for whom the AMLSP Indirect Customers act). |
-| The AMLSP Direct CustomerMLCO carries out the AML compliance monitoring programme in accordance with the AML compliance monitoring programme of the AMLSP Direct Customer (in line with section 6 of this Handbook ). | The AMLSP carries out its own AML compliance monitoring programme which will include ongoing monitoring in line with section 6 of this Handbook. The AMLSP Direct Customer MLCO, they should have the authority to request adjustment of the monitoring based on risk. |
+| The AMLSP Direct CustomerMLCO carries out the AML compliance monitoring programme in accordance with the AML compliance monitoring programme of the AMLSP Direct Customer (in line with [section 6](06-ongoing-monitoring.md) of this Handbook ). | The AMLSP carries out its own AML compliance monitoring programme which will include ongoing monitoring in line with [section 6](06-ongoing-monitoring.md) of this Handbook. The AMLSP Direct Customer MLCO, they should have the authority to request adjustment of the monitoring based on risk. |
 
 !!! info "Guidance"
 
@@ -262,7 +262,7 @@ tags:
 
     **58.** The Governing body of an AMLSP Direct Customer must approve any new business relationship (and continuation thereof) or one-off transaction where there is a connection to an enhanced risk state.
 
-    **59.** An AMLSP Direct Customer that undergoes mergers, continuance, takeovers, or internal reorganisations, must ensure that records remain readily accessible and retrievable for the required periods in section 10 of this Handbook. This extends to the rationalising of computer systems and storage arrangements.
+    **59.** An AMLSP Direct Customer that undergoes mergers, continuance, takeovers, or internal reorganisations, must ensure that records remain readily accessible and retrievable for the required periods in [section 10](10-record-keeping.md) of this Handbook. This extends to the rationalising of computer systems and storage arrangements.
 
     **60.** Record-keeping arrangements must be agreed with the JFSC where an AMLSP Direct Customer terminates its activities or transfers customers to another person.
 
@@ -271,7 +271,7 @@ tags:
 
     **61.** Reserved activities are activities that only the AMLSP Direct Customer can undertake.
 
-    **62.** Section 10 of this Handbook provides additional information regarding record-keeping arrangements.
+    **62.** [Section 10](10-record-keeping.md) of this Handbook provides additional information regarding record-keeping arrangements.
 
 
 #### 18.3.4 AMLSP Direct Customer is a legal arrangement
@@ -307,5 +307,5 @@ tags:
     - Where the trustees or the general partner provide services to multiple legal arrangements/funds; or
     - Where the complexity, frequency or risks posed by the fund require a more subjective bespoke approach.
 
-    **72.** Section 13 of this Handbook provides additional information regarding funds and fund operators, with section 13.2.4 of this Handbook regarding risk-assessments for SPV governing bodies providing guidance regarding potential approaches to the consolidation of risk assessments for legal arrangements.
+    **72.** [Section 13](13-fund-services.md) of this Handbook provides additional information regarding funds and fund operators, with [section 13.2.4](13-fund-services.md#1324-risk-assessments-for-spv-governing-bodies) of this Handbook regarding risk-assessments for SPV governing bodies providing guidance regarding potential approaches to the consolidation of risk assessments for legal arrangements.
 

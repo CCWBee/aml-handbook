@@ -28,7 +28,7 @@ tags:
 
     **5.** Under the Wire Transfer Regulations, the following definitions apply:
 
-    **6.** 'money or value transfer service provider' (MVTS) means a person who provides a money or value transfer service within the meaning given in paragraph 5 in Part 2 of Schedule 2 of the Proceeds of Crime (Jersey) Law 1999.
+    **6.** 'money or value transfer service provider' (MVTS) means a person who provides a money or value transfer service within the meaning given in paragraph 5 in Part 2 of Schedule 2 of the [Proceeds of Crime (Jersey) Law](https://www.jerseylaw.je/laws/current/l_8_1999) 1999.
 
     **7.** 'payment service provider' (PSP) means a person, being a person registered under the BB(J) Law, or who is a VASP or a MVTS, when:
 
@@ -67,7 +67,7 @@ tags:
 
     **21.** This exemption falls away if either the payer or payee is not a VASP and the payment is high risk for money laundering. As such, PSPs must apply the EU Regulations as adopted into law, as per Article 2 of the Wire Transfer Regulations.
 
-    **22.** The risk factors to be considered are as stated under section 3.3.4.1 of this Handbook, in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
+    **22.** The risk factors to be considered are as stated under [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook, in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
 
     **23.** The JFSC will be issuing a Guidance Note detailing the requirements for proprietary, interentity, Jersey-to-Jersey and inter-group transfers. The Guidance Note will also provide a steer on the suggested approach to the transfer of funds to unregulated VASPs in foreign jurisdictions.
 
@@ -93,7 +93,7 @@ tags:
     - a) that card, instrument or device is used exclusively to pay for goods or services; and
     - b) the number of the card, instrument or device accompanies all transfers flowing from the transaction.
     **29.** By way of derogation, under Article 2(5) the EU Regulation, the Wire Transfer Regulations shall not apply to transfers of funds within the British Islands to a payee's payment account permitting payment exclusively for the provision of goods and services where all the following conditions are met:
-    - a) the PSP of the payee is subject to the requirements of the Money Laundering Order or the Terrorism Law or is subject to equivalent requirements under enactments of the UK, Guernsey or the Isle of Man;
+    - a) the PSP of the payee is subject to the requirements of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) or the Terrorism Law or is subject to equivalent requirements under enactments of the UK, Guernsey or the Isle of Man;
 
     - b) the PSP of the payee is able to trace back, through the payee, by means of a unique transaction identifier, the transfer of funds from the person who has an agreement with the payee for the provision of goods or services;
     - (c) the amount of the transfer of funds does not exceed € 1,000.
@@ -255,7 +255,7 @@ tags:
     - b) consider whether or not the prior PSP in the payment chain's failure to supply the required information gives rise to suspicion; and
     - (c) consider the future treatment of the prior PSP in the payment chain for AML/CFT compliance purposes e.g. rejecting any future transfers of funds from that PSP, or restricting or terminating its business relationship with that PSP.
 
-    **65.** Under Article 9, separate from the decision whether to execute, suspend or reject a transaction, missing or incomplete information must be considered as a factor when assessing whether a transfer of funds, or any related transaction, is suspicious and whether a disclosure is to be made under Article 34D(4) of the Proceeds of Crime Law, Articles 21(2) of the Money Laundering Order or Article 21(4) of the Terrorism Law.
+    **65.** Under Article 9, separate from the decision whether to execute, suspend or reject a transaction, missing or incomplete information must be considered as a factor when assessing whether a transfer of funds, or any related transaction, is suspicious and whether a disclosure is to be made under Article 34D(4) of the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999), Articles 21(2) of the Money Laundering Order or Article 21(4) of the Terrorism Law.
 
 
 !!! info "Guidance"

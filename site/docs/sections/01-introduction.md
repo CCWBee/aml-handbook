@@ -21,13 +21,13 @@ tags:
 
 **4.** For example, criminals may try to exploit the services offered by Lawyers, through the business of undertaking property and financial transactions, setting up corporate and trust structures and when acting as directors or trustees. In addition, client accounts can provide a money launderer with a route into the banking system.
 
-**5.** The result has been that international AML/CFT/CPF legislation and standards have been extended beyond the traditional financial sector to all supervised businesses. This Handbook applies to all supervised persons (throughout this Handbook, where provisions of the Money Laundering Order are quoted, paraphrased, or summarised, the text refers to a relevant person to match the language of the Money Laundering Order ).
+**5.** The result has been that international AML/CFT/CPF legislation and standards have been extended beyond the traditional financial sector to all supervised businesses. This Handbook applies to all supervised persons (throughout this Handbook, where provisions of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) are quoted, paraphrased, or summarised, the text refers to a relevant person to match the language of the Money Laundering Order ).
 
 **6.** Jersey's defences against money laundering, the financing of terrorism, and financing of proliferation rely heavily on the vigilance and co-operation of the finance sector. The Money Laundering Order is therefore also in place covering supervised persons.
 
 **7.** The primary legislation is defined in the Glossary of this Handbook as the Anti-Money Laundering and Counter-Terrorism Legislation.
 
-**8.** The international standards require that all Financial Institutions, DNFBPs and VASPs must be supervised on a risk-based approach by an appropriate AML supervisory body. Within Jersey, the JFSC has been designated as the relevant supervisory body under the Supervisory Bodies Law. The JFSC is the AML/CFT/CPF supervisor for all supervised persons. Ensuring compliance and acting against those that do not comply with the measures to guard against money laundering, the financing of terrorism, and the financing of proliferation, is crucial to the effectiveness of Jersey's preventative regime.
+**8.** The international standards require that all Financial Institutions, DNFBPs and VASPs must be supervised on a risk-based approach by an appropriate AML supervisory body. Within Jersey, the JFSC has been designated as the relevant supervisory body under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx). The JFSC is the AML/CFT/CPF supervisor for all supervised persons. Ensuring compliance and acting against those that do not comply with the measures to guard against money laundering, the financing of terrorism, and the financing of proliferation, is crucial to the effectiveness of Jersey's preventative regime.
 
 **9.** Supervised persons may get a visit from the JFSC to carry out an examination. Further information related to this can be found on the JFSC ' s website. In certain circumstances, the JFSC may also serve a notice on a supervised person which would require, among other things, senior management to attend interviews and to answer questions and/or provide information and documents.
 
@@ -41,7 +41,7 @@ tags:
 
 ### 1.1 Guidelines
 
-**14.** The Handbook applies to supervised persons whose activities and/or operations are within the specified list of activities in Schedule 2 of the Proceeds of Crime Law that are financial services business.
+**14.** The Handbook applies to supervised persons whose activities and/or operations are within the specified list of activities in Schedule 2 of the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) that are financial services business.
 
 **15.** Guidelines, that are published on the JFSC website, provide guidance on interpretation of provisions and expressions relating to the list of activities and operations constituting financial services business including what is meant by 'when conducted as a business'. The Guidelines assist entities in determining whether their activities and operations are within scope of the statutory requirements. Account must also be taken of the FATF Recommendations, particularly where the same expressions are used.
 
@@ -84,7 +84,7 @@ tags:
 
 **24.** Guidance notes present ways of complying with the statutory requirements and AML/CFT/CPF Codes of Practice and must always be read in conjunction with these. A supervised person may adopt other measures to those set out in the Guidance notes, including policies and procedures established by a group that it is part of, so long as it can demonstrate that such measures also achieve compliance with the statutory requirements and AML/CFT/CPF Codes of Practice. This allows a supervised person discretion as to how to apply requirements in the particular circumstances of its business, products, services, transactions, and customers. The soundly reasoned application of the provisions contained within the Guidance notes will provide a good indication that a supervised person is in compliance with the statutory requirements and AML/CFT/CPF Codes of Practice.
 
-**25.** The provisions of the statutory requirements and of the AML/CFT/CPF Codes of Practice are described using the term must, indicating that these requirements are mandatory. However, in exceptional circumstances, where strict adherence to any of the AML/CFT/CPF Codes of Practice would produce an anomalous result, a supervised person may apply in advance in writing to the JFSC for a variance from the requirement. Section 1.8 of this Handbook also explains that an obligation to do something outside Jersey may be met through applying measures that are at least equivalent to the AML/CFT/CPF Codes of Practice.
+**25.** The provisions of the statutory requirements and of the AML/CFT/CPF Codes of Practice are described using the term must, indicating that these requirements are mandatory. However, in exceptional circumstances, where strict adherence to any of the AML/CFT/CPF Codes of Practice would produce an anomalous result, a supervised person may apply in advance in writing to the JFSC for a variance from the requirement. [Section 1.8](#18-risk-based-approach) of this Handbook also explains that an obligation to do something outside Jersey may be met through applying measures that are at least equivalent to the AML/CFT/CPF Codes of Practice.
 
 **26.** In contrast, the Guidance notes use the term may, indicating ways in which the requirements may be satisfied, but allowing for alternative means of meeting the statutory requirements or AML/CFT/CPF Codes of Practice.
 
@@ -100,7 +100,7 @@ tags:
 
 **30.** This Handbook is issued by the JFSC:
 
-- pursuant to its powers under Article 8 of the Commission Law;
+- pursuant to its powers under Article 8 of the [Commission Law](https://www.jerseylaw.je/laws/current/l_11_1998);
 - in accordance with Article 22 of the Supervisory Bodies Law, which provides for Codes of Practice to be prepared and issued for the purpose of setting out principles and detailed requirements;
 - in light of the Proceeds of Crime Law, which provides for the Money Laundering Order;
 - in Article 37 (1) (a) of the Proceeds of Crime Law, the Chief Minister must prescribe measures to be taken (or not to be taken) by persons who carry on financial services business; and
@@ -114,7 +114,7 @@ tags:
 
 **33.** The Money Laundering Order is made by the Minister for External Relations and Financial Services under Article 37(1)(a) of the Proceeds of Crime Law. The Money Laundering Order prescribes measures to be taken (including measures not to be taken) by a relevant person for the purposes of preventing and detecting money laundering, the financing of terrorism and proliferation financing.
 
-**34.** Article 37 (1) (b) of the Proceeds of Crime Law provides, where applicable, for a relevant person to appoint persons or categories of persons for the purpose of fulfilling the obligations of the relevant person (see section 18 of this Handbook ).
+**34.** Article 37 (1) (b) of the Proceeds of Crime Law provides, where applicable, for a relevant person to appoint persons or categories of persons for the purpose of fulfilling the obligations of the relevant person (see [section 18](18-aml-providers.md) of this Handbook ).
 
 **35.** Failure to comply with the Money Laundering Order is a criminal offence under Article 37(4) of the Proceeds of Crime Law. In determining whether a supervised person has complied with any of the requirements of the Money Laundering Order, the Royal Court is, pursuant to Article 37(8) of the Proceeds of Crime Law, required to take account of the AML/CFT/CPF Codes of Practice and Guidance notes issued by the JFSC, as amended from time-to-time.
 
@@ -257,7 +257,7 @@ Note that the term 'registered, incorporated or otherwise established' in Articl
 
     **84.** Where a transaction is likely to become a one-off transaction or develop into a business relationship, the supervised person should consider undertaking identification measures at the outset.
 
-    **85.** Where the supervised person suspects money laundering, the financing of terrorism or proliferation financing whilst undertaking the above, they should refer to Section 8 of this Handbook.
+    **85.** Where the supervised person suspects money laundering, the financing of terrorism or proliferation financing whilst undertaking the above, they should refer to [Section 8](08-reporting-obligations.md) of this Handbook.
 
 
 ### 1.8 Risk-based approach
@@ -302,7 +302,7 @@ Note that the term 'registered, incorporated or otherwise established' in Articl
 
 #### 1.9.2 Equivalent countries and territories
 
-**98.** With effect from 31 May 2021 the JFSC no longer maintains a list of equivalent countries and territories within this Handbook. Guidance to assist supervised persons to determine equivalence is set out in Section 1.9.3 of this Handbook.
+**98.** With effect from 31 May 2021 the JFSC no longer maintains a list of equivalent countries and territories within this Handbook. Guidance to assist supervised persons to determine equivalence is set out in [Section 1.9.3](#193-determining-equivalence) of this Handbook.
 
 **99.** A country or territory may be considered to be equivalent where:
 

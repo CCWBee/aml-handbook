@@ -25,7 +25,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
 **1.** This section replicates the statutory requirements of the Prescribed NPO Order using paraphrased wording.
 
-**2.** Prescribed Non-Profit Organisations ( Prescribed NPOs ) are supervised persons under Article 1 of the Supervisory Bodies Law. They are therefore subject to supervision by the JFSC for compliance with the Prescribed NPO Order.
+**2.** Prescribed Non-Profit Organisations ( Prescribed NPOs ) are supervised persons under Article 1 of the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx). They are therefore subject to supervision by the JFSC for compliance with the Prescribed NPO Order.
 
 **3.** Prescribed NPOs is a sub-section of the non-profit sector which has been identified as being at a heightened risk and vulnerability of being abused for terrorist financing purposes.
 
@@ -87,7 +87,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
 **19.** The offence of terrorist financing is broad in nature and scope. For the purposes of the Handbook, it is defined as:
 
-- Conduct which is an offence under any provision of Articles 15, 16 and 16A of the Terrorism (Jersey) Law 2002 ( the Terrorism Law );
+- Conduct which is an offence under any provision of Articles 15, 16 and 16A of the [Terrorism (Jersey) Law](https://www.jerseylaw.je/laws/current/l_40_2002) 2002 ( the Terrorism Law );
 - Conduct outside Jersey which, if occurring in Jersey, would be an offence under Articles 15, 16 and 16A of the Terrorism Law;
 - Conduct which is an offence under any provision of Article 21 of the Terrorism Law;
 - Conduct which is an offence under any provision of Parts 3, 4 and 6 of the Sanctions and Asset-Freezing Law.
@@ -186,9 +186,9 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
     **39.** A Prescribed NPO may consider that it is able to establish a risk-based approach through methods other than conducting a NPO PRA, and/or risk appetite statement. In these circumstances, the Prescribed NPO is expected to demonstrate how its alternative measures achieve the same outcome as those set out above.
 
-    **40.** Where a Prescribed NPO is receiving services from a CD regulated TCSP, it may be appropriate for the CD regulated TCSP to add the output of the NPO PRA and risk appetite statement to their own BRA (see section 2.3.1 of the Handbook ).
+    **40.** Where a Prescribed NPO is receiving services from a CD regulated TCSP, it may be appropriate for the CD regulated TCSP to add the output of the NPO PRA and risk appetite statement to their own BRA (see [section 2.3.1](02-corporate-governance.md#231-bra) of the Handbook ).
 
-    **41.** A CD regulated TCSP may also consider it appropriate to integrate any periodic testing of the Prescribed NPO 's systems and controls into the testing undertaken for their TCSP business (see section 2.4.2 of the Handbook ).
+    **41.** A CD regulated TCSP may also consider it appropriate to integrate any periodic testing of the Prescribed NPO 's systems and controls into the testing undertaken for their TCSP business (see [section 2.4.2](02-corporate-governance.md#242-testing-of-compliance-with-systems-and-controls) of the Handbook ).
 
 
 ##### 17.3.1.1 Prescribed NPOs solely remitting to charities in equivalent jurisdictions
@@ -491,7 +491,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 **109.** Prescribed NPOs should refer to their NPO PRA and their risk appetite statement (or equivalent documents) and use their judgement to determine how much identity information needs to be obtained in each case to mitigate the risk of Diversion.
 
-**110.** There is no requirement in the Prescribed NPO Order to verify the identity information collected for significant donors. However, in some circumstances, such as when the NPO PRA (or equivalent) produces a higher-risk outcome, the Prescribed NPO may consider it necessary to do so. In these cases, the NPO should utilise robust, independent data sources to confirm the significant donor is a legitimate person or operation -see the guidance in section 17.4.2 of this Handbook.
+**110.** There is no requirement in the Prescribed NPO Order to verify the identity information collected for significant donors. However, in some circumstances, such as when the NPO PRA (or equivalent) produces a higher-risk outcome, the Prescribed NPO may consider it necessary to do so. In these cases, the NPO should utilise robust, independent data sources to confirm the significant donor is a legitimate person or operation -see the guidance in [section 17.4.2](#1742-associate-npos) of this Handbook.
 
 **111.** Where a Prescribed NPO is receiving services from a CD regulated TCSP and it is considered appropriate to do so, the NPO may choose to apply due diligence measures which are aligned with those set out in sections 3 and 4 of this Handbook.
 
@@ -520,11 +520,11 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
     **117.** Based on the outcome of the NPO PRA and the NPO 's risk appetite statement (or equivalent documents), and where a significant donor is not a natural person, it may be considered necessary to understand the ownership structure of that significant donor and the persons who control it. For example, a Prescribed NPO may consider it necessary where a higher-risk rating is produced. In these situations, Prescribed NPOs should follow the guidance set out in the relevant sections of the Handbook listed below, in respect of identifying beneficial owners and controllers:
 
-    - Trusts -section 4.4.1 of this Handbook;
-    - Limited Partnerships -section 4.4.3 of this Handbook;
-    - Companies -section 4.5.1 of this Handbook;
-    - Foundations -section 4.5.3 of this Handbook;
-    - Partnerships -section 4.5.5 of this Handbook.
+    - Trusts -[section 4.4.1](04-identification-measures.md#441-finding-out-identity-legal-arrangement-that-is-a-trust) of this Handbook;
+    - Limited Partnerships -[section 4.4.3](04-identification-measures.md#443-finding-out-identity-legal-arrangement-that-is-a-limited-partnership) of this Handbook;
+    - Companies -[section 4.5.1](04-identification-measures.md#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook;
+    - Foundations -[section 4.5.3](04-identification-measures.md#453-finding-out-identity-legal-person-that-is-a-foundation) of this Handbook;
+    - Partnerships -[section 4.5.5](04-identification-measures.md#455-finding-out-identity-legal-person-that-is-a-partnership) of this Handbook.
 
     **118.** Where a significant donor makes regular payments to a Prescribed NPO, it is not necessary to obtain identity information every time a donation is received from that donor. In these cases, Prescribed NPOs should seek to reconfirm the donor's identity information at least every two years. The re-confirmation should be undertaken sooner where it is known that there has been a change in the significant donor's information, e.g., a natural person has changed residential address, or the board of a corporate significant donor has changed.
 
@@ -590,7 +590,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 #### 17.5.3 Screening of relevant volunteers, relevant employees and NPO Controllers
 
-**134.** As noted in section 17.5.1 of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
+**134.** As noted in [section 17.5.1](#175-identification-screening-and-training-of-relevant-volunteers-relevant-employees-owners-and-controllers) of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
 
 **135.** For the purposes of this section, the term ' relevant employees ' means an individual who is working under a contract of employment and undertakes one or more of the following as part of their role:
 
@@ -624,7 +624,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
     **142.** A Prescribed NPO may undertake screening in respect of sanctions through several different methods. These should be tailored so they are appropriate to its size and complexity. Examples may include:
 
     - a Prescribed NPO which is receiving services from a CD regulated TCSP might utilise a screening program developed by a professional due diligence firm to which the service provider already has access;
-    - if checks which are substantively the same as those described at paragraph 141 above have recently been carried out by the Prescribed NPO 's service provider in compliance with their requirements at section 9.2 of this Handbook, it is not necessary for the service provider to repeat them;
+    - if checks which are substantively the same as those described at paragraph 141 above have recently been carried out by the Prescribed NPO 's service provider in compliance with their requirements at [section 9.2](09-screening-awareness-training.md#92-screening-of-employees) of this Handbook, it is not necessary for the service provider to repeat them;
     - where a Prescribed NPO is small and individuals participate on a part-time/voluntary basis, the checks may be carried out by a person directly accessing the above-referenced lists and searching for the required names via the 'Find' function of their internet browser.
 
     **143.** In addition to completing the checks listed at paragraph 141 above, a Prescribed NPO may demonstrate that its relevant volunteers and relevant employees are screened where it does one or more of the following, as appropriate for the nature of the relevant volunteer or relevant employee's role and responsibilities, and on a risk-based approach:
@@ -647,7 +647,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 !!! info "Guidance"
 
-    **147.** As noted in section 17.5.1 of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
+    **147.** As noted in [section 17.5.1](#175-identification-screening-and-training-of-relevant-volunteers-relevant-employees-owners-and-controllers) of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
 
     **148.** Where a Prescribed NPO decides to provide training to its relevant volunteers and relevant employees (which should include all NPO Controllers ), such training should cover:
 
@@ -695,11 +695,11 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 ##### 17.5.4.2 Monitoring and maintaining awareness
 
-**156.** As noted in section 17.5.1 of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
+**156.** As noted in [section 17.5.1](#175-identification-screening-and-training-of-relevant-volunteers-relevant-employees-owners-and-controllers) of this Handbook, this section is provided as guidance on best practice. There are no mandatory Code of Practice requirements set out in this section.
 
 **157.** As time passes, the level of awareness of terrorist financing risks can decrease. Having a framework in place to maintain a high level of awareness can keep a Prescribed NPO 's defences against Diversion in good condition.
 
-**158.** Where a Prescribed NPO delivers training to relevant volunteers and relevant employees (see section 17.5.4.1 of this Handbook ), they should monitor and test their relevant volunteers' and relevant employees' (including all NPO Controllers' ) level of awareness of terrorist financing risks.
+**158.** Where a Prescribed NPO delivers training to relevant volunteers and relevant employees (see [section 17.5.4.1](#17541-promoting-awareness-and-providing-training) of this Handbook ), they should monitor and test their relevant volunteers' and relevant employees' (including all NPO Controllers' ) level of awareness of terrorist financing risks.
 
 !!! info "Guidance"
 
@@ -772,7 +772,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 - scanned copies; or
 - computerised/electronic copies.
 
-**176.** Where a Prescribed NPO is receiving services from a CD regulated TCSP it is likely that recordkeeping measures will already in place to meet the requirements of section 10 of this Handbook. Where these measures substantively meet the requirements set out throughout Section 17.7 of this Handbook, it is not necessary for the service provider to duplicate them.
+**176.** Where a Prescribed NPO is receiving services from a CD regulated TCSP it is likely that recordkeeping measures will already in place to meet the requirements of [section 10](10-record-keeping.md) of this Handbook. Where these measures substantively meet the requirements set out throughout [Section 17.7](#177-record-keeping) of this Handbook, it is not necessary for the service provider to duplicate them.
 
 !!! danger "Statutory Requirement"
 
@@ -792,7 +792,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
     - Diversion risk registers;
 
     - or equivalent documents which they have produced.
-    **181.** Where a Prescribed NPO delivers the training described in section 17.5.4 of this Handbook to relevant volunteers and relevant employees, records of said training must be kept for a period of at least five years after the end of the calendar year in which the training was provided. The records must include the following information:
+    **181.** Where a Prescribed NPO delivers the training described in [section 17.5.4](#1754-training-and-awareness-of-relevant-volunteers-relevant-employees-and-npo-controllers) of this Handbook to relevant volunteers and relevant employees, records of said training must be kept for a period of at least five years after the end of the calendar year in which the training was provided. The records must include the following information:
 
     - the dates on which training was provided;
     - the nature of the training provided;
@@ -822,7 +822,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
     **190.** When original documents that would ordinarily have been destroyed are requested for investigation purposes, a Prescribed NPO must ascertain whether the documents have in fact been destroyed.
 
-    **191.** All documents (or parts thereof) held under the requirements of the Prescribed NPO Order and/or the Codes of Practice in section 17.7 of this Handbook must be understandable (i.e., in a language understood by a relevant volunteer or relevant employee of the Prescribed NPO ) and must be translated into English at the request of the JFSC or any other authority which by law has the power to request them.
+    **191.** All documents (or parts thereof) held under the requirements of the Prescribed NPO Order and/or the Codes of Practice in [section 17.7](#177-record-keeping) of this Handbook must be understandable (i.e., in a language understood by a relevant volunteer or relevant employee of the Prescribed NPO ) and must be translated into English at the request of the JFSC or any other authority which by law has the power to request them.
 
 
 #### 17.7.3 External records
@@ -878,7 +878,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
     **201.** Article 39 of the NPO Law states that in its application to NPOs, Article 19 of the Terrorism Law shall have effect as if in Article 19(1)(b) 'employment' included work undertaken on behalf of an NPO on a voluntary or an unpaid basis.
 
-    **202.** If a Prescribed NPO receives services from a CD regulated TCSP - the relevant person (the TCSP) and employees of the relevant person are subject to the obligations to report money laundering under Article 34D(4) of the Proceeds of Crime Law. See Section 8 of the AML/CFT/CPF Handbook.
+    **202.** If a Prescribed NPO receives services from a CD regulated TCSP - the relevant person (the TCSP) and employees of the relevant person are subject to the obligations to report money laundering under Article 34D(4) of the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999). See [Section 8](08-reporting-obligations.md) of the AML/CFT/CPF Handbook.
 
 
 !!! info "Guidance"

@@ -11,13 +11,13 @@ tags:
 
 **1.** This section is supplemental to and should be read in conjunction with the sections of this Handbook referenced in the text below.
 
-**2.** The purpose of this section is to assist with the application of CDD, the conduct of risk assessments and additional AML/CFT/CPF requirements by funds, securities issuers and their service providers. The definition of financial services business in the Proceeds of Crime Law means that:
+**2.** The purpose of this section is to assist with the application of CDD, the conduct of risk assessments and additional AML/CFT/CPF requirements by funds, securities issuers and their service providers. The definition of financial services business in the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) means that:
 
 - (a) regulated and prudentially supervised funds and fund service providers under the CIF(J) Law and the FS(J) Law;
 - (b) funds that are not regulated (such as unregulated funds under the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008 and private funds) and their service providers; and
 - (c) other securities issuers and their service providers,
 
-are subject to the same statutory requirements in the Money Laundering Order. Further guidance is available in sections 3.1, 3.2, 3.3 and 3.12 of the Guidelines.
+are subject to the same statutory requirements in the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Further guidance is available in sections 3.1, 3.2, 3.3 and 3.12 of the Guidelines.
 
 **3.** The types of funds, securities issuers and their service providers to which this section applies are described in the Guidelines. For the purposes of this section references to a fund include all sub funds and constituent parts of the fund
 
@@ -67,7 +67,7 @@ are subject to the same statutory requirements in the Money Laundering Order. Fu
 
 #### 13.2.2 BRA
 
-**15.** This section is supplemental to and should be read in conjunction with section 2.3 of this Handbook regarding BRAs.
+**15.** This section is supplemental to and should be read in conjunction with [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook regarding BRAs.
 
 !!! info "Guidance"
 
@@ -190,7 +190,7 @@ are subject to the same statutory requirements in the Money Laundering Order. Fu
 
 #### 13.2.3 CRA -risk indicators
 
-**29.** This section is supplemental to and should be read in conjunction with section 3.3.4 of this Handbook.
+**29.** This section is supplemental to and should be read in conjunction with [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
 **30.** The lists below provide examples of potential risk indicators and are not exhaustive. The results of any national risk assessment or similar must also be considered. The presence of one or more low or high-risk indicators does not necessarily mean a customer is low or high risk, and their rating needs to be assessed on a case-by-case basis. Risk will be assessed at initial take-on of a customer but will also need to be reviewed on a regular basis and at trigger events, to ensure the risk rating remains appropriate.
 
@@ -262,7 +262,7 @@ Overview
 
 Securities issuers
 
-**38.** This section is supplemental to and should be read in conjunction with section 3 and section 2 of this Handbook.
+**38.** This section is supplemental to and should be read in conjunction with [section 3](03-identification-overview.md) and [section 2](02-corporate-governance.md) of this Handbook.
 
 **39.** Supervised persons are required to ensure their BRAs and CRAs are properly documented.
 
@@ -281,7 +281,7 @@ Securities issuers
 
 ### 13.3 Customer identification measures
 
-**43.** Section 3 of this Handbook describes the stages of the identification process and provides guidance in relation to each stage. CDD is not limited to finding out the identity of the customer and obtaining verification (e.g., taking their personal details and copies of their passport and driving licence). The table below (explained in further detail at section 3.3 of this Handbook ) summarises CDD requirements:
+**43.** [Section 3](03-identification-overview.md) of this Handbook describes the stages of the identification process and provides guidance in relation to each stage. CDD is not limited to finding out the identity of the customer and obtaining verification (e.g., taking their personal details and copies of their passport and driving licence). The table below (explained in further detail at [section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook ) summarises CDD requirements:
 
 **44.** The following sections provide guidance on the identification of customers, ultimate Beneficial owners and third parties. These sections must be read in conjunction with the referenced sections of this Handbook.
 
@@ -299,7 +299,7 @@ Securities issuers
 
 #### 13.3.1 Obligation to apply identification measures
 
-**45.** Section 3.1 of this Handbook states that a customer may be an individual (or a group of individuals) or a legal person. Further guidance on finding out identity and obtaining evidence of identity is provided at the following sections:
+**45.** [Section 3.1](03-identification-overview.md) of this Handbook states that a customer may be an individual (or a group of individuals) or a legal person. Further guidance on finding out identity and obtaining evidence of identity is provided at the following sections:
 
 **46.** For the purposes of this section, companies, limited partnerships, and unit trusts will be used as practical examples as these are the most common security issuer structures.
 
@@ -321,7 +321,7 @@ Legal persons/arrangements apply the Three Tier Test.
 
 To
 
-**48.** The Three Tier Test refers to the process by which a supervised person may determine each individual who is a Beneficial owner and/or controller and is covered in detail at Section 4 of this Handbook. However, it can be summarised as determining the individuals who exercise control through:
+**48.** The Three Tier Test refers to the process by which a supervised person may determine each individual who is a Beneficial owner and/or controller and is covered in detail at [Section 4](04-identification-measures.md) of this Handbook. However, it can be summarised as determining the individuals who exercise control through:
 
 - ownership means and
 - other means; or
@@ -329,7 +329,7 @@ To
 
 When applying the Three Tier Test, if no one is present at Tiers 1 and/or 2, then consider Tier 3. There may be more than one individual at Tiers 1 and/or 2.
 
-**49.** Section 3.3 of this Handbook lists the various steps of the identification process, of which identifying the customer is only a part. A supervised person must also understand the ownership and control of the customer and identify:
+**49.** [Section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook lists the various steps of the identification process, of which identifying the customer is only a part. A supervised person must also understand the ownership and control of the customer and identify:
 
 - any Beneficial owners and/or controllers of the customer;
 - those third parties for whom the customer acts indirectly/directly (e.g., legal arrangements); and
@@ -439,7 +439,7 @@ Securities issuers
 
 **71.** Securities issue rs' structures are often complicated by ultimate Beneficial owners not entering into transactions directly and there may be multiple entities, such as holding companies, trusts, nominees, and intermediaries between the investment in the securities issuer and the individual who is the ultimate Beneficial owner. The more complex the structure, the more difficult it may be to determine the Beneficial owner and/or controller.
 
-**72.** A supervised person's approach to a complex ownership and control structure will be informed by the risk rating allocated to that customer. However, as set out in section 4 of this Handbook, the following are always required to be identified:
+**72.** A supervised person's approach to a complex ownership and control structure will be informed by the risk rating allocated to that customer. However, as set out in [section 4](04-identification-measures.md) of this Handbook, the following are always required to be identified:
 
 - The customer;
 
@@ -457,8 +457,8 @@ Securities issuers
 
 **75.** The fund is obliged to find out the identity of its customer and obtain evidence of identity. This Handbook provides guidance on identification measures to be applied to a legal person that is a company:
 
-- section 4.5.1 - Finding out the identity of a legal person that is a company, and
-- section 4.5.2 - Obtaining evidence of identity of a legal person that is company.
+- [section 4.5.1](04-identification-measures.md#451-finding-out-identity-legal-person-that-is-a-company) - Finding out the identity of a legal person that is a company, and
+- [section 4.5.2](04-identification-measures.md#452-obtaining-evidence-of-identity-legal-person-that-is-a-company) - Obtaining evidence of identity of a legal person that is company.
 
 ## Beneficial Owner and/or controller
 
@@ -474,10 +474,10 @@ Securities issuers
 
 **79.** This Handbook provides guidance for individuals (in this example John Doe):
 
-- section 4.3.1 of this Handbook - Finding out the identity of an individual;
-- section 4.3.2 of this Handbook - Obtaining evidence of identity of an individual.
+- [section 4.3.1](04-identification-measures.md#431-finding-out-identity) of this Handbook - Finding out the identity of an individual;
+- [section 4.3.2](04-identification-measures.md#432-obtaining-evidence-of-identity) of this Handbook - Obtaining evidence of identity of an individual.
 
-**80.** If none of the individuals with ownership interests exercise control, then they may not need to be identified (section 13.2.4 of this Handbook regarding passive investors).
+**80.** If none of the individuals with ownership interests exercise control, then they may not need to be identified ([section 13.2.4](#1324-risk-assessments-for-spv-governing-bodies) of this Handbook regarding passive investors).
 
 ## Multi-layered structure
 
@@ -497,7 +497,7 @@ Securities issuers
 
 !!! info "Guidance"
 
-    **84.** This section is supplemental to and should be read in conjunction with section 7.15 of this Handbook regarding Designated relationships and pooled relationships.
+    **84.** This section is supplemental to and should be read in conjunction with [section 7.15](07-enhanced-simplified-cdd.md) of this Handbook regarding Designated relationships and pooled relationships.
 
     **85.** There may be scenarios where the securities issuer 's customer is representing other parties, for example as a nominee/investment manager. In this scenario the normal obligations apply, and the supervised person still has to identify:
 
@@ -564,7 +564,7 @@ Securities issuers
 
 Securities issuers
 
-**96.** This section is supplemental to and should be read in conjunction with section 4.8 of this Handbook.
+**96.** This section is supplemental to and should be read in conjunction with [section 4.8](04-identification-measures.md#48-failure-to-complete-identification-measures) of this Handbook.
 
 **97.** Under Article 14 of the Money Laundering Order, if a supervised person is unable to apply identification measures when required to do so then it must terminate that relationship and consider whether to make a SAR to the FIU.
 
@@ -586,20 +586,20 @@ Securities issuers
 
 !!! info "Guidance"
 
-    **101.** The BRA will enable a supervised person to establish procedures to undertake reviews of its customers on a risk sensitive basis. In addition to the established pattern of reviews there will be 'trigger events' when it may be appropriate to consider whether the identity information and evidence held on a customer is relevant and up to date. These should include (in addition to those circumstances set out in section 3.4 of this Handbook ):
+    **101.** The BRA will enable a supervised person to establish procedures to undertake reviews of its customers on a risk sensitive basis. In addition to the established pattern of reviews there will be 'trigger events' when it may be appropriate to consider whether the identity information and evidence held on a customer is relevant and up to date. These should include (in addition to those circumstances set out in [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook ):
 
     - receipt of significant additional funds to be invested where the delay between contributions is material (including drawdowns);
     - when distributions are being made;
     - economic merger of two securities issuers which results in the admission of new investors;
 
-    The guidance set out at section 3.5 of this Handbook regarding the taking-on of a new book of business should also be considered, where relevant.
+    The guidance set out at [section 3.5](03-identification-overview.md#35-identification-measures-taking-on-a-book-of-business) of this Handbook regarding the taking-on of a new book of business should also be considered, where relevant.
 
     **102.** It may well be that when a customer's information and evidence of identity is reviewed upon a trigger event, the information and evidence previously obtained is sufficient and no further updated information is needed. This may be the case when, for example, a regularly scheduled review has recently been undertaken and updated information has been received as a result.
 
 
 ### 13.7 On-going monitoring: scrutinising of transactions &amp; activity
 
-**103.** This section is supplemental to and should be read in conjunction with section 6 of this Handbook.
+**103.** This section is supplemental to and should be read in conjunction with [section 6](06-ongoing-monitoring.md) of this Handbook.
 
 !!! info "Guidance"
 
@@ -623,16 +623,16 @@ Securities Is uers
 - document who is doing so and on what basis; and
 - ensure that the risks have been properly assessed, considered, and documented.
 
-| Exemptions from identification measures | › Section 7. |
+| Exemptions from identification measures | › [Section 7](07-enhanced-simplified-cdd.md). |
 |-------------------------------------------|-----------------------------------------------|
-| Reliance on obliged persons | › Section 5. |
-| Outsourcing | › Section 2.4.4. › Section 5.1, paragraph 14. |
+| Reliance on obliged persons | › [Section 5](05-reliance-obliged-persons.md). |
+| Outsourcing | › [Section 2.4.4](02-corporate-governance.md#244-outsourcing). › [Section 5.1](05-reliance-obliged-persons.md), paragraph 14. |
 
 #### 13.8.1 Exemptions from identification measures
 
 Securities Is uers
 
-**110.** This section is supplemental to and should be read in conjunction with section 7 of this Handbook.
+**110.** This section is supplemental to and should be read in conjunction with [section 7](07-enhanced-simplified-cdd.md) of this Handbook.
 
 **111.** An assessment as to whether exemptions from identification measures are appropriate for customers and/or in relation to third parties must be conducted and documented. When doing so the statutory prohibitions, stating where exemptions cannot be applied, must be carefully considered in each case:
 
@@ -648,18 +648,18 @@ Securities Is uers
 
 !!! info "Guidance"
 
-    **113.** As noted at Section 7.13 of this Handbook, Articles 18 and 17B-D of the Money Laundering Order can be applied to the same customer relationship, as they apply to separate identification requirements.
+    **113.** As noted at [Section 7.13](07-enhanced-simplified-cdd.md) of this Handbook, Articles 18 and 17B-D of the Money Laundering Order can be applied to the same customer relationship, as they apply to separate identification requirements.
 
-    **114.** Refer to the table set out at section 7.13 of this Handbook for detail on which aspects of CDD must always be undertaken by the supervised person.
+    **114.** Refer to the table set out at [section 7.13](07-enhanced-simplified-cdd.md) of this Handbook for detail on which aspects of CDD must always be undertaken by the supervised person.
 
     **115.** Article 18 of the Money Laundering Order applies only to the customer and does not extend to third parties. From a securities issuer service provider's perspective this means, for example, that Article 18 only applies to the general partner or the trustee and not to the limited partnerships or unit trust. Articles 17B-D of the Money Laundering Order do apply to third parties which would encompass the investors in a limited partnership or a unit trust.
 
-    **116.** Article 18(4)(b) of the Money Laundering Order refers to a customer that is a body corporate or limited liability company whose securities are listed on an IOSCO compliant exchange or on a regulated market. As part of the assessment whether simplified CDD may be applied, the supervised person should consider whether the exchange on which the securities are listed is an IOSCO compliant exchange or a regulated market. The fact that the exchange is listed in a product guide (e.g., Listed Fund Guide) or in an Order (e.g., the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008) does not necessarily mean it qualifies. Further guidance is provided on this point in section 7.16.3 of this Handbook.
+    **116.** Article 18(4)(b) of the Money Laundering Order refers to a customer that is a body corporate or limited liability company whose securities are listed on an IOSCO compliant exchange or on a regulated market. As part of the assessment whether simplified CDD may be applied, the supervised person should consider whether the exchange on which the securities are listed is an IOSCO compliant exchange or a regulated market. The fact that the exchange is listed in a product guide (e.g., Listed Fund Guide) or in an Order (e.g., the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008) does not necessarily mean it qualifies. Further guidance is provided on this point in [section 7.16.3](07-enhanced-simplified-cdd.md#7163-body-corporate-limited-liability-company-with-listed-securities) of this Handbook.
 
 
 #### 13.8.2 Reliance on obliged persons
 
-**117.** This section is supplemental to and should be read in conjunction with section 5 of this Handbook.
+**117.** This section is supplemental to and should be read in conjunction with [section 5](05-reliance-obliged-persons.md) of this Handbook.
 
 !!! info "Guidance"
 
@@ -681,7 +681,7 @@ Securities Is uers
 
     **122.** Reliance may be used where the securities issuer structure has higher AML/CFT/CPF risks, or the securities issuer structure and securities issuer service providers are unregulated (where the securities issuer service provider cannot apply exemptions from identification measures ).
 
-    **123.** There are aspects of CDD that, in the absence of other provisions, the supervised person is required to undertake itself. These are set out in the table at section 5.1 of this Handbook.
+    **123.** There are aspects of CDD that, in the absence of other provisions, the supervised person is required to undertake itself. These are set out in the table at [section 5.1](05-reliance-obliged-persons.md) of this Handbook.
 
 
 #### 13.8.3 Obtaining copy documentation from a CD regulated TCSP
@@ -708,7 +708,7 @@ Securities Is uers
 
     **131.** Given that the delegate carrying out the outsourced function is likely to have its own CDD obligations it will be important to distinguish between measures applied on behalf of the delegating party and measures applied for itself. This will ensure the respective (and potentially differing) obligations are met and will assist if the delegating party moves to another securities issuer service provider and wishes to take its information/documentation/records with it.
 
-    **132.** Section 2.4.4 of this Handbook provides a table of activities which may be outsourced but also states that CDD is always the responsibility of the supervised person.
+    **132.** [Section 2.4.4](02-corporate-governance.md#244-outsourcing) of this Handbook provides a table of activities which may be outsourced but also states that CDD is always the responsibility of the supervised person.
 
     **133.** Where CDD functions are outsourced, consideration will need to be given to the contractual arrangements between the securities issuer and its investors ( customers ), the securities issuer and its securities issuer service providers and any other entities. Below are some important matters to consider (this list is not exhaustive):
 
@@ -724,7 +724,7 @@ Securities Is uers
 
 #### 13.8.5 AMLSP
 
-**136.** Section 18 of this Handbook provides guidance where an eligible supervised person appoints an AMLSP to fulfil its AML/CFT/CPF obligations. Where a securities issuer and their service providers are eligible, an AMLSP may be used. The section also provides guidance in certain circumstances where the securities issuer is a legal arrangement represented by its legal person Governing body and the legal person can use the AMLSP to provide services both to itself in its own capacity and in its capacity as Governing body, e.g., a Jersey private fund which is a limited partnership with an SPV general partner.
+**136.** [Section 18](18-aml-providers.md) of this Handbook provides guidance where an eligible supervised person appoints an AMLSP to fulfil its AML/CFT/CPF obligations. Where a securities issuer and their service providers are eligible, an AMLSP may be used. The section also provides guidance in certain circumstances where the securities issuer is a legal arrangement represented by its legal person Governing body and the legal person can use the AMLSP to provide services both to itself in its own capacity and in its capacity as Governing body, e.g., a Jersey private fund which is a limited partnership with an SPV general partner.
 
 ### 13.9 Enhanced CDD measures -non-Jersey investors
 

@@ -16,7 +16,7 @@ tags:
 
 ## 14.1.1. Real estate agents
 
-**1.** Paragraph 19 of Part 3 of Schedule 2 to the Proceeds of Crime Law defines the relevant transactions and activity of real estate agents for the purposes of complying with the requirements of the Money Laundering Order. Guidelines provide the interpretation of ' real estate agents ' and their activities.
+**1.** Paragraph 19 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant transactions and activity of real estate agents for the purposes of complying with the requirements of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide the interpretation of ' real estate agents ' and their activities.
 
 ## 14.1.2. High value dealers
 
@@ -106,7 +106,7 @@ The business in this example appears to be involved in money laundering and may 
 
 ## 14.2.1. Obligation to find out identity and obtain evidence
 
-**13.** This sector-specific section is supplementary to and should be read in conjunction with section 4.2 of this Handbook.
+**13.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.2](04-identification-measures.md#42-obligation-to-find-out-identity-and-obtain-evidence) of this Handbook.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -119,9 +119,9 @@ The business in this example appears to be involved in money laundering and may 
 
 ## Real estate agents and high value dealers
 
-**15.** This section is supplementary to and should be read in conjunction with section 4.7 of this Handbook.
+**15.** This section is supplementary to and should be read in conjunction with [section 4.7](04-identification-measures.md#47-timing-of-identification-measures) of this Handbook.
 
-**16.** As noted in section 4.7 of this Handbook, Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a business relationship. No similar concession is available for finding out identity. Where a reasonable excuse for the continued delay in obtaining evidence of identity cannot be provided, to comply with Article 14(2) of the Money Laundering Order, a supervised person must terminate the relationship (see section 4.8 of this Handbook ).
+**16.** As noted in [section 4.7](04-identification-measures.md#47-timing-of-identification-measures) of this Handbook, Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a business relationship. No similar concession is available for finding out identity. Where a reasonable excuse for the continued delay in obtaining evidence of identity cannot be provided, to comply with Article 14(2) of the Money Laundering Order, a supervised person must terminate the relationship (see [section 4.8](04-identification-measures.md#48-failure-to-complete-identification-measures) of this Handbook ).
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -134,9 +134,9 @@ The business in this example appears to be involved in money laundering and may 
 
 ## Real estate agents and high value dealers
 
-**18.** This section is supplementary to and should be read in conjunction with section 4.7.2 of this Handbook.
+**18.** This section is supplementary to and should be read in conjunction with [section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook.
 
-**19.** As noted in section 4.7.2 of this Handbook, FATF Recommendation 10 states that Financial Institutions should be required to apply that Recommendation (which deals with CDD measures) to 'existing customers' based on materiality and risk and should conduct CDD measures on such existing relationships at appropriate times.
+**19.** As noted in [section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook, FATF Recommendation 10 states that Financial Institutions should be required to apply that Recommendation (which deals with CDD measures) to 'existing customers' based on materiality and risk and should conduct CDD measures on such existing relationships at appropriate times.
 
 **20.** For the purposes of the Money Laundering Order, an existing customer means a business relationship established before the Money Laundering Order came into force for real estate agents and high value dealers on 1 May 2008 and which continues.
 
@@ -150,7 +150,7 @@ The business in this example appears to be involved in money laundering and may 
 
 Real estate agents
 
-**24.** This section is supplemental to and should be read in conjunction with section 7.16 of this Handbook.
+**24.** This section is supplemental to and should be read in conjunction with [section 7.16](07-enhanced-simplified-cdd.md#716-further-exemptions-from-applying-identification-requirements) of this Handbook.
 
 **25.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the Control of Housing and Work (Jersey) Law 2012 (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
 
@@ -175,7 +175,7 @@ Real estate agents
 
 **30.** Supervised persons carrying on real estate agency business should consider the different types of money laundering, financing of terrorism, or the financing of proliferation risks to which they are exposed when providing services. This service area risk assessment must also be reflected when undertaking a CRA.
 
-**31.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in section 3.3.4 of this Handbook.
+**31.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
 ## 14.4.2. Criminal use of conveyancing services real estate agents
 
@@ -324,7 +324,7 @@ Funding issues
 
 **61.** Supervised persons carrying on the business of a high value dealer should consider the different types of money laundering, financing of terrorism, and financing of proliferation risks to which they are exposed when providing services. This service area risk assessment must also be reflected when undertaking a CRA.
 
-**62.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in section 3.3.4 of this Handbook.
+**62.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
 ## 14.4.5. Recognising suspicious behaviour and unusual transactions -High value dealers
 

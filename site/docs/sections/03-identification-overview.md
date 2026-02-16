@@ -9,13 +9,13 @@ tags:
 
 # Section 3 - Identification Measures - Overview
 
-**1.** This section explains the identification measures required under Article 13 of the Money Laundering Order, and the framework under which a supervised person is required to apply a riskbased approach to the application of such measures.
+**1.** This section explains the identification measures required under Article 13 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), and the framework under which a supervised person is required to apply a riskbased approach to the application of such measures.
 
 **2.** This section should be read and understood in conjunction with the following sections:
 
-- section 4 of this Handbook -which explains the basis for finding out identity and obtaining evidence of identity;
-- section 5 of this Handbook -which considers the circumstances in which reliance might be placed on another party to have applied reliance identification measures;
-- section 7 of this Handbook -which explains the application of enhanced CDD measures (including the case of a customer that is assessed as presenting a higher risk) and simplified identification measures.
+- [section 4](04-identification-measures.md) of this Handbook -which explains the basis for finding out identity and obtaining evidence of identity;
+- [section 5](05-reliance-obliged-persons.md) of this Handbook -which considers the circumstances in which reliance might be placed on another party to have applied reliance identification measures;
+- [section 7](07-enhanced-simplified-cdd.md) of this Handbook -which explains the application of enhanced CDD measures (including the case of a customer that is assessed as presenting a higher risk) and simplified identification measures.
 
 **3.** Sound identification measures are vital because they:
 
@@ -26,7 +26,7 @@ tags:
 
 **4.** The inadequacy or absence of identification measures can expose a supervised person to serious customer and counterparty risks, as well as reputational, operational, legal, regulatory and concentration risks, any of which can result in significant financial cost to the business. Documents, data, or information held also assist the MLRO (or Deputy MLRO ) and other employees to determine whether a SAR is appropriate.
 
-**5.** A customer may be an individual (or group of individuals) or legal person. Section 4.3 of this Handbook deals with a customer who is an individual (or group of individuals), Section 4.4 of this Handbook deals with a customer (an individual or legal person) who is acting for a legal arrangement, and Section 4.5 of this Handbook deals with a customer who is a legal person.
+**5.** A customer may be an individual (or group of individuals) or legal person. [Section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook deals with a customer who is an individual (or group of individuals), [Section 4.4](04-identification-measures.md#44-obligation-to-find-out-identity-and-obtain-evidence-legal-arrangements) of this Handbook deals with a customer (an individual or legal person) who is acting for a legal arrangement, and [Section 4.5](04-identification-measures.md#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook deals with a customer who is a legal person.
 
 **6.** The term customer, as used in this Handbook, is defined in the Glossary of this Handbook. As noted in the definition, customers can include a prospective customer (i.e., applicants for business).
 
@@ -116,7 +116,7 @@ tags:
 - the extent to which the resulting relationship will be scrutinised; and
 - how often documents, data or information held will be reviewed.
 
-**22.** Section 2.3 of this Handbook requires the board (or where the supervised person is not a company, senior management) of a supervised person to conduct (and keep up-to-date) a BRA, which considers the supervised person's risk appetite, activities and structure and concludes on the supervised person's exposure to money laundering, the financing of terrorism, and the financing of proliferation risk.
+**22.** [Section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook requires the board (or where the supervised person is not a company, senior management) of a supervised person to conduct (and keep up-to-date) a BRA, which considers the supervised person's risk appetite, activities and structure and concludes on the supervised person's exposure to money laundering, the financing of terrorism, and the financing of proliferation risk.
 
 **23.** This BRA will enable a supervised person to determine its initial approach to performing Stage 1 of the identification process as set out below, depending on the type of customer, product or service involved. The remaining stages of the process require a supervised person to consider whether the specific circumstances of the customer will necessitate the application of further measures.
 
@@ -126,17 +126,17 @@ tags:
 
 | Stage | Identification measures | Article(s) of the Money Laundering Order | Guidance sections in the Handbook |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------------------------|
-| 1.1 | In the case of a customer that is a legal person, a supervised person must understand the ownership and contro l structure of the customer (and provisions under which the customer can enter into contracts). | 3(2)(c)(ii) | Section 3.3.1 |
-| 1.2 | A supervised person must find out the identity of: › the customer; › any Beneficial owners and controllers of the customer; › any third party (or parties) - including a legal arrangement - on whose behalf the customer acts. Whether directly or indirectly (and Beneficial owners and controllers of the third party (or parties)); o For the avoidance of doubt, the above will include any person who is a named beneficiary of a life assurance policy entered into by the customer. Where there is no named beneficiary and they are designated by characteristics or by class or by other means, this means obtaining sufficient information about who the beneficiaries of a life policy are, sufficient to enable an assessment of risk of the customer relationship and to enable beneficiaries to be identified and verified at the time of the pay-out and › others listed in Article 3(2) of the Money Laundering Order. | 3(2)(a) to (c) 3(4)(a) | Section 4 |
-| 1.3 | A supervised person must obtain information on the purpose and intended nature of the business relationship or one-off transaction. Also note additional AML/CFT/CPF Codes of Practice requirement to understand purpose and intended nature. | 3(2)(d) | Sections 3.3.2 and 3.3.3 Section 7 |
-| 1.4 | A supervised person must obtain appropriate information for assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation. It may be necessary to repeat this stage following an assessment of risk under stage 2.1 below. | 3(5) 15(1) | Sections 3.3.2 and 3.3.3 Section 7 |
+| 1.1 | In the case of a customer that is a legal person, a supervised person must understand the ownership and contro l structure of the customer (and provisions under which the customer can enter into contracts). | 3(2)(c)(ii) | [Section 3.3.1](#331-understanding-ownership-structure-stage-11) |
+| 1.2 | A supervised person must find out the identity of: › the customer; › any Beneficial owners and controllers of the customer; › any third party (or parties) - including a legal arrangement - on whose behalf the customer acts. Whether directly or indirectly (and Beneficial owners and controllers of the third party (or parties)); o For the avoidance of doubt, the above will include any person who is a named beneficiary of a life assurance policy entered into by the customer. Where there is no named beneficiary and they are designated by characteristics or by class or by other means, this means obtaining sufficient information about who the beneficiaries of a life policy are, sufficient to enable an assessment of risk of the customer relationship and to enable beneficiaries to be identified and verified at the time of the pay-out and › others listed in Article 3(2) of the Money Laundering Order. | 3(2)(a) to (c) 3(4)(a) | [Section 4](04-identification-measures.md) |
+| 1.3 | A supervised person must obtain information on the purpose and intended nature of the business relationship or one-off transaction. Also note additional AML/CFT/CPF Codes of Practice requirement to understand purpose and intended nature. | 3(2)(d) | Sections 3.3.2 and 3.3.3 [Section 7](07-enhanced-simplified-cdd.md) |
+| 1.4 | A supervised person must obtain appropriate information for assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation. It may be necessary to repeat this stage following an assessment of risk under stage 2.1 below. | 3(5) 15(1) | Sections 3.3.2 and 3.3.3 [Section 7](07-enhanced-simplified-cdd.md) |
 
-| 2.1 | A supervised person must, based on information collected at stage 1 above, assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation (risk profile). | 3(5) | Section 3.3.4 |
+| 2.1 | A supervised person must, based on information collected at stage 1 above, assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation (risk profile). | 3(5) | [Section 3.3.4](#334-assessment-of-risk-stage-21) |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|---------------------|
-| 2.2 | A supervised person must prepare and record a customer business and risk profile. | 3(3)(a) | Section 3.3.5 |
-| 3 | A supervised person must obtain evidence of the identity of those whose identity is found out at stage 1.2 above. | 3(2)(a) to (c) 3(4)(b) 15(1) | Section 4 Section 7 |
+| 2.2 | A supervised person must prepare and record a customer business and risk profile. | 3(3)(a) | [Section 3.3.5](#335-customer-business-and-risk-profile-stage-22) |
+| 3 | A supervised person must obtain evidence of the identity of those whose identity is found out at stage 1.2 above. | 3(2)(a) to (c) 3(4)(b) 15(1) | [Section 4](04-identification-measures.md) [Section 7](07-enhanced-simplified-cdd.md) |
 
-**26.** By virtue of on-going monitoring, particularly in relation to higher risk categories of customers, under Article 3(3)(b) of the Money Laundering Order, a supervised person must keep documents, data and information obtained under Stages 1 and 3 up to date and relevant. See Section 3.4 of this Handbook.
+**26.** By virtue of on-going monitoring, particularly in relation to higher risk categories of customers, under Article 3(3)(b) of the Money Laundering Order, a supervised person must keep documents, data and information obtained under Stages 1 and 3 up to date and relevant. See [Section 3.4](#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook.
 
 **27.** As shown in the table above, in some cases the Money Laundering Order requires supervised persons to simply obtain information. For example, finding out identity (Stage 1.2 above).
 
@@ -239,7 +239,7 @@ tags:
 - explain to the customer the reason for requiring CDD information and for the customer identification procedures. This can be achieved by including an additional paragraph in the terms of business or in pre-engagement communications.
 - inform customers of the supervised person's reporting responsibilities under the primary legislation and the restrictions created by the 'tipping -off' rule on the supervised person's ability to discuss such matters with its customers.
 
-**48.** Whether or not to advise the customer of these issues is a decision to be taken by individual supervised persons. However, if it is to be done it is important that the policy should apply consistently for all customers. A decision only to do so once a suspicion has arisen could result in the supervised person committing a tipping-off offence (see Section 8.5 of this Handbook ).
+**48.** Whether or not to advise the customer of these issues is a decision to be taken by individual supervised persons. However, if it is to be done it is important that the policy should apply consistently for all customers. A decision only to do so once a suspicion has arisen could result in the supervised person committing a tipping-off offence (see [Section 8.5](08-reporting-obligations.md#85-tipping-off) of this Handbook ).
 
 ##### 3.3.2.2 Issues that might be covered when drawing up a profile
 
@@ -279,7 +279,7 @@ tags:
 
 **61.** Inconsistencies between information obtained may also assist in assessing risk. For example, a supervised person might identify inconsistencies between specific information concerning source of funds (or source of wealth ), and the nature of the customer's expected activity.
 
-**62.** A supervised person may demonstrate that it has assessed the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation where it considers the factors set out at Section 3.3.4.1 of this Handbook.
+**62.** A supervised person may demonstrate that it has assessed the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation where it considers the factors set out at [Section 3.3.4.1](#3341-factors-to-consider) of this Handbook.
 
 **63.** A supervised person may demonstrate that it has assessed the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation where it considers other factors that are relevant in the context of the products and services that it provides and its customer base.
 
@@ -348,7 +348,7 @@ tags:
 
 **74.** In respect of the above paragraph, a supervised person is not required to obtain a granular list of every asset held by the customer globally. The information obtained should be sufficient for the supervised person to make an informed assessment of the risk presented by the customer's wider activities.
 
-**75.** An additional section covering the issuance of Prepaid Cards and their associated risks is set out as section 3.3.6 of this Handbook.
+**75.** An additional section covering the issuance of Prepaid Cards and their associated risks is set out as [section 3.3.6](#336-prepaid-cards) of this Handbook.
 
 **76.** Delivery risk -Features that may be attractive to money launderers or those financing terrorism:
 
@@ -394,7 +394,7 @@ tags:
 
 ##### 3.3.4.2 External data sources
 
-**78.** In assessing the risk that countries and territories may present a higher risk, objective data published by the IMF, FATF, World Bank and the Egmont Group of Financial Intelligence Units will be relevant, as will objective information published by national governments (such as the World Factbook published by the US Central Intelligence Agency) and other reliable and independent sources, such as those referred to in Section 3.3.4.1 of this Handbook. Often, this information may be accessed through country or territory profiles provided on electronic subscription databases and on the internet. Some profiles, such as those available through KnowYourCountry, are free to use.
+**78.** In assessing the risk that countries and territories may present a higher risk, objective data published by the IMF, FATF, World Bank and the Egmont Group of Financial Intelligence Units will be relevant, as will objective information published by national governments (such as the World Factbook published by the US Central Intelligence Agency) and other reliable and independent sources, such as those referred to in [Section 3.3.4.1](#3341-factors-to-consider) of this Handbook. Often, this information may be accessed through country or territory profiles provided on electronic subscription databases and on the internet. Some profiles, such as those available through KnowYourCountry, are free to use.
 
 **79.** Information on sanctions may be found on the JFSC 's website.
 
@@ -513,12 +513,12 @@ tags:
 
 ##### 3.3.6.7 Regulatory framework -AML/CFT/CPF
 
-**108.** The activity of issuing prepaid cards is listed in paragraph 6 of Part 2 of Schedule 2 to the Proceeds of Crime Law: 'Means of payment' issuing and administering means of payment (such as credit and debit cards, cheques, travellers' cheques, money orders and bankers' drafts, and electronic money)'.
+**108.** The activity of issuing prepaid cards is listed in paragraph 6 of Part 2 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999): 'Means of payment' issuing and administering means of payment (such as credit and debit cards, cheques, travellers' cheques, money orders and bankers' drafts, and electronic money)'.
 
 **109.** As a result, any person issuing electronic money (including prepaid cards) in or from within Jersey (directly or through an agent) or through a legal person established under Jersey law:
 
 - becomes a supervised person for the purposes of the Money Laundering Order and is required to apply CDD measures, keep records, appoint an MLCO and MLRO, and to have policies and procedures in place to prevent and detect money laundering, the financing of terrorism, and the financing of proliferation;
-- is required to register with the JFSC under the Supervisory Bodies Law or, where the person carries on a regulated business as defined in the Supervisory Bodies Law, to notify the JFSC that it is issuing prepaid cards; and
+- is required to register with the JFSC under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx) or, where the person carries on a regulated business as defined in the Supervisory Bodies Law, to notify the JFSC that it is issuing prepaid cards; and
 - is subject to supervision by the JFSC under the Supervisory Bodies Law for compliance with the Money Laundering Order and AML/CFT/CPF Codes of Practice.
 
 **110.** The Money Laundering Order therefore applies to prepaid card issuers with no physical presence in Jersey that issue cards through Jersey-based agents.
@@ -554,7 +554,7 @@ tags:
 
     **121.** A supervised person may demonstrate that it has applied identification measures before establishing a business relationship taken on through the acquisition of a book of business where each of the following criteria are met:
 
-    - the vendor is a supervised person or carries on equivalent business (refer to section 1.8 of this Handbook );
+    - the vendor is a supervised person or carries on equivalent business (refer to [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook );
     - the supervised person has concluded that the vendor's CDD policies and procedures are satisfactory. This assessment must either involve sample testing or alternatively an assessment of all relevant documents, data or information for the business relationship to be acquired;
     - before, or at the time of the transfer, the supervised person obtains from the vendor all the relevant documents, data or information (or copy thereof) held for each customer acquired.
 
@@ -567,7 +567,7 @@ tags:
     **125.** In cases where:
 
     - the vendor is not a supervised person; or
-    - the vendor is not carrying on equivalent business (refer to section 1.8 of this Handbook ); and
+    - the vendor is not carrying on equivalent business (refer to [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook ); and
     - d eficiencies are identified in the vendor's CDD policies and procedures (either at the time of transfer or subsequently),
 
     - a supervised person may demonstrate that it has applied identification measures before establishing a business relationship where it determines and implements a programme to apply identification measures on each customer and remediate any deficiencies, provided the programme is agreed in advance with the JFSC.

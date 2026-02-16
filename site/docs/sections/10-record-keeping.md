@@ -34,14 +34,14 @@ tags:
 
 !!! danger "Statutory Requirement"
 
-    **7.** For the purpose of the record retention requirements set out below, Article A19 of the Money Laundering Order defines a 'relevant person' as including a person who was formerly a relevant person.
+    **7.** For the purpose of the record retention requirements set out below, Article A19 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) defines a 'relevant person' as including a person who was formerly a relevant person.
 
     **8.** Article 19(2)(a) of the Money Laundering Order requires a relevant person to keep the following records:
 
     - copies of evidence of identity or information that enables a copy of such evidence to be obtained;
     - all the supporting documents, data, and information in respect of a business relationship or one-off transaction which is the subject of CDD measures, including the results of analysis undertaken in relation to the business relationship or any transaction.
 
-    **9.** Article 19(4) of the Money Laundering Order requires a relevant person to keep records in such a manner that they can be made available swiftly to the JFSC, police officer or customs officer for the purpose of complying with a requirement under any enactment, e.g. a production order under Article 40 of the Proceeds of Crime Law.
+    **9.** Article 19(4) of the Money Laundering Order requires a relevant person to keep records in such a manner that they can be made available swiftly to the JFSC, police officer or customs officer for the purpose of complying with a requirement under any enactment, e.g. a production order under Article 40 of the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999).
 
     **10.** Articles 20(1) and 20(2) of the Money Laundering Order require a relevant person to keep records for at least five years from:
     - (i) the end of the business relationship with the customer; or
@@ -121,17 +121,17 @@ tags:
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
-    **25.** A supervised person must keep each BRA that it conducts and records under section 2.3 of this Handbook for a period of five years after the end of the calendar year in which it is superseded.
+    **25.** A supervised person must keep each BRA that it conducts and records under [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook for a period of five years after the end of the calendar year in which it is superseded.
 
-    **26.** A supervised person must keep adequate and orderly records of its systems and controls (including policies and procedures ) that it must document under section 2.3 of this Handbook for a period of at least five years after the end of the calendar year in which they are superseded.
+    **26.** A supervised person must keep adequate and orderly records of its systems and controls (including policies and procedures ) that it must document under [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook for a period of at least five years after the end of the calendar year in which they are superseded.
 
-    **27.** A supervised person must keep adequate and orderly records showing how the Board/senior management has assessed both the effectiveness of, and compliance with, systems and controls (including policies and procedures ) in line with section 2.3 of this Handbook, including reports presented by the MLCO on compliance matters and the MLRO on reporting, for a period of five years after the end of the calendar year in which a matter is considered.
+    **27.** A supervised person must keep adequate and orderly records showing how the Board/senior management has assessed both the effectiveness of, and compliance with, systems and controls (including policies and procedures ) in line with [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook, including reports presented by the MLCO on compliance matters and the MLRO on reporting, for a period of five years after the end of the calendar year in which a matter is considered.
 
-    **28.** A supervised person must keep a record of what barriers (including cultural barriers) exist to prevent the operation of effective systems and controls (including policies and procedures ) in line with section 2.3 of this Handbook for a period of five years after the end of the calendar year in which a matter is considered.
+    **28.** A supervised person must keep a record of what barriers (including cultural barriers) exist to prevent the operation of effective systems and controls (including policies and procedures ) in line with [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook for a period of five years after the end of the calendar year in which a matter is considered.
 
     **29.** A supervised person must keep adequate and orderly records to demonstrate the MLRO (and Deputy MLRO ) and MLCO 's experience and skills, independence, access to resources and technical awareness, in line with sections 2.6 and 2.7 of this Handbook for a period of five years after the end of the calendar year in which an individual ceases to act in said positions.
 
-    **30.** A supervised person must keep adequate and orderly records to demonstrate that in line with section 2.3 of this Handbook:
+    **30.** A supervised person must keep adequate and orderly records to demonstrate that in line with [section 2.3](02-corporate-governance.md#23-board-responsibilities) of this Handbook:
 
     - measures that are at least equivalent to AML/CFT/CPF Codes of Practice are applied by a supervised person through overseas branches; and
 
@@ -146,7 +146,7 @@ tags:
 
     **31.** Where a supervised person is required to apply an identification measure through an AML/CFT/CPF Codes of Practice set in sections 4, 5 and 7 of this Handbook, an adequate and orderly record of that measure must be kept in line with the record-keeping requirements set out in Part 4 of the Money Laundering Order.
 
-    **32.** A supervised person must keep its risk assessment for each customer that has still to be remediated in line with section 4.7.2 of this Handbook for a period of five years after the end of the calendar year in which it is superseded.
+    **32.** A supervised person must keep its risk assessment for each customer that has still to be remediated in line with [section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook for a period of five years after the end of the calendar year in which it is superseded.
 
 
 #### 10.4.3 On-going monitoring
@@ -221,7 +221,7 @@ tags:
 
 **46.** Where records are kept by another person (group or otherwise), or kept outside Jersey, such as under an outsourcing or storage arrangement, this will present additional factors for a supervised person to consider. Regardless of the circumstances, the supervised person remains responsible for compliance with all record-keeping requirements.
 
-**47.** Where an obliged person ceases to trade or have a relationship with a customer for whom it has provided an assurance to a supervised person, particular care needs to be taken to check whether the assurance continues to have effect, or to ensure that evidence of identity is obtained from the obliged person. Section 5 of this Handbook deals with reliance arrangements made with obliged persons.
+**47.** Where an obliged person ceases to trade or have a relationship with a customer for whom it has provided an assurance to a supervised person, particular care needs to be taken to check whether the assurance continues to have effect, or to ensure that evidence of identity is obtained from the obliged person. [Section 5](05-reliance-obliged-persons.md) of this Handbook deals with reliance arrangements made with obliged persons.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 

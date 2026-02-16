@@ -9,9 +9,9 @@ tags:
 
 # Section 4 - Identification Measures
 
-**1.** This section explains what information on identity is to be found out when establishing a business relationship or carrying out a one-off transaction (or otherwise under Article 13 of the Money Laundering Order ), and what evidence is to be obtained that is reasonably capable of verifying that the person to be identified is who they are said to be and satisfies a supervised person of the same.
+**1.** This section explains what information on identity is to be found out when establishing a business relationship or carrying out a one-off transaction (or otherwise under Article 13 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) ), and what evidence is to be obtained that is reasonably capable of verifying that the person to be identified is who they are said to be and satisfies a supervised person of the same.
 
-**2.** This section does not address the information that must also be collected under Article 3(5) of the Money Laundering Order as part of identification measures to assess the risk that any business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation, which is covered by Stage 1.4 in section 3.3 of this Handbook. Nor does it address the enhanced measures that will be required to address the case of a customer that is assessed as presenting a higher risk of money laundering, the financing of terrorism, or the financing of proliferation, which is covered in section 7 of this Handbook.
+**2.** This section does not address the information that must also be collected under Article 3(5) of the Money Laundering Order as part of identification measures to assess the risk that any business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation, which is covered by Stage 1.4 in [section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook. Nor does it address the enhanced measures that will be required to address the case of a customer that is assessed as presenting a higher risk of money laundering, the financing of terrorism, or the financing of proliferation, which is covered in [section 7](07-enhanced-simplified-cdd.md) of this Handbook.
 
 **3.** Guidance is also given on the timing of obtaining evidence of identity and what to do where it is not possible to complete identification measures. This guidance covers all elements of identification measures, including, where appropriate, the collection of information under Article 3(5) of the Money Laundering Order.
 
@@ -22,13 +22,13 @@ tags:
 - where there is some doubt as to the veracity or adequacy of documents, data or information that are already held (including the circumstances set out in paragraph 5 below);
 - i n respect of 'existing customers'.
 
-**5.** As stated in section 3.4 of this Handbook, the requirement to find out identity and obtain evidence will also apply when there are changes, for example:
+**5.** As stated in [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook, the requirement to find out identity and obtain evidence will also apply when there are changes, for example:
 
 - change in information found out for a customer, e.g., a change of name or change of nationality;
 - change in beneficial ownership and control of a customer;
 - change in a third party (or parties), or beneficial ownership or control of a third party (or parties) on whose behalf a customer acts.
 
-**6.** A customer may be an individual (or group of individuals) or a legal person. Section 4.3 of this Handbook with a customer who is an individual (or group of individuals), section 4.4 of this Handbook deals with a customer (an individual or a legal person) who is acting for a legal arrangement, e.g., the trustee of an express trust, and section 4.5 of this Handbook deals with a customer who is a legal person.
+**6.** A customer may be an individual (or group of individuals) or a legal person. [Section 4.3](#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook with a customer who is an individual (or group of individuals), [section 4.4](#44-obligation-to-find-out-identity-and-obtain-evidence-legal-arrangements) of this Handbook deals with a customer (an individual or a legal person) who is acting for a legal arrangement, e.g., the trustee of an express trust, and [section 4.5](#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook deals with a customer who is a legal person.
 
 **7.** The term customer is defined in the Glossary of this Handbook and further guidance is provided in the Guidelines.
 
@@ -39,7 +39,7 @@ tags:
 - a person exists - on the basis of information found out; and
 - the customer is that person - by collecting from reliable and independent sources (documents, data, or information), satisfactory confirmatory evidence of appropriate components of the customer's identity.
 
-**9.** Evidence of identity can take a number of forms. In respect of individuals, identity documents (e.g., passports and national identity cards) are often the easiest way of providing evidence as to someone's identity. It is, however, possible to be satisfied as to a customer's identity by obtaining other forms of confirmation, including independent data sources, E-ID (see section 4.3.5 of this Handbook ) and, in appropriate circumstances, written assurances from obliged persons.
+**9.** Evidence of identity can take a number of forms. In respect of individuals, identity documents (e.g., passports and national identity cards) are often the easiest way of providing evidence as to someone's identity. It is, however, possible to be satisfied as to a customer's identity by obtaining other forms of confirmation, including independent data sources, E-ID (see [section 4.3.5](#435-use-of-e-id) of this Handbook ) and, in appropriate circumstances, written assurances from obliged persons.
 
 **10.** When obtaining evidence of identity, a supervised person will need to be prepared to accept a range of documents.
 
@@ -98,11 +98,11 @@ tags:
 **20.** Evidence of identity may come from several sources, including one or more of the following:
 
 - original documents (see this section of the Handbook );
-- certified copies of documents (see section 4.3.3 of this Handbook );
-- external data sources (see section 4.3.4 of this Handbook ); and/or
-- E-ID (see section 4.3.5 of this Handbook ).
+- certified copies of documents (see [section 4.3.3](#433-suitable-certification) of this Handbook );
+- external data sources (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ); and/or
+- E-ID (see [section 4.3.5](#435-use-of-e-id) of this Handbook ).
 
-**21.** These sources may differ in their integrity, reliability, and independence. For example, some identification documents are issued after due diligence on an individual's identity has been undertaken (e.g., passports and national identity cards). Others are issued on request, without any such checks being carried out. Furthermore, some documents are more easily forged than others. For E-ID applications, the technology used may not sufficiently mitigate the inherent risks associated with it. Therefore, a supervised person will need to ensure that its CDD systems and controls incorporate measures specifically designed to do so -see section 4.3.5 of this Handbook.
+**21.** These sources may differ in their integrity, reliability, and independence. For example, some identification documents are issued after due diligence on an individual's identity has been undertaken (e.g., passports and national identity cards). Others are issued on request, without any such checks being carried out. Furthermore, some documents are more easily forged than others. For E-ID applications, the technology used may not sufficiently mitigate the inherent risks associated with it. Therefore, a supervised person will need to ensure that its CDD systems and controls incorporate measures specifically designed to do so -see [section 4.3.5](#435-use-of-e-id) of this Handbook.
 
 **22.** Additionally, documents incorporating photographic confirmation of customer identity provide a higher level of assurance that an individual is the person they claim to be.
 
@@ -114,7 +114,7 @@ tags:
 
 **26.** Whether any particular measure outside those referenced at paragraph 20 above is in compliance with the regulatory requirements will be determined on a case-by-case basis. A supervised person will be expected to demonstrate how the measure applied is equally as robust. This may be achieved, for example, by identifying and describing the safeguards or controls incorporated into the measure.
 
-**27.** Where evidence of identity obtained subsequently expires, e.g., a passport, national identity card, or driving licence, it is not necessary to obtain further evidence under identification measures set out in Article 13 of the Money Laundering Order. However, a supervised person should keep in mind that updated evidence of identity may need to be requested at, for example, a trigger event or an increase in the level of money laundering/terrorist financing/proliferation financing risk (see section 3.4 of this Handbook for more detail).
+**27.** Where evidence of identity obtained subsequently expires, e.g., a passport, national identity card, or driving licence, it is not necessary to obtain further evidence under identification measures set out in Article 13 of the Money Laundering Order. However, a supervised person should keep in mind that updated evidence of identity may need to be requested at, for example, a trigger event or an increase in the level of money laundering/terrorist financing/proliferation financing risk (see [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook for more detail).
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -172,7 +172,7 @@ tags:
 
 **33.** In circumstances where it would not be possible to take a copy of the evidence of identity, a record may instead be made of the type of document and its number, date and place of issue, so that the document may be obtained from its issuing authority if necessary.
 
-**34.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that an individual to be identified is who they are said to be where the data or information comes from an independent data source (see section 4.3.4 of this Handbook ) or, in the case of a residential address, personal visit to that address.
+**34.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that an individual to be identified is who they are said to be where the data or information comes from an independent data source (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) or, in the case of a residential address, personal visit to that address.
 
 **35.** Where an individual's residential addre ss changes, a supervised person may demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that an individual to be identified is who they are said to be where the data or information is collected through on-going correspondence with that customer at the changed address.
 
@@ -209,7 +209,7 @@ tags:
 
     **45.** If a supervised person becomes concerned regarding the integrity of an electronic statement, for example, if it becomes unsure whether a utility bill has been generated by the named utility company, the supervised person should take appropriate additional steps to seek to corroborate the validity of the document. Examples may include:
 
-    - the use of an independent data source (see section 4.3.4 of this Handbook ) to corroborate the address information. This may be achieved by using a third-party database like a credit agency or an electoral roll. The additional corroboration should be sufficient to give the supervised person comfort as to the accuracy of the information contained within the electronic statement;
+    - the use of an independent data source (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) to corroborate the address information. This may be achieved by using a third-party database like a credit agency or an electoral roll. The additional corroboration should be sufficient to give the supervised person comfort as to the accuracy of the information contained within the electronic statement;
     - requesting sight of the delivery mechanism (such as sight of or access to the customer portal, details of the document download or e-mail received) to the customer from the bank/utility provider, in which the document was attached;
     - a telephone call to the provider of the electronic statement which is corroborated by an independent source to verify such provider exists.
 
@@ -224,7 +224,7 @@ tags:
 
 **48.** Suitable certification is a process where, rather than requesting a person to present evidence of identity directly to a supervised person, the person is called on to present themselves to a suitable certifier along with original documentation that support s that person's identity (and is current), specifically for the purpose of entering a business relationship or one-off transaction with a supervised person. The effect of this is to create an environment in which identification measures in respect of a customer (or other person) is applied through a trusted external party and where the customer (or other person) is physically present.
 
-**49.** Suitable certification is not to be confused with a case where a supervised person uses Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity that may subsequently be provided by that obliged person may now be out of date, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records -in which case section 5 of this Handbook is relevant.
+**49.** Suitable certification is not to be confused with a case where a supervised person uses Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity that may subsequently be provided by that obliged person may now be out of date, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records -in which case [section 5](05-reliance-obliged-persons.md) of this Handbook is relevant.
 
 **50.** Nor should the provisions in Sections 4.4.5 and 4.5.7 of this Handbook for copy documentation to be provided by a supervised TSCP be confused with suitable certification.
 
@@ -304,7 +304,7 @@ tags:
     - production, viewing and screenshotting of documentation during a video call is not an appropriate method of certification due to:
     - the risk of 'deep fake' technology being utilised, whereby the video image and voice of an individual can be manipulated to look and sound like another individual. Biometric and similar matching/checking technology is considered necessary for this risk to be adequately mitigated.
 
-    **68.** The JFSC considers that certification by a suitable certifier, in line with the guidance set out at section 4.3.3 of this Handbook, provides assurances as to the authenticity of the document which the above-referenced methods are not able to do.
+    **68.** The JFSC considers that certification by a suitable certifier, in line with the guidance set out at [section 4.3.3](#433-suitable-certification) of this Handbook, provides assurances as to the authenticity of the document which the above-referenced methods are not able to do.
 
 
 #### 4.3.4 Obtaining evidence of identity -Independent data sources
@@ -371,13 +371,13 @@ tags:
     - obtaining evidence based on documents, data or information from a reliable and independent source, that is reasonably capable of verifying that the person to be identified is who they are said to be and satisfies the person responsible for the identification that the evidence does establish that fact.
 
 
-**80.** Using an E-ID application is one way of obtaining evidence of identity. Section 4.3.2 of this Handbook explains how a supervised person may demonstrate that it has obtained evidence that is reasonably capable of verifying that an individual to be identified is who they are said to be. Among other things, it states that use of the following documentary evidence will be reasonably capable of verifying an individual's identity:
+**80.** Using an E-ID application is one way of obtaining evidence of identity. [Section 4.3.2](#432-obtaining-evidence-of-identity) of this Handbook explains how a supervised person may demonstrate that it has obtained evidence that is reasonably capable of verifying that an individual to be identified is who they are said to be. Among other things, it states that use of the following documentary evidence will be reasonably capable of verifying an individual's identity:
 
 - a current passport, or copy of such a passport certified by a suitable certifier;
 - a current national identity card, or copy of such a national identity card certified by a suitable certifier; or
 - a current driving licence or copy of such a driving licence certified by a suitable certifier.
 
-**81.** As an alternative to using documentary evidence, section 4.3.4 of this Handbook permits, in certain circumstances, the use of independent data sources to verify that the person to be identified is who they are said to be. In practice, it may be possible to demonstrate compliance with Article 3(4) of the Money Laundering Order through a combination of documentary evidence and independent data sources.
+**81.** As an alternative to using documentary evidence, [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook permits, in certain circumstances, the use of independent data sources to verify that the person to be identified is who they are said to be. In practice, it may be possible to demonstrate compliance with Article 3(4) of the Money Laundering Order through a combination of documentary evidence and independent data sources.
 
 **82.** A supervised person may use other tools and/or methods (including E-ID applications) to undertake CDD measures, so long as such methods comply with Article 3(4) of the Money Laundering Order.
 
@@ -390,7 +390,7 @@ tags:
 
 !!! info "Guidance"
 
-    **85.** The requirements under Articles 11 and 15(3) of the Money Laundering Order and the AML/CFT/CPF Codes of Practice set out at section 2.4.4 of this Handbook will apply in any circumstances where a part of the CDD process is undertaken by an independent third party or supervised person via the use of E-ID applications, where the customer is not physically present. Accordingly, when deciding whether to make use of a particular E-ID application, a supervised person is required to undertake a risk assessment comprising of the following:
+    **85.** The requirements under Articles 11 and 15(3) of the Money Laundering Order and the AML/CFT/CPF Codes of Practice set out at [section 2.4.4](02-corporate-governance.md#244-outsourcing) of this Handbook will apply in any circumstances where a part of the CDD process is undertaken by an independent third party or supervised person via the use of E-ID applications, where the customer is not physically present. Accordingly, when deciding whether to make use of a particular E-ID application, a supervised person is required to undertake a risk assessment comprising of the following:
 
     - consider the risks involved in the use of the E-ID application and record the reasons why its use is appropriate;
     - consider the risks involved in outsourcing any part of the CDD process to an independent third party using the E-ID application and record the reasons why such outsourcing is appropriate;
@@ -442,7 +442,7 @@ tags:
 
 ##### 4.3.5.3 Factors to consider when assessing E-ID applications
 
-**97.** This section lists some potential features of E-ID applications (and wrap-around systems) that may be used to mitigate the risks listed at section 4.3.5.2 of this Handbook. Where the E-ID application (or connected system) does not sufficiently mitigate the risk, the supervised person will need to ensure that its CDD systems and controls (including policies and procedures ) incorporate measures specifically designed to do so.
+**97.** This section lists some potential features of E-ID applications (and wrap-around systems) that may be used to mitigate the risks listed at [section 4.3.5.2](#4352-risks-of-using-e-id) of this Handbook. Where the E-ID application (or connected system) does not sufficiently mitigate the risk, the supervised person will need to ensure that its CDD systems and controls (including policies and procedures ) incorporate measures specifically designed to do so.
 
 **98.** The features described in the Guidance notes below do not represent an exhaustive list. A supervised person may consider other features, systems and controls (including policies and procedures ) to be appropriate.
 
@@ -478,7 +478,7 @@ tags:
 
     **102.** Where a supervised person uses E-ID applications to capture information, copy documents and take photographs of customers as part of their CDD processes, adequate records are required to be kept in line with the record-keeping requirements set out in Part 4 of the Money Laundering Order.
 
-    **103.** Detailed AML/CFT/CPF Codes of Practice and Guidance notes are provided at section 10 of this Handbook regarding the requirements of Part 4 of the Money Laundering Order.
+    **103.** Detailed AML/CFT/CPF Codes of Practice and Guidance notes are provided at [section 10](10-record-keeping.md) of this Handbook regarding the requirements of Part 4 of the Money Laundering Order.
 
     - Often E-ID systems will allow for supervised persons to meet these obligations by (1) providing them with access, on an ongoing basis, to the system which has verified a customer or (2) allowing them to download or integrate the documentary evidence which has verified a customer to or within their own systems. In either case, supervised persons should be confident that the evidence obtained from the E-ID system sets out:
     - details of the biometric checking undertaken;
@@ -488,7 +488,7 @@ tags:
 
 ##### 4.3.5.5 Practices or methods not considered to be E-ID
 
-**104.** Whilst there are a range of E-ID applications which incorporate features that the JFSC considers may allow a supervised person to comply with Article 3(4) of the Money Laundering Order, some other practices or methods are not currently deemed to sufficiently address the risks listed at section 4.3.5.2 of this Handbook and are therefore not considered to be E-ID. Examples of these are set out in the Guidance notes below.
+**104.** Whilst there are a range of E-ID applications which incorporate features that the JFSC considers may allow a supervised person to comply with Article 3(4) of the Money Laundering Order, some other practices or methods are not currently deemed to sufficiently address the risks listed at [section 4.3.5.2](#4352-risks-of-using-e-id) of this Handbook and are therefore not considered to be E-ID. Examples of these are set out in the Guidance notes below.
 
 **105.** Biometric and similar matching/checking technology is referred to in the Guidance notes below. The FATF describes biometrics as an individual's personal biological or behavioural characteristics. E-ID applications may make use of the following biometrics as part of their verification processes:
 
@@ -517,7 +517,7 @@ tags:
 
 #### 4.3.6 Guarding against the financial exclusion of Jersey residents
 
-**109.** On occasions, an individual may be unable to provide evidence of identity using the sources set out at section 4.3.2 of this Handbook. Examples of such individuals may include:
+**109.** On occasions, an individual may be unable to provide evidence of identity using the sources set out at [section 4.3.2](#432-obtaining-evidence-of-identity) of this Handbook. Examples of such individuals may include:
 
 - seasonal workers whose principal residential address is not in Jersey;
 - individuals living in Jersey in accommodation provided by their employer, with family, or in care homes, who may not pay directly for utility services;
@@ -549,7 +549,7 @@ tags:
 
 #### 4.3.7 Residential address: Overseas residents
 
-**115.** On occasions, an individual that resides abroad may be unable to provide evidence of their principal residential address using the sources set out at section 4.3.2 of this Handbook. Examples include residents of countries without postal deliveries and few street addresses, who rely upon post office boxes or employers for delivery of mail, and residents of countries where, due to social restraints, evidence of a private address may not be obtained through a personal visit.
+**115.** On occasions, an individual that resides abroad may be unable to provide evidence of their principal residential address using the sources set out at [section 4.3.2](#432-obtaining-evidence-of-identity) of this Handbook. Examples include residents of countries without postal deliveries and few street addresses, who rely upon post office boxes or employers for delivery of mail, and residents of countries where, due to social restraints, evidence of a private address may not be obtained through a personal visit.
 
 **116.** It is essential for law enforcement purposes that a record of an individual's residential address (or details of how that individual's place of residence may be reached) be recorded. As a result, it is not acceptable to only record a post office box number as an address.
 
@@ -573,15 +573,15 @@ tags:
 
 **122.** Jersey law recognises two distinct forms of legal arrangement: the trust and the limited partnership.
 
-**123.** Jersey trusts law comprises both the Trust Law, as amended, and the Jersey customary law of trusts. Limited partnerships are established under the Limited Partnerships (Jersey) Law 1994. Limited Liability Partnerships, Separate Limited Partnerships and Incorporated Limited Partnerships all have legal personality and are therefore covered in section 4.5 of this Handbook.
+**123.** Jersey trusts law comprises both the Trust Law, as amended, and the Jersey customary law of trusts. Limited partnerships are established under the Limited Partnerships (Jersey) Law 1994. Limited Liability Partnerships, Separate Limited Partnerships and Incorporated Limited Partnerships all have legal personality and are therefore covered in [section 4.5](#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook.
 
 **124.** There are a wide variety of trusts ranging from large, nationally, and internationally active organisations subject to a high degree of public scrutiny and transparency, through to trusts set up under testamentary arrangements or established for wealth management purposes. Trusts may also be established as Collective investment scheme s -known as a unit trusts.
 
 **125.** A legal arrangement cannot form a business relationship or carry out a one-off transaction itself. It is the trustee(s) of the trust or general partner(s) of the limited partnership who will enter a business relationship or carry out the one-off transaction with a supervised person on behalf of the legal arrangement and who will be the customer (s). In line with Article 3 of the Money Laundering Order, the trust or limited partnership will be the third party on whose behalf the trustee(s) or general partner(s) act(s).
 
-**126.** In forming a business relationship or carrying out a one-off transaction with a trustee or general partner, a supervised person will be dependent on information provided by the trustee or general partner (a supervised Trust Company Business or otherwise) relating to the legal arrangement and persons concerned with the legal arrangement (set out in Article 3(7) of the Money Laundering Order ). When determining the risk assessment for a legal arrangement (section 3.3 of this Handbook ), the risk factors set out in section 3.3.4.1 of this Handbook and Section 7.15.1 of this Handbook will be relevant in deciding whether it is appropriate to use information provided by the trustee or general partner. In addition, the monitoring measures maintained by a supervised person (see section 6 of this Handbook ) may provide additional comfort that relevant and up-to-date information on identity has been found out.
+**126.** In forming a business relationship or carrying out a one-off transaction with a trustee or general partner, a supervised person will be dependent on information provided by the trustee or general partner (a supervised Trust Company Business or otherwise) relating to the legal arrangement and persons concerned with the legal arrangement (set out in Article 3(7) of the Money Laundering Order ). When determining the risk assessment for a legal arrangement ([section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook ), the risk factors set out in [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook and [Section 7.15.1](07-enhanced-simplified-cdd.md#7151-assessment-of-risk) of this Handbook will be relevant in deciding whether it is appropriate to use information provided by the trustee or general partner. In addition, the monitoring measures maintained by a supervised person (see [section 6](06-ongoing-monitoring.md) of this Handbook ) may provide additional comfort that relevant and up-to-date information on identity has been found out.
 
-**127.** In the case of a unit trust which is a third party, individual investors into the unit trust are not considered to be settlors for the purpose of Article 3(7)(a) of the Money Laundering Order. However, the investors may in certain circumstances be considered Beneficial owners and/or controllers and are customers of the fund (see section 13 of this Handbook ).
+**127.** In the case of a unit trust which is a third party, individual investors into the unit trust are not considered to be settlors for the purpose of Article 3(7)(a) of the Money Laundering Order. However, the investors may in certain circumstances be considered Beneficial owners and/or controllers and are customers of the fund (see [section 13](13-fund-services.md) of this Handbook ).
 
 **128.** The following provisions apply to situations where a trustee of an express trust or general partner of a limited partnership is the customer of a supervised person. Sector-specific sections for Trust Company Business and funds and fund operators explain the identification measures to be applied by a trustee or general partner itself in respect of the legal arrangement. See sections 12 and 13 of this Handbook.
 
@@ -590,7 +590,7 @@ tags:
 - the owner or controller of a customer, because of a requirement in Article 3(2)(c)(iii) of the Money Laundering Order to identify the individuals who are the customer's Beneficial owners and/or controllers; or
 - a third party on whose behalf a customer is acting, because of a requirement in Article 3(2)(b)(ii) of the Money Laundering Order to identify the individuals who are the third party's Beneficial owners and/or controllers.
 
-**130.** Where the trustee or general partner is a supervised person carrying on regulated business or is a person who carries on equivalent business to any category of regulated business, it may be possible to apply CDD exemptions under Article 17B and Article 18(3) of the Money Laundering Order. See section 7 of this Handbook.
+**130.** Where the trustee or general partner is a supervised person carrying on regulated business or is a person who carries on equivalent business to any category of regulated business, it may be possible to apply CDD exemptions under Article 17B and Article 18(3) of the Money Laundering Order. See [section 7](07-enhanced-simplified-cdd.md) of this Handbook.
 
 **131.** The measures that must be applied by a supervised person where a third party is a trust need not include a settlor of a trust who is deceased.
 
@@ -636,7 +636,7 @@ tags:
 
     - (iii) where no individual is otherwise identified under sub-paragraphs (i) and (ii) above, individuals who exercise control of the person through positions held (e.g., those who have and exercise strategic decision-taking powers or have and exercise executive control through senior management positions).
 
-    Refer to the flow-chart at section 4.5.1 of this Handbook for a graphical explanation of the process described in the paragraph above.
+    Refer to the flow-chart at [section 4.5.1](#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook for a graphical explanation of the process described in the paragraph above.
 
     **144.** For lower risk relationships, a general threshold of 25% is considered to indicate a material controlling ownership interest in capital. Where the distribution of interests is uneven, the percentage where effective control may be exercised (a material interest) may be less than 25% when the distribution of other interests is considered, i.e., interests of less than 25% may be material interests.
 
@@ -690,7 +690,7 @@ tags:
     - (ii) to the extent that there is doubt as to whether the individuals exercising control through ownership are beneficial owners, or where no individual exerts control through ownership, any other individual exercising control over the partnership through other means. This effectively means anyone exercising control through ownership and anyone exercising control through other means must be ascertained;
     - (iii) where no individual is otherwise identified under sub-paragraphs (i) and (ii), individuals who exercise control of the partnership through positions held (e.g., those who have and exercise strategic decision-taking powers or have and exercise executive control through senior management positions).
 
-    Refer to the flow-chart at section 4.5.1 of this Handbook for a graphical explanation of the process described in the paragraph above.
+    Refer to the flow-chart at [section 4.5.1](#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook for a graphical explanation of the process described in the paragraph above.
 
     **153.** In the case of a lower risk relationship, partners who have and exercise authority to operate a business relationship or one-off transaction will be individuals who exercise control through positions held.
 
@@ -727,7 +727,7 @@ tags:
     - certificate of registration (where a partnership is registered) or copy of such a certificate certified by a suitable certifier;
     - latest audited financial statements or copy of such statements certified by a suitable certifier.
 
-    **160.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(b)(i) of the Money Laundering Order that is reasonably capable of verifying that a partnership which is a third party is what it is said to be where the data or information comes from an independent data source (see Guidance notes at section 4.3.4 of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search, which confirms that the partnership is not in the process of being dissolved, struck off, wound up or terminated.
+    **160.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(b)(i) of the Money Laundering Order that is reasonably capable of verifying that a partnership which is a third party is what it is said to be where the data or information comes from an independent data source (see Guidance notes at [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search, which confirms that the partnership is not in the process of being dissolved, struck off, wound up or terminated.
 
     **161.** Where a partner holds their role by virtue of their employment by (or position in) a business that is a supervised Jersey TCSP, a supervised person may demonstrate that it has taken reasonable measures to find out the identity of that person and to obtain evidence under Article 3(2)(b)(iii)(B) of the Money Laundering Order where it obtains the following:
 
@@ -748,11 +748,11 @@ tags:
 
     - the document provided to the supervised person is a true copy of a document (or evidential report) that is held by the CD regulated TCSP.
 
-    **164.** This will be different to a case where a supervised person decides to make use of Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity may be held by the obliged person, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records - see section 5 of this Handbook.
+    **164.** This will be different to a case where a supervised person decides to make use of Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity may be held by the obliged person, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records - see [section 5](05-reliance-obliged-persons.md) of this Handbook.
 
     **165.** In both cases, the risk of placing reliance on another person to have carried out identification measures must be considered -either as part of an assessment of customer risk under Article 13 of the Money Laundering Order, or assessment of risk under Article 16 of the Money Laundering Order.
 
-    **166.** Nor should provision for copy documentation to be provided by a CD regulated TCSP be confused with 'suitable certification', which is explained in section 4.3.3 of this Handbook.
+    **166.** Nor should provision for copy documentation to be provided by a CD regulated TCSP be confused with 'suitable certification', which is explained in [section 4.3.3](#433-suitable-certification) of this Handbook.
 
     **167.** For the avoidance of doubt this is a very limited provision applying to regulated TCSP and does not extend to other types of supervised business.
 
@@ -771,15 +771,15 @@ tags:
 
     **170.** The settlor of a trust is defined in the Trust Law as '… a person who provides trust property or makes a te stamentary disposition on trust or to a trust'. Consideration should be given as to whether a promoter/instigator/arranger is the settlor, i.e., whether they contribute property to the unit trust directly or indirectly. Where the promoter/instigator/arranger is not a settlor the supervised person should find out who they are to be able to adequately assess the risk of the relationship with the customer, being the trustee of the unit trust.
 
-    **171.** While the individual investors are not considered to be settlors for the purposes of Article 3(7)(a) of the Money Laundering Order (see section 13.3.3 of this Handbook ), each of the unit holders will be customers of the trustee (who is acting on behalf of the unit trust), investing their money into the unit trust. This may include the promoter/instigator/arranger as an investor. In the Trust Law a unit holders' entitlement is described as 'participation by them as beneficiaries under the trust. '
+    **171.** While the individual investors are not considered to be settlors for the purposes of Article 3(7)(a) of the Money Laundering Order (see [section 13.3.3](13-fund-services.md#1333-identification-measures-unit-trusts) of this Handbook ), each of the unit holders will be customers of the trustee (who is acting on behalf of the unit trust), investing their money into the unit trust. This may include the promoter/instigator/arranger as an investor. In the Trust Law a unit holders' entitlement is described as 'participation by them as beneficiaries under the trust. '
 
-    **172.** The trustee of the unit trust is required to maintain adequate, accurate and current basic and beneficial ownership information in relation to the unit trust (see section 12.2.4.1 of this Handbook ). The trustee will apply identification measures to each of the unit holders (the trustee's customers ) based on the structure of that unit holder, whether they be individuals, legal persons, or legal arrangements (see section 4 of this Handbook and section 12.2.4.1 of this Handbook ).
+    **172.** The trustee of the unit trust is required to maintain adequate, accurate and current basic and beneficial ownership information in relation to the unit trust (see [section 12.2.4.1](12-trust-company.md) of this Handbook ). The trustee will apply identification measures to each of the unit holders (the trustee's customers ) based on the structure of that unit holder, whether they be individuals, legal persons, or legal arrangements (see section 4 of this Handbook and [section 12.2.4.1](12-trust-company.md) of this Handbook ).
 
     **173.** Where a supervised person forms a business relationship with the trustee(s) who are acting for the benefit of the unit trust they should apply identification measures to:
 
     - The settlor (see paragraph 170 above) and (if any) the protector;
     - The trustee (there may be more than one) who is the Governing body of the unit trust and contracts on its behalf and is the ' customer '.
-    - Any third parties on whose behalf the trustee(s) are acting. When dealing with a unit trust, a supervised person may demonstrate compliance with Article 3(7) (b) (i) of the Money Laundering Order where they apply identification measures to those unit holders who exercise control over the unit trust or who are deemed to have a material controlling interest of 25% (in lower risk scenarios). In higher risks scenarios, unit holders holding interests of less than 25% may need to be identified and verified. Even where unit holders are not identified and verified (as they fall below the thresholds) sufficient information will need to be obtained about the unit holders to know who they are for the purposes of the risk assessment, customer profiles (see section 13.2.5 of this Handbook ) may be used; and
+    - Any third parties on whose behalf the trustee(s) are acting. When dealing with a unit trust, a supervised person may demonstrate compliance with Article 3(7) (b) (i) of the Money Laundering Order where they apply identification measures to those unit holders who exercise control over the unit trust or who are deemed to have a material controlling interest of 25% (in lower risk scenarios). In higher risks scenarios, unit holders holding interests of less than 25% may need to be identified and verified. Even where unit holders are not identified and verified (as they fall below the thresholds) sufficient information will need to be obtained about the unit holders to know who they are for the purposes of the risk assessment, customer profiles (see [section 13.2.5](13-fund-services.md#1325-documenting-risk-assessments) of this Handbook ) may be used; and
     - any other parties who exercise ultimate control over the trust, such as by other means -for example where an investment manager is the instigator of the unit trust and manages the investments of the unit trust.
 
     **174.** Good practice would be to ensure the terms of engagement/business with the trustee(s) require notification of changes to the beneficial ownership and control structure and any other events that may impact on the risk of the customer relationship.
@@ -830,7 +830,7 @@ tags:
 - a co-operative;
 - a provident society.
 
-**185.** Where information relating to a legal person is not available from a public source, a supervised person will be dependent on the information that is provided by the legal person. When determining the risk assessment for a legal person (section 3.3 of this Handbook ), the risk factors set out in section 3.3.4.1 of this Handbook will be relevant. The risk factors set out in section 7.15.1 of this Handbook will also be relevant in determining whether it is appropriate to use information on a legal person provided through, for example, a TCSP. In addition, the monitoring measures maintained by a supervised person (section 6 of this Handbook ) may provide additional comfort that relevant and up to date information on identity has been found out.
+**185.** Where information relating to a legal person is not available from a public source, a supervised person will be dependent on the information that is provided by the legal person. When determining the risk assessment for a legal person ([section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook ), the risk factors set out in [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook will be relevant. The risk factors set out in [section 7.15.1](07-enhanced-simplified-cdd.md#7151-assessment-of-risk) of this Handbook will also be relevant in determining whether it is appropriate to use information on a legal person provided through, for example, a TCSP. In addition, the monitoring measures maintained by a supervised person ([section 6](06-ongoing-monitoring.md) of this Handbook ) may provide additional comfort that relevant and up to date information on identity has been found out.
 
 **186.** Where a director of a company holds their role by virtue of their employment by (or position in) a business that is a supervised Jersey TCSP, separate provision is made for obtaining evidence of identity. Similar provision is made for a council member of a foundation and for a partner of a partnership.
 
@@ -904,7 +904,7 @@ tags:
     - certificate of incorporation (or other appropriate certificate of registration or licensing), or copy of such a certificate certified by a suitable certifier; and/or
     - latest audited financial statements or copy of such statements certified by a suitable certifier.
 
-    **200.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that a company which is a customer is who it is said to be where the data or information comes from an independent data source (see section 4.3.4 of this Handbook ) or, in the case of a principal place of business, by a personal visit to that address. An independent data source may include a company registry search, which confirms that the company is not in the process of being dissolved, struck off, wound up or terminated.
+    **200.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that a company which is a customer is who it is said to be where the data or information comes from an independent data source (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) or, in the case of a principal place of business, by a personal visit to that address. An independent data source may include a company registry search, which confirms that the company is not in the process of being dissolved, struck off, wound up or terminated.
 
     **201.** Where a person in a senior management position holds their role by virtue of their employment by (or position in) a business that is a supervised Jersey 's TCSP, a supervised person may demonstrate that it has taken reasonable measures to find out the identity of that person and to obtain evidence under Article 3(2)(c)(iii) of the Money Laundering Order where it obtains the following:
 
@@ -943,7 +943,7 @@ tags:
     - (ii) to the extent that there is doubt as to whether the individuals exercising control through ownership are beneficial owners, or where no individual exerts control through ownership, any other individual exercising control over the person through other means. This effectively means that anyone exercising control through ownership and anyone exercising control through other means must be identified;
     - (iii) where no individual is otherwise identified under sub-paragraphs (i) and (ii), individuals who exercise control of the person through positions held (e.g., those who have and exercise strategic decision-taking powers and exercise executive control through senior management positions).
 
-    - (iv) Refer to the flow-chart at section 4.5.1 of this Handbook for a graphical explanation of the process described in the paragraph above.
+    - (iv) Refer to the flow-chart at [section 4.5.1](#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook for a graphical explanation of the process described in the paragraph above.
 
     **206.** In the case of a lower risk relationship, as an alternative to finding out the identity of all council members (and, if any decision requires the approval of any other person, that person), a supervised person may find out the identity of council members who have and exercise authority to operate a business relationship or one-off transaction.
 
@@ -977,7 +977,7 @@ tags:
 
     - latest audited financial statements or copy of such statements certified by a suitable certifier.
 
-    **212.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that a foundation which is a customer is who it is said to be where the data or information comes from an independent data source (see section 4.3.4 of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search on the JFSC 's website (for the business address of the qualified member of the council).
+    **212.** A supervised person may also demonstrate that it has obtained evidence under Article 3(2)(a) of the Money Laundering Order that is reasonably capable of verifying that a foundation which is a customer is who it is said to be where the data or information comes from an independent data source (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search on the JFSC 's website (for the business address of the qualified member of the council).
 
     **213.** Where a council member who is an individual holds their role by virtue of their employment by (or position in) a business that is a supervised Jersey TCSP, a supervised person may demonstrate that it has taken reasonable measures to find out the identity of that person and to obtain evidence under Article 3(2)(c)(iii) of the Money Laundering Order where it obtains the following:
 
@@ -1014,7 +1014,7 @@ tags:
     - (ii) to the extent that there is doubt as to whether the individuals exercising control through ownership are beneficial owners, or where no individual exerts control through ownership, any other individual exercising control over the partnership through other means. This means that anyone exercising control through ownership and anyone exercising control through other means must be identified;
     - (iii) where no individual is otherwise identified under sub-paragraphs (i) and (ii), individuals who exercise control of the partnership through positions held (e.g., those who have and exercise strategic decision-taking powers and exercise executive control through senior management positions).
 
-    - Refer to the flow-chart at section 4.5.1 of this Handbook for a graphical explanation of the process described in the paragraph above.
+    - Refer to the flow-chart at [section 4.5.1](#451-finding-out-identity-legal-person-that-is-a-company) of this Handbook for a graphical explanation of the process described in the paragraph above.
     **220.** In the case of a lower risk relationship, partners who have and exercise authority to operate a business relationship or one-off transaction will be those who exercise control through positions held.
 
     **221.** For lower risk relationships, a general threshold of 25% is considered to indicate a material controlling ownership interest in the capital of a partnership. Where the distribution of interests is uneven, the percentage where effective control may be exercised (a material interest) may be less than 25% when the distribution of other interests is taken into account.
@@ -1048,7 +1048,7 @@ tags:
     - certificate of registration (where a partnership is registered) or copy of such a certificate certified by a suitable certifier; and/or
     - latest audited financial statements or copy of such statements certified by a suitable certifier.
 
-    **226.** A supervised person may also demonstrate that it has obtained evidence that is reasonably capable of verifying that a partnership which is a customer is who it is said to be under Article 3(2)(a) of the Money Laundering Order where the data or information comes from an independent data source (see section 4.3.4 of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search, which confirms that the partnership is not in the process of being dissolved, struck off, wound up or terminated.
+    **226.** A supervised person may also demonstrate that it has obtained evidence that is reasonably capable of verifying that a partnership which is a customer is who it is said to be under Article 3(2)(a) of the Money Laundering Order where the data or information comes from an independent data source (see [section 4.3.4](#434-obtaining-evidence-of-identity-independent-data-sources) of this Handbook ) or (in the case of a principal place of business) personal visit to that address. An independent data source may include a registry search, which confirms that the partnership is not in the process of being dissolved, struck off, wound up or terminated.
 
     **227.** Where a partner holds their role by virtue of their employment by (or position in) a business that is a supervised Jersey TCSP, a supervised person may demonstrate that it has taken reasonable measures under Article 3(2)(c)(iii) of the Money Laundering Order to find out the identity of that person and to obtain evidence where it obtains the following:
 
@@ -1068,11 +1068,11 @@ tags:
     - the CD regulated TCSP is satisfied that the original document seen, or document provided to it by a suitable certifier, or documentary evidence permissible within an E-ID system, provides evidence that the individual is who they are said to be; and
     - the document provided to the supervised person is a true copy of a document (or evidential report) that is held by the CD regulated TCSP.
 
-    **230.** Alternatively, a supervised person may decide to make use of Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity may be held by the obliged person, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records - see section 5 of this Handbook.
+    **230.** Alternatively, a supervised person may decide to make use of Article 16 of the Money Laundering Order - which allows reliance to be placed on reliance identification measures that have already been completed by an obliged person where evidence of identity may be held by the obliged person, and where the obliged person has a continuing responsibility to the supervised person in respect of record-keeping and access to records - see [section 5](05-reliance-obliged-persons.md) of this Handbook.
 
     **231.** In both cases, the risk of placing reliance on another person to have carried out identification measures must be considered -either as part of an assessment of customer risk under Article 13 of the Money Laundering Order, or assessment of risk under Article 16 of the Money Laundering Order.
 
-    **232.** Nor should provision for copy documentation to be provided by a CD regulated TCSP be confused with 'suitable certification', which is explained in section 4.3.3 of this Handbook.
+    **232.** Nor should provision for copy documentation to be provided by a CD regulated TCSP be confused with 'suitable certification', which is explained in [section 4.3.3](#433-suitable-certification) of this Handbook.
 
     **233.** For the avoidance of doubt, this is a very limited provision applying to CD regulated TCSPs and does not extend to other types of supervised business.
 
@@ -1164,7 +1164,7 @@ for the application of identification measures:
 - has made a report under procedures maintained under Article 21 to the FIU.;
 - acting with the consent of that officer, terminates or does not establish that business relationship or does not complete or carry out that transaction.
 
-**256.** Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a business relationship. No similar concession is available for finding out identity. Where a reasonable excuse for the continued delay in obtaining evidence of identity cannot be provided, to comply with Article 14(2) of the Money Laundering Order, a supervised person must terminate the relationship (see section 4.8 of this Handbook ).
+**256.** Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a business relationship. No similar concession is available for finding out identity. Where a reasonable excuse for the continued delay in obtaining evidence of identity cannot be provided, to comply with Article 14(2) of the Money Laundering Order, a supervised person must terminate the relationship (see [section 4.8](#48-failure-to-complete-identification-measures) of this Handbook ).
 
 **257.** Lawyers, Accountants, and certain other professional advisers will also need to consider sections 15.5.3 and 16.4.4 of this Handbook, which provide sector-specific concessions for those who are amidst ascertaining the legal position for their customer or performing the task of defending or representing their customer in legal proceedings.
 
@@ -1198,7 +1198,7 @@ for the application of identification measures:
     - the number of customers for which evidence of identity has not been obtained during a reporting period (also expressed as a percentage of the total number of business relationships established during the reporting period) and summarises reasons;
     - in any case where the delay is for more than a particular period of time, the name of the customer, the reason for the delay, the extent to which evidence of identity has not been obtained, the risk rating given to that customer, and action that is to be taken to obtain evidence or terminate the business relationship (and by when).
 
-    **264.** Guidance as to appropriate steps to take where a supervised person is unable to complete identification measures is provided in section 4.8 of this Handbook.
+    **264.** Guidance as to appropriate steps to take where a supervised person is unable to complete identification measures is provided in [section 4.8](#48-failure-to-complete-identification-measures) of this Handbook.
 
 
 #### 4.7.1 Timing of identification measures during business relationship -Obtaining evidence
@@ -1234,7 +1234,7 @@ for the application of identification measures:
 
 **274.** In line with Article 13(3)(a)(ii) of the Money Laundering Order, identification measures must always be applied to an existing customer as soon as a supervised person suspects money laundering, the financing of terrorism, or the financing of proliferation.
 
-**275.** A supervised person may meet its obligation to apply identification measures by placing reliance on an obliged person. See section 5 of this Handbook.
+**275.** A supervised person may meet its obligation to apply identification measures by placing reliance on an obliged person. See [section 5](05-reliance-obliged-persons.md) of this Handbook.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 

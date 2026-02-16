@@ -11,7 +11,7 @@ tags:
 
 ## 16. ACCOUNTANTS
 
-**1.** Paragraph 22 of Part 3 of Schedule 2 to the Proceeds of Crime Law defines the relevant operations and activities of Accountant s for the purposes of complying with AML requirements in the Money Laundering Order. Guidelines provide interpretation and the activities and operations of Accountant s that are in scope.
+**1.** Paragraph 22 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant operations and activities of Accountant s for the purposes of complying with AML requirements in the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide interpretation and the activities and operations of Accountant s that are in scope.
 
 ## 16.1.2. Accountancy services
 
@@ -45,9 +45,9 @@ Overview
 
 !!! info "Guidance"
 
-    **10.** Supervised persons carrying on supervised business are required to comply with the Money Laundering Order which places obligations on them to combat money laundering, the financing of terrorism, or the financing or proliferation. All such businesses are required to comply with the AML/CFT/CPF Codes of Practice and Guidance notes issued by the JFSC (see section 2.6 of this Handbook, which covers the monitoring of compliance with the same).
+    **10.** Supervised persons carrying on supervised business are required to comply with the Money Laundering Order which places obligations on them to combat money laundering, the financing of terrorism, or the financing or proliferation. All such businesses are required to comply with the AML/CFT/CPF Codes of Practice and Guidance notes issued by the JFSC (see [section 2.6](02-corporate-governance.md#26-the-mlco) of this Handbook, which covers the monitoring of compliance with the same).
 
-    **11.** In addition to reporting on their financial statements, auditors of such businesses are required to report to the JFSC on matters of significance that come to their attention in the course of their work. This includes non-compliance with legislation, departures from its requirements and suspicions that the directors and management of such entities are implicated in money laundering (see section 8 of this Handbook ). Therefore, auditors of such businesses should not only be aware of the key provisions contained in the Money Laundering Order as they affect auditors themselves, but also the requirements of the wider AML/CFT/CPF Handbook, including any sector-specific AML/CFT/CPF Codes of Practice and Guidance notes relevant to the business that they are auditing.
+    **11.** In addition to reporting on their financial statements, auditors of such businesses are required to report to the JFSC on matters of significance that come to their attention in the course of their work. This includes non-compliance with legislation, departures from its requirements and suspicions that the directors and management of such entities are implicated in money laundering (see [section 8](08-reporting-obligations.md) of this Handbook ). Therefore, auditors of such businesses should not only be aware of the key provisions contained in the Money Laundering Order as they affect auditors themselves, but also the requirements of the wider AML/CFT/CPF Handbook, including any sector-specific AML/CFT/CPF Codes of Practice and Guidance notes relevant to the business that they are auditing.
 
 
 ## 16.1.4.2. Audits of other types of entity
@@ -105,7 +105,7 @@ Accountants
 
 **20.** Whilst the Money Laundering Order, and consequently this Handbook, only brings within its scope the business activities of accountancy firms where they are carrying on a supervised business, the Anti-Money Laundering and Counter-Terrorism Legislation and the general offences and penalties cover all persons and all business activities within Jersey. Consequently, accountancy firms undertaking supervised business may wish to consider applying the systems and controls to counter money laundering, the financing of terrorism, or the financing of proliferation across the whole of their business activities.
 
-**21.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in section 3.3.4 of this Handbook.
+**21.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
 ## 16.2.2.1. Accountancy, audit and insolvency services risk
 
@@ -123,7 +123,7 @@ Accountants
     - the potential for money laundering, the financing of terrorism, and the financing of proliferation to become attached to the customer and/or those who trade with or otherwise interact with customers.
     - those providing accountancy services should also consider the risks when:
     - providing assistance in setting up trusts or company structures which could be used to obscure beneficial ownership of monies and assets settled into trust; and
-    - handling the financial affairs, or setting up companies, trusts or other structures for politically exposed persons whose assets and wealth may be derived from the proceeds of corruption (see section 7.6 of this Handbook ).
+    - handling the financial affairs, or setting up companies, trusts or other structures for politically exposed persons whose assets and wealth may be derived from the proceeds of corruption (see [section 7.6](07-enhanced-simplified-cdd.md#76-customer-who-is-a-politically-exposed-person-pep) of this Handbook ).
 
     **24.** Specialisation within a sector that undertakes higher risk activity from a money laundering, terrorist financing, and /or proliferation financing perspective will affect the BRA. Examples of higher risk sectors and sensitive business areas for money laundering, the financing of terrorism, or the financing of proliferation purposes include:
 
@@ -158,7 +158,7 @@ Accountants
 
 Accountants
 
-**27.** This section must be read in conjunction with, and is supplemental to, the Guidance notes set out at section 3.3.2 of this Handbook (Information for Assessing Risk -Stage 1.4).
+**27.** This section must be read in conjunction with, and is supplemental to, the Guidance notes set out at [section 3.3.2](03-identification-overview.md#332-information-for-assessing-risk-stage-14) of this Handbook (Information for Assessing Risk -Stage 1.4).
 
 **28.** The Guidance notes set out below provide sector-specific guidance on additional factors supervised persons providing accountancy services may need to consider, to appropriately assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
@@ -196,7 +196,7 @@ Accountants
 
 ## 16.4.2. Obligation to find out identity and obtain evidence: Individuals
 
-**34.** This sector-specific section is supplementary to and should be read in conjunction with section 4.3 of this Handbook.
+**34.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook.
 
 ## 16.4.2.1. Insolvency cases
 
@@ -211,7 +211,7 @@ Accountants
 
 Accountants
 
-**37.** Section 4.7 of this Handbook sets out statutory requirements under the Money Laundering Order regarding when identification measures must be applied, in respect of a business relationship or one-off transaction.
+**37.** [Section 4.7](04-identification-measures.md#47-timing-of-identification-measures) of this Handbook sets out statutory requirements under the Money Laundering Order regarding when identification measures must be applied, in respect of a business relationship or one-off transaction.
 
 **38.** Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a relationship.
 
@@ -223,7 +223,7 @@ Accountants
 
 Accountants
 
-**41.** This sector-specific section is supplementary to and should be read in conjunction with section 4.7.2 of this Handbook.
+**41.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook.
 
 **42.** For the purposes of the Money Laundering Order, an existing customer means a business relationship established before the Money Laundering Order came into force for Accountant s on 1 May 2008 and which continues.
 
@@ -239,7 +239,7 @@ Accountants
 
 Overview
 
-**46.** Section 4.8 of this Handbook sets out the statutory requirements under the Money Laundering Order to terminate a business relationship or not carry out a one-off transaction where a supervised person is unable to apply identification measures in respect of that relationship or one-off transaction.
+**46.** [Section 4.8](04-identification-measures.md#48-failure-to-complete-identification-measures) of this Handbook sets out the statutory requirements under the Money Laundering Order to terminate a business relationship or not carry out a one-off transaction where a supervised person is unable to apply identification measures in respect of that relationship or one-off transaction.
 
 **47.** A concession from terminating a business relationship is permitted for Accountant s, Lawyers and other professional advisers who are in the course of ascertaining the legal position for their customer or performing the task of defending or representing their customer in legal proceedings (including advice on instigating or avoiding proceedings).
 
@@ -261,7 +261,7 @@ Overview
 
 Accountants
 
-**52.** This section is supplemental to and should be read in conjunction with section 7.15 of this Handbook.
+**52.** This section is supplemental to and should be read in conjunction with [section 7.15](07-enhanced-simplified-cdd.md) of this Handbook.
 
 **53.** Article 17C(1)(c)(iii) of the Money Laundering Order provides that a supervised person that is an Accountant is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer carries on Trust Company Business and is registered to carry on such business under the FS(J) Law, or equivalent business.
 
@@ -286,13 +286,13 @@ Accountants
 
 Accountants
 
-**58.** This section must be read in conjunction with, and is supplemental to, the warning signs set out at section 6.4 of this Handbook.
+**58.** This section must be read in conjunction with, and is supplemental to, the warning signs set out at [section 6.4](06-ongoing-monitoring.md#64-money-laundering-warning-signs) of this Handbook.
 
-**59.** Article 13 of the Money Laundering Order requires a supervised person to apply on-going monitoring throughout the course of a business relationship and take steps to be aware of transactions with heightened money laundering, the financing of terrorism, or the financing of proliferation risks. The Proceeds of Crime Law requires a supervised person to report suspicious transactions and activity (see section 8 of this Handbook ).
+**59.** Article 13 of the Money Laundering Order requires a supervised person to apply on-going monitoring throughout the course of a business relationship and take steps to be aware of transactions with heightened money laundering, the financing of terrorism, or the financing of proliferation risks. The Proceeds of Crime Law requires a supervised person to report suspicious transactions and activity (see [section 8](08-reporting-obligations.md) of this Handbook ).
 
 **60.** This section highlights several warning signs for supervised persons providing accountancy services to help them decide whether there may be reasons for concern or the basis for a reportable suspicion.
 
-**61.** Supervised persons providing accountancy services should have regard both to the sectorspecific warning signs set out below and the general indicators described at section 6.4 of this Handbook, where they may become vulnerable to money laundering, the financing of terrorism, or the financing of proliferation. These warning signs apply both to circumstances that may arise at the start of a business relationship and to those arising during on-going monitoring.
+**61.** Supervised persons providing accountancy services should have regard both to the sectorspecific warning signs set out below and the general indicators described at [section 6.4](06-ongoing-monitoring.md#64-money-laundering-warning-signs) of this Handbook, where they may become vulnerable to money laundering, the financing of terrorism, or the financing of proliferation. These warning signs apply both to circumstances that may arise at the start of a business relationship and to those arising during on-going monitoring.
 
 This version is effective from: 1 September 2023
 
@@ -373,9 +373,9 @@ Accountants
 
 ## 16.7.1. Further enquiries by auditors
 
-**75.** This section is supplemental to and should be read in conjunction with section 8.2 of this Handbook (Reporting knowledge or suspicion).
+**75.** This section is supplemental to and should be read in conjunction with [section 8.2](08-reporting-obligations.md#82-reporting-knowledge-or-suspicion) of this Handbook (Reporting knowledge or suspicion).
 
-**76.** Section 8.2 of this Handbook states that there is a reporting requirement under Article 34D of the Proceeds of Crime Law and Article 21 of the Terrorism Law to make a SAR when there is knowledge, suspicion or reasonable grounds for suspecting that:
+**76.** [Section 8.2](08-reporting-obligations.md#82-reporting-knowledge-or-suspicion) of this Handbook states that there is a reporting requirement under Article 34D of the Proceeds of Crime Law and Article 21 of the Terrorism Law to make a SAR when there is knowledge, suspicion or reasonable grounds for suspecting that:
 
 - another person is engaged in money laundering or the financing of terrorism; or
 - any property constitutes or represents proceeds of criminal conduct; or
@@ -418,7 +418,7 @@ Accountants
 
 **87.** If the customer falls within the definition of a financial services business, legislation relating to money laundering will be central to the operation of their business. When auditing the financial statements of such customers, the auditor must review the steps taken by the customer to comply with the Money Laundering Order and the JFSC's other regulatory requirements, assess their effectiveness and obtain board/senior management representations concerning compliance with them. If the customer's systems and controls (including policies and procedures ) appear to be ineffective, the auditor must consider whether there is an obligation to report a matter of 'material significance' to the JFSC and the possible impact of any regulatory action which may arise from the same (see section 16.7.3 of this Handbook for further information).
 
-**88.** The auditor will need to consider whether any contingent liabilities may arise in this area. For example, there may be criminal fines for non-compliance with the Anti-Money Laundering and Counter-Terrorism Legislation. In certain circumstances, civil claims or confiscation proceedings may occur, giving rise to contingent liabilities. The auditor will also need to remain alert to the fact that discussions with the customer on such matters may create a risk of tipping off (see section 8.5 of this Handbook ).
+**88.** The auditor will need to consider whether any contingent liabilities may arise in this area. For example, there may be criminal fines for non-compliance with the Anti-Money Laundering and Counter-Terrorism Legislation. In certain circumstances, civil claims or confiscation proceedings may occur, giving rise to contingent liabilities. The auditor will also need to remain alert to the fact that discussions with the customer on such matters may create a risk of tipping off (see [section 8.5](08-reporting-obligations.md#85-tipping-off) of this Handbook ).
 
 **89.** In some situations, the auditor's customer may have obtained legal advice to the effect that certain actions or circumstances do not give rise to criminal conduct and therefore cannot give rise to criminal property. Determining whether an act constitutes non-compliance with the Anti-Money Laundering and Counter-Terrorism Legislation may involve consideration of matters which do not lie within the competence and experience of the auditor. As a result, provided that the auditor considers that the advice has been obtained from a suitably qualified and independent Lawyer and the Lawyer was made aware of all relevant circumstances known to the auditor, then the auditor may rely on such advice, provided the auditor has complied with auditing standards on using the work of an expert.
 
@@ -463,9 +463,9 @@ Accountants
 - the consequences of the crime have a material effect on the financial statements; or
 - the outcome of any subsequent investigation by the investigating agencies may have a material effect on the financial statements.
 
-**97.** If it is known that money laundering or the financing of terrorism has occurred and members of the customer's board or senior management were knowingly involved, the auditor will need to consider whether their report will include a qualified opinion on the financial statements disclosing the same. Any such disclosure in the auditor's report will be subject to the tipping off requirements set out at section 8.5 of this Handbook. It might be necessary for the auditor, through the MLRO (or Deputy MLRO ), to discuss with the relevant law enforcement agency whether disclosure in their report on the financial statements could constitute a tipping-off offence. If so the auditor, through the MLRO (or Deputy MLRO ), will need to seek guidance on an acceptable form of words with the FIU.
+**97.** If it is known that money laundering or the financing of terrorism has occurred and members of the customer's board or senior management were knowingly involved, the auditor will need to consider whether their report will include a qualified opinion on the financial statements disclosing the same. Any such disclosure in the auditor's report will be subject to the tipping off requirements set out at [section 8.5](08-reporting-obligations.md#85-tipping-off) of this Handbook. It might be necessary for the auditor, through the MLRO (or Deputy MLRO ), to discuss with the relevant law enforcement agency whether disclosure in their report on the financial statements could constitute a tipping-off offence. If so the auditor, through the MLRO (or Deputy MLRO ), will need to seek guidance on an acceptable form of words with the FIU.
 
-**98.** As noted at section 8.4 of this Handbook, the FIU is not able to advise or instruct in respect of a supervised person's professional conduct. Auditors must therefore bear this in mind when discussing a potential form of words with the FIU which can then be used in communicating with the customer. In circumstances like these, the auditor may also wish to consider seeking legal advice to reduce the risk of committing a tipping off offence.
+**98.** As noted at [section 8.4](08-reporting-obligations.md#84-fiu-consent) of this Handbook, the FIU is not able to advise or instruct in respect of a supervised person's professional conduct. Auditors must therefore bear this in mind when discussing a potential form of words with the FIU which can then be used in communicating with the customer. In circumstances like these, the auditor may also wish to consider seeking legal advice to reduce the risk of committing a tipping off offence.
 
 **99.** A delay in issuing the audit report pending the outcome of an investigation may not be practicable for the auditor and could itself create a risk of tipping off.
 

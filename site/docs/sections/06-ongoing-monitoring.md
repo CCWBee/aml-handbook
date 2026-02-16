@@ -14,17 +14,17 @@ tags:
 - scrutinising transactions undertaken throughout the course of a business relationship and
 - keeping documents, data, or information up-to-date and relevant.
 
-**2.** The obligation to monitor a business relationship finishes at the time that it is terminated. In a case where a relationship has been terminated, but where payment for a service remains outstanding, a supervised person will still need to consider reporting provisions summarised in section 8 of this Handbook. For example, where there is suspicion that payment for the service is made from the proceeds of criminal conduct or instrumentalities.
+**2.** The obligation to monitor a business relationship finishes at the time that it is terminated. In a case where a relationship has been terminated, but where payment for a service remains outstanding, a supervised person will still need to consider reporting provisions summarised in [section 8](08-reporting-obligations.md) of this Handbook. For example, where there is suspicion that payment for the service is made from the proceeds of criminal conduct or instrumentalities.
 
 **3.** This section explains the measures required to demonstrate compliance with the requirement to scrutinise transactions and sets a requirement to scrutinise customer activity.
 
-**4.** The requirement to keep documents, data, or information up-to-date and relevant is covered at section 3.4 of this Handbook.
+**4.** The requirement to keep documents, data, or information up-to-date and relevant is covered at [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook.
 
 ### 6.2 Obligation to perform on-going monitoring
 
 !!! danger "Statutory Requirement"
 
-    **5.** Article 3(3) of the Money Laundering Order sets out what on-going monitoring is to involve:
+    **5.** Article 3(3) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) sets out what on-going monitoring is to involve:
 
     - scrutinising transactions undertaken throughout the course of a business relationship to ensure that the transactions being conducted are consistent with the relevant person's knowledge of the customer, including the customer's business and risk profile. See Article 3(3)(a) of the Money Laundering Order;
     - keeping documents, data, or information up-to-date and relevant by undertaking reviews of existing records, particularly in relation to higher risk categories of customers. See Article 3(3)(b) of the Money Laundering Order.
@@ -94,17 +94,17 @@ tags:
 
 **22.** For some customers, additional information may only become evident during the course of the business relationship (i.e., whilst acting for the customer ), leading to a revised profile and risk assessment. This requires particular diligence and care when updating documents, data or information and when scrutinising and monitoring customer activity and transactions. In these cases, appropriate staff training in the recognition of unusual transactions and activity is vital, as are relevant systems and controls.
 
-**23.** Higher risk transactions/activity may be recognised by developing a set of 'red flags' or indicators which may indicate money laundering, the financing of terrorism, or the financing of proliferation, based on a supervised person's understanding of its business, products and customers (i.e. the outcome of its BRA -section 2.3.1 of this Handbook ).
+**23.** Higher risk transactions/activity may be recognised by developing a set of 'red flags' or indicators which may indicate money laundering, the financing of terrorism, or the financing of proliferation, based on a supervised person's understanding of its business, products and customers (i.e. the outcome of its BRA -[section 2.3.1](02-corporate-governance.md#231-bra) of this Handbook ).
 
-**24.** Complex transactions/activity may be recognised by developing a set of indicators, based on a supervised person's understanding of its business, its products and its customers (i.e., the outcome of its BRA -section 2.3.1 of this Handbook ).
+**24.** Complex transactions/activity may be recognised by developing a set of indicators, based on a supervised person's understanding of its business, its products and its customers (i.e., the outcome of its BRA -[section 2.3.1](02-corporate-governance.md#231-bra) of this Handbook ).
 
 **25.** External data sources and media reports may also assist with the identification of notable transactions and activity.
 
 **26.** Where notable transactions or activity are recognised, they will need to be examined. The purpose of this examination is to determine whether there is an apparent economic or visible lawful purpose for the transactions or activity. It is not necessary (nor will it be possible) to conclude with certainty that a transaction or activity has an economic or lawful purpose. Sometimes, it may be possible to make such a determination based on an existing customer business and risk profile and on occasion this examination will involve requesting additional information from a customer.
 
-**27.** Notable transactions or activity may indicate money laundering, the financing of terrorism, or the financing of proliferation where there is no apparent economic or visible lawful purpose for the transaction or activity, i.e., they are no longer just unusual, but may also be suspicious. Reporting of knowledge, suspicion, or reasonable grounds for knowledge or suspicion of money laundering or the financing of terrorism or proliferation financing is addressed in section 8 of this Handbook.
+**27.** Notable transactions or activity may indicate money laundering, the financing of terrorism, or the financing of proliferation where there is no apparent economic or visible lawful purpose for the transaction or activity, i.e., they are no longer just unusual, but may also be suspicious. Reporting of knowledge, suspicion, or reasonable grounds for knowledge or suspicion of money laundering or the financing of terrorism or proliferation financing is addressed in [section 8](08-reporting-obligations.md) of this Handbook.
 
-**28.** Practical guidance on financial sanctions implementation matters, including an explanation of reporting obligations under the Sanctions and Asset-Freezing Law, is provided on the JFSC 's website. See also section 8.8 of this Handbook.
+**28.** Practical guidance on financial sanctions implementation matters, including an explanation of reporting obligations under the Sanctions and Asset-Freezing Law, is provided on the JFSC 's website. See also [section 8.8](08-reporting-obligations.md#88-sanctions-compliance-reporting-obligations-under-the-sanctions-and-asset-freezing-law) of this Handbook.
 
 **29.** Scrutiny may involve both real time and post event monitoring. Real time monitoring will focus on transactions and activity when information or instructions are received from a customer, before or as the instruction is processed. Post event monitoring may involve end of day, weekly, monthly or annual reviews of customer transactions and activity. Real time monitoring of transactions and activity will more effectively reduce a supervised person's exposure to money laundering, the financing of terrorism, and the financing of proliferation. Post event monitoring may be more effective at identifying unusual patterns.
 
@@ -112,11 +112,11 @@ tags:
 
 **31.** The examination of notable transactions or activity may also be conducted either by customer facing employees, or by an independent reviewer. In any case, the examiner must have access to all customer records.
 
-**32.** The results of an examination should be recorded, and appropriate action taken. Refer to section 10 of this Handbook for record-keeping requirements in relation to the examination of notable transactions and activity.
+**32.** The results of an examination should be recorded, and appropriate action taken. Refer to [section 10](10-record-keeping.md) of this Handbook for record-keeping requirements in relation to the examination of notable transactions and activity.
 
-**33.** To recognise money laundering, the financing of terrorism, and the financing of proliferation, employees will need to have a good level of awareness of each, and to have received training. Refer to section 9 of this Handbook for raising of awareness and training.
+**33.** To recognise money laundering, the financing of terrorism, and the financing of proliferation, employees will need to have a good level of awareness of each, and to have received training. Refer to [section 9](09-screening-awareness-training.md) of this Handbook for raising of awareness and training.
 
-**34.** Where on-going monitoring indicates possible money laundering, the financing of terrorism, or the financing of proliferation activity, an internal SAR must be made to the MLRO. Reporting of knowledge, suspicion, or reasonable grounds for knowledge or suspicion, of money laundering, the financing of terrorism, or the financing of proliferation is addressed in section 8 of this Handbook.
+**34.** Where on-going monitoring indicates possible money laundering, the financing of terrorism, or the financing of proliferation activity, an internal SAR must be made to the MLRO. Reporting of knowledge, suspicion, or reasonable grounds for knowledge or suspicion, of money laundering, the financing of terrorism, or the financing of proliferation is addressed in [section 8](08-reporting-obligations.md) of this Handbook.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -143,10 +143,10 @@ tags:
 
     **39.** A supervised person may demonstrate that CDD policies and procedures are appropriate where the following are used to recognise notable transactions or activity:
 
-    - customer business and risk profile -see section 3.3.5 of this Handbook;
-    - ' r ed flags' or indicators of higher risk that reflect the risk that is present in the supervised person's customer base -based on its BRA (refer to section 2.3.1 of this Handbook ), information published from time-to-time by the JFSC or FIU, e.g., findings of supervisory and themed examinations and typologies, and information published by reliable and independent third parties;
-    - ' red f lags' or indicators of complex transactions and activity based on its BRA (refer to section 2.3.1 of this Handbook ), information published from time-to-time by the JFSC or FIU, e.g. findings of supervisory and themed examinations and typologies, and information published by reliable and independent third parties; and
-    - 'red flags' or indicators of sanctions evasion - based on its BRA (refer to section 2.3.1 of this Handbook ), information published from time-to-time by the JFSC or the Government of Jersey, e.g. findings of supervisory/themed examinations and typologies, and information published by reliable and independent third parties.
+    - customer business and risk profile -see [section 3.3.5](03-identification-overview.md#335-customer-business-and-risk-profile-stage-22) of this Handbook;
+    - ' r ed flags' or indicators of higher risk that reflect the risk that is present in the supervised person's customer base -based on its BRA (refer to [section 2.3.1](02-corporate-governance.md#231-bra) of this Handbook ), information published from time-to-time by the JFSC or FIU, e.g., findings of supervisory and themed examinations and typologies, and information published by reliable and independent third parties;
+    - ' red f lags' or indicators of complex transactions and activity based on its BRA (refer to [section 2.3.1](02-corporate-governance.md#231-bra) of this Handbook ), information published from time-to-time by the JFSC or FIU, e.g. findings of supervisory and themed examinations and typologies, and information published by reliable and independent third parties; and
+    - 'red flags' or indicators of sanctions evasion - based on its BRA (refer to [section 2.3.1](02-corporate-governance.md#231-bra) of this Handbook ), information published from time-to-time by the JFSC or the Government of Jersey, e.g. findings of supervisory/themed examinations and typologies, and information published by reliable and independent third parties.
 
     **40.** A supervised person may demonstrate that CDD policies and procedures are appropriate if examination of notable transactions or activity includes:
 
@@ -194,7 +194,7 @@ tags:
 
 **46.** As a part of its on-going monitoring procedures, a supervised person must establish and maintain appropriate policies and procedures to monitor all customer transactions and activity to recognise whether any business relationships or one-off transactions are directly or indirectly with such sanctioned persons, organisations, or other parties.
 
-**47.** There is not a separate requirement to examine, or have policies and procedures in place to examine, business relationships with an enhanced risk state once they are recognised. This is because enhanced CDD measures are required to be applied in line with Article 15(1)(c) of the Money Laundering Order. See section 7.5 of this Handbook.
+**47.** There is not a separate requirement to examine, or have policies and procedures in place to examine, business relationships with an enhanced risk state once they are recognised. This is because enhanced CDD measures are required to be applied in line with Article 15(1)(c) of the Money Laundering Order. See [section 7.5](07-enhanced-simplified-cdd.md#75-customer-with-relevant-connection-to-an-enhanced-risk-state) of this Handbook.
 
 **48.** There is not a statutory requirement to examine, or have policies and procedures in place to examine, business relationships or one-off transactions with a designated person once they are recognised. This is because provisions in financial sanctions legislation must be followed. Among other things, such provisions may prohibit certain activities or require the property to be frozen. Further guidance is published on the JFSC 's website and the Government of Jersey website.
 
@@ -225,7 +225,7 @@ tags:
 
     **56.** A supervised person may demonstrate that CDD policies and procedures are appropriate where the following are used to recognise connections with enhanced risk states, sanctioned countries and territories, and sanctioned persons:
 
-    - all customers -Business and risk profile in line with section 3.3.5 of this Handbook;
+    - all customers -Business and risk profile in line with [section 3.3.5](03-identification-overview.md#335-customer-business-and-risk-profile-stage-22) of this Handbook;
     - all customers -Adopting the sanctions designations lists as a comprehensive listing of sanctions measures applicable in Jersey;
     - all customers -Considering methods of identifying possible indirect associations and connections that may exist between the supervised person's customer and any sanctioned persons and/or enhanced risk states, that will not immediately be obvious from screening of the relevant sanctions designations lists;
     - enhanced risk states -Appendix D1 of this Handbook; and
@@ -309,7 +309,7 @@ tags:
 
 ### 6.4 Money laundering warning signs
 
-**75.** Article 13 of the Money Laundering Order requires a supervised person to apply on-going monitoring throughout the course of a business relationship and take steps to be aware of transactions with heightened money laundering, the financing of terrorism, and the financing of proliferation risks. The Proceeds of Crime Law requires a supervised person to report suspicious transactions and activity (see section 8 of this Handbook ).
+**75.** Article 13 of the Money Laundering Order requires a supervised person to apply on-going monitoring throughout the course of a business relationship and take steps to be aware of transactions with heightened money laundering, the financing of terrorism, and the financing of proliferation risks. The [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) requires a supervised person to report suspicious transactions and activity (see [section 8](08-reporting-obligations.md) of this Handbook ).
 
 **76.** This section highlights several general warning signs for supervised persons to help them decide whether there may be reasons for concern, or the basis for a reportable suspicion.
 
@@ -369,7 +369,7 @@ tags:
 
 **90.** If there are reasonable grounds to suspect that a customer knew or suspected that their actions were criminal, a report must be made. Even if the customer does not have the relevant intent, but the supervised person is aware that there is criminal property, consideration needs to be given to whether a report must be made to the FIU.
 
-**91.** In all circumstances, supervised persons should be mindful of committing a 'tipping -off' offence as set out at Article 35(4) of the Proceeds of Crime Law. See section 8.5 of this Handbook for more information.
+**91.** In all circumstances, supervised persons should be mindful of committing a 'tipping -off' offence as set out at Article 35(4) of the Proceeds of Crime Law. See [section 8.5](08-reporting-obligations.md#85-tipping-off) of this Handbook for more information.
 
 ##### 6.4.4.2 Holding of funds
 
@@ -429,7 +429,7 @@ tags:
 
 **103.** While most charities are used for legitimate reasons, they can be used as vehicles for money laundering, the financing of terrorism, or the financing of proliferation.
 
-**104.** Supervised persons acting for charities should consider their purpose and the organisations they are aligned with. If money is being received on the charity's behalf from an individual or a company donor, or a bequest from an estate, supervised persons should be alert to unusual circumstances, such as receipt of unexpectedly large sums of money. For further guidance relating to NPOs, see section 17 of this Handbook.
+**104.** Supervised persons acting for charities should consider their purpose and the organisations they are aligned with. If money is being received on the charity's behalf from an individual or a company donor, or a bequest from an estate, supervised persons should be alert to unusual circumstances, such as receipt of unexpectedly large sums of money. For further guidance relating to NPOs, see [section 17](17-prescribed-npos.md) of this Handbook.
 
 #### 6.4.7 Taxation matters
 

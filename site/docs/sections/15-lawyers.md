@@ -13,7 +13,7 @@ tags:
 
 ## 15.1. Definition of Lawyers undertaking Supervised business
 
-**1.** Paragraph 21 of Part 3 of Schedule 2 to the Proceeds of Crime Law defines the relevant operations and activities of lawyers, notaries, and other independent legal professionals ( Lawyers ) for the purposes of the complying with the requirements of the Money Laundering Order. Guidelines provide the interpretation and activities and operations of Lawyers that are in scope.
+**1.** Paragraph 21 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant operations and activities of lawyers, notaries, and other independent legal professionals ( Lawyers ) for the purposes of the complying with the requirements of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide the interpretation and activities and operations of Lawyers that are in scope.
 
 ## 15.1.1. Activities to which the Money Laundering Order applies
 
@@ -62,7 +62,7 @@ Lawyers
 
 **12.** Supervised persons carrying on supervised business specified at paragraph 21, Part 3 of Schedule 2 of the Proceeds of Crime Law ( Lawyers ) should consider the different types of risk to which they are exposed when providing services. The risks should be considered within the context that a supervised person may be used to launder funds or assets through that supervised person or, alternatively, that the customer or its counterparties may launder criminal funds or assets, but in a way that does not touch the supervised person. This service area risk assessment must also be reflected when undertaking a CRA.
 
-**13.** The following sub-sections set out some key legal service area vulnerabilities drawn from FATF and law enforcement guidance and case studies, and some key warning signs that have been drawn up by the Law Society for England and Wales, as an indication of service area vulnerabilities. Further factors to consider when evaluating the risks posed by customers and service areas are set out in section 3.3.4 of this Handbook.
+**13.** The following sub-sections set out some key legal service area vulnerabilities drawn from FATF and law enforcement guidance and case studies, and some key warning signs that have been drawn up by the Law Society for England and Wales, as an indication of service area vulnerabilities. Further factors to consider when evaluating the risks posed by customers and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
 ## 15.3.1.1. Use of client accounts
 
@@ -72,7 +72,7 @@ Lawyers
 
     **14.** Lawyers should not provide a banking service for their customers. However, it can be difficult to draw a distinction between holding customer money for a legitimate transaction and acting more like a bank. For example, when the proceeds of a sale are left with a supervised person to make payments, these payments may be to mainstream lending companies, but may also be to more obscure recipients, including private individuals, whose identity is difficult or impossible to check.
 
-    **15.** Situations which could give rise to cause for concern are detailed at section 6.4.2.2 of this Handbook.
+    **15.** Situations which could give rise to cause for concern are detailed at [section 6.4.2.2](06-ongoing-monitoring.md#6422-changing-instructions) of this Handbook.
 
     **16.** Supervised persons should think carefully before disclosing client account details as this allows money to be deposited into a client account without the supervised person's knowledge. If it is necessary to provide account details, supervised persons should ask the customer where the funds will be coming from. Will it be an account in their name, from Jersey or another jurisdiction? Supervised persons should consider whether they are prepared to accept funds from any source that they are concerned about.
 
@@ -112,7 +112,7 @@ Lawyers
     - where estate assets have been earned in a foreign jurisdiction, supervised persons should be aware of the wide definition of criminal conduct in the Proceeds of Crime Law; and
     - where estate assets have been earned or are located in a higher risk country or territory, supervised persons may need to make further checks about the source of those funds.
 
-    **23.** Supervised persons should be alert from the outset and monitor throughout so that any disclosure can be considered as soon as knowledge or suspicion is formed, and problems of delayed consent can be avoided (see section 8.4 of this Handbook ).
+    **23.** Supervised persons should be alert from the outset and monitor throughout so that any disclosure can be considered as soon as knowledge or suspicion is formed, and problems of delayed consent can be avoided (see [section 8.4](08-reporting-obligations.md#84-fiu-consent) of this Handbook ).
 
     **24.** Supervised persons should bear in mind that an estate may include criminal property. An extreme example would be where the supervised person knows or suspects that the deceased person was accused or convicted of acquisitive criminal conduct during their lifetime.
 
@@ -307,9 +307,9 @@ Lawyers
 
 ## The MLRO
 
-**65.** This section is supplemental to and should be read in conjunction with section 2.7 of this Handbook.
+**65.** This section is supplemental to and should be read in conjunction with [section 2.7](02-corporate-governance.md#27-the-mlro) of this Handbook.
 
-**66.** Section 2.7 of this Handbook sets out statutory requirements under the Money Laundering Order and AML/CFT/CPF Codes of Practice regarding the appointment a MLRO and, where relevant, Deputy MLROs.
+**66.** [Section 2.7](02-corporate-governance.md#27-the-mlro) of this Handbook sets out statutory requirements under the Money Laundering Order and AML/CFT/CPF Codes of Practice regarding the appointment a MLRO and, where relevant, Deputy MLROs.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -324,7 +324,7 @@ Lawyers
 
 ## 15.5.1. Timing of identification measures
 
-**68.** Section 4.7 of this Handbook sets out statutory requirements under the Money Laundering Order regarding when identification measures must be applied, in respect of a business relationship or one-off transaction.
+**68.** [Section 4.7](04-identification-measures.md#47-timing-of-identification-measures) of this Handbook sets out statutory requirements under the Money Laundering Order regarding when identification measures must be applied, in respect of a business relationship or one-off transaction.
 
 **69.** Article 13(4) of the Money Laundering Order allows, in certain circumstances, a supervised person a reasonable timeframe to undertake the necessary enquiries for obtaining evidence of identity after the initial establishment of a relationship.
 
@@ -336,7 +336,7 @@ Lawyers
 
 Lawyers
 
-**72.** This sector-specific section is supplementary to and should be read in conjunction with section 4.7.2 of this Handbook.
+**72.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook.
 
 **73.** For the purposes of the Money Laundering Order, an existing customer means a business relationship established before the Money Laundering Order came into force for Lawyers on 1 May 2008 and which continues.
 
@@ -350,7 +350,7 @@ Lawyers
 
 Lawyers
 
-**77.** Section 4.8 above sets out the statutory requirements under the Money Laundering Order to terminate a business relationship or not carry out a one-off transaction where a supervised person is unable to apply identification measures in respect of that relationship or one-off transaction.
+**77.** [Section 4.8](04-identification-measures.md#48-failure-to-complete-identification-measures) above sets out the statutory requirements under the Money Laundering Order to terminate a business relationship or not carry out a one-off transaction where a supervised person is unable to apply identification measures in respect of that relationship or one-off transaction.
 
 **78.** A concession from terminating a business relationship is permitted for Accountant s, Lawyers and other professional advisers who are in the course of ascertaining the legal position for their customer or performing the task of defending or representing their customer in legal proceedings (including advice on instigating or avoiding proceedings).
 
@@ -378,7 +378,7 @@ Lawyers
 
 ## 15.6.1. Exemption from applying third party identification requirements in relation to certain relevant customers involved in Trust Company Business
 
-**84.** This section is supplemental to and should be read in conjunction with section 7.15 of this Handbook.
+**84.** This section is supplemental to and should be read in conjunction with [section 7.15](07-enhanced-simplified-cdd.md) of this Handbook.
 
 **85.** Article 17C(1)(c)(ii) of the Money Laundering Order provides that a supervised person that is a Lawyer is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer carries on Trust Company Business and is registered to carry on such business under the FS(J) Law, or equivalent business.
 
@@ -464,7 +464,7 @@ Lawyers
 
 Lawyers
 
-**91.** This section is supplemental to and should be read in conjunction with section 7.16 of this Handbook.
+**91.** This section is supplemental to and should be read in conjunction with [section 7.16](07-enhanced-simplified-cdd.md#716-further-exemptions-from-applying-identification-requirements) of this Handbook.
 
 **92.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the Control of Housing and Work (Jersey) Law 2012 (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
 
@@ -481,7 +481,7 @@ Lawyers
 
 Lawyers
 
-**95.** This section is supplemental to and should be read in conjunction with the AML/CFT/CPF Codes of Practice and Guidance notes set out at section 8 of this Handbook.
+**95.** This section is supplemental to and should be read in conjunction with the AML/CFT/CPF Codes of Practice and Guidance notes set out at [section 8](08-reporting-obligations.md) of this Handbook.
 
 ## 15.7.1. Legal Professional Privilege (LPP)
 

@@ -21,20 +21,20 @@ tags:
 
 **4.** Where a supervised person is not a company but is, for example, a partnership, references in this section to 'the board' should be read as meaning the senior management of that person, including the board of a legal arrangement's Governing body. In the case of a sole trader, 'the board' will be the sole trader. In the case of an overseas company carrying on a supervised business in Jersey through a branch, 'the board' should be read as including the local management function of that branch in Jersey.
 
-**5.** Section 18 of this Handbook details how a supervised person who meets certain criteria to appoint an AMLSP may fulfil its obligations.
+**5.** [Section 18](18-aml-providers.md) of this Handbook details how a supervised person who meets certain criteria to appoint an AMLSP may fulfil its obligations.
 
 ### 2.2 AML/CFT/CPF measures
 
 !!! danger "Statutory Requirement"
 
-    **6.** In accordance with Article 37 of the Proceeds of Crime Law, a relevant person must take prescribed measures to prevent and detect money laundering and the financing of terrorism. Failure to take such measures is a criminal offence and, where such an offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director or manager or officer of the relevant person, they too shall be deemed to have committed a criminal offence.
+    **6.** In accordance with Article 37 of the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999), a relevant person must take prescribed measures to prevent and detect money laundering and the financing of terrorism. Failure to take such measures is a criminal offence and, where such an offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director or manager or officer of the relevant person, they too shall be deemed to have committed a criminal offence.
 
     **7.** Article 37 enables the Minister for External Relations and Financial Services to prescribe by Order the measures that must be taken (including measures not to be taken)
 
     - (i) by a relevant person; and
     - (ii) by an AMLSP appointed by a relevant person.
 
-    These measures are established in the Money Laundering Order.
+    These measures are established in the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008).
 
     These measures are established in the
 
@@ -57,14 +57,14 @@ tags:
 
     **10.** Article 11(1) of the Money Laundering Order requires a relevant person to establish and maintain appropriate and consistent policies and procedures in respect of the person's financial services business, and financial services business carried on by a subsidiary, to prevent and detect money laundering and the financing of terrorism.
 
-    **11.** Article 11(11) of the Money Laundering Order requires a relevant person to establish and maintain adequate procedures for monitoring compliance with and testing the effectiveness of: (i) its policies and procedures; (ii) its measures to promote AML/CFT/CPF awareness; and (iii) its training of relevant employees (see Section 9 of this Handbook).
+    **11.** Article 11(11) of the Money Laundering Order requires a relevant person to establish and maintain adequate procedures for monitoring compliance with and testing the effectiveness of: (i) its policies and procedures; (ii) its measures to promote AML/CFT/CPF awareness; and (iii) its training of relevant employees (see [Section 9](09-screening-awareness-training.md) of this Handbook).
 
     **12.** Articles 7 and 8 of the Money Laundering Order require that a relevant person appoints a MLCO and a MLRO.
 
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
-    **13.** The board must conduct and record a BRA in respect of the supervised person. In particular, the board must consider, on an on-going basis, the supervised person's risk appetite and the extent of the supervised person's exposure to money laundering, the financing of terrorism, and the financing of proliferation risks 'in the round' or as a whole by reference to the supervised person's organisational structure, customers, the countries and territories with which those customers are connected, the products and services the supervised person provides and how those products and services are delivered. The assessment must consider the cumulative effect of risks identified, which may exceed the sum of each individual risk element. The board's assessment must be kept up -todate (see section 2.3.1 of this Handbook ).
+    **13.** The board must conduct and record a BRA in respect of the supervised person. In particular, the board must consider, on an on-going basis, the supervised person's risk appetite and the extent of the supervised person's exposure to money laundering, the financing of terrorism, and the financing of proliferation risks 'in the round' or as a whole by reference to the supervised person's organisational structure, customers, the countries and territories with which those customers are connected, the products and services the supervised person provides and how those products and services are delivered. The assessment must consider the cumulative effect of risks identified, which may exceed the sum of each individual risk element. The board's assessment must be kept up -todate (see [section 2.3.1](#231-bra) of this Handbook ).
 
     **14.** Based on its BRA, the board must establish a formal strategy to counter money laundering, the financing of terrorism, and the financing of proliferation. Where a supervised person forms part of a group operating outside the Island, that strategy may protect both its global reputation and its Jersey business.
 
@@ -72,13 +72,13 @@ tags:
 
     - organise and control its affairs in a way that effectively mitigates the risks that it has identified, including areas that are complex; and
 
-    - be able to demonstrate the existence of adequate and effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, and the financing of proliferation (see Section 2.4 of this Handbook ).
+    - be able to demonstrate the existence of adequate and effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, and the financing of proliferation (see [Section 2.4](#24-adequate-and-effective-systems-and-controls) of this Handbook ).
 
     **16.** The board must document its systems and controls (including policies and procedures ) and clearly apportion responsibilities for countering money laundering, the financing of terrorism, or the financing of proliferation, and, in particular, responsibilities of the MLCO and MLRO (see sections 2.5 and 2.6 of this Handbook ).
 
     **17.** The board must assess both the effectiveness of, and compliance with, systems and controls (including policies and procedures ) and take prompt action necessary to address any deficiencies (see sections 2.4.1 and 2.4.2 of this Handbook ).
 
-    **18.** The board must consider what barriers (including cultural barriers) exist to prevent the operation of effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, or the financing of proliferation, and must take effective measures to address them (see section 2.4.3 of this Handbook ).
+    **18.** The board must consider what barriers (including cultural barriers) exist to prevent the operation of effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, or the financing of proliferation, and must take effective measures to address them (see [section 2.4.3](#243-consideration-of-cultural-barriers) of this Handbook ).
 
     **19.** The board must notify the JFSC immediately in writing of any material failures to comply with the requirements of the Money Laundering Order or the AML/CFT/CPF Handbook.
 
@@ -124,7 +124,7 @@ tags:
 
     - considering the risk that is involved in placing reliance on obliged persons to apply reliance identification measures;
     - considering how it establishes and delivers products and services to its customers. For example, risks are likely to be greater where relationships may be established remotely (non-face-to-face), or may be controlled remotely by the customer (straight-through processing of transactions);
-    - a supervised person may employ new and developing technologies to establish business relationships with their customers, for example through an E-ID application. As discussed further in Section 4.3.5 of this Handbook, the risks of using such technology to obtain evidence of identity should be considered, noting the particular characteristics of each application. This should be recorded in the BRA;
+    - a supervised person may employ new and developing technologies to establish business relationships with their customers, for example through an E-ID application. As discussed further in [Section 4.3.5](04-identification-measures.md#435-use-of-e-id) of this Handbook, the risks of using such technology to obtain evidence of identity should be considered, noting the particular characteristics of each application. This should be recorded in the BRA;
     - considering the accumulation of risk for more complex customers.
 
     **27.** When conducting a BRA care should be taken not to focus too much on any single factor. All factors (including those identified by a National Risk Assessment or similar), as well as the wider picture (and cumulative risk) should be considered.
@@ -176,7 +176,7 @@ tags:
 
 ### 2.4 Adequate and effective systems and controls
 
-**41.** For systems and controls (including policies and procedures ) to be adequate and effective in preventing and detecting money laundering, the financing of terrorism, the financing of proliferation, they will need to be appropriate to the circumstances of the supervised person. See Section 18 of this Handbook where an AMLSP appointed by a supervised person may provide AMLSP services relating to systems and controls.
+**41.** For systems and controls (including policies and procedures ) to be adequate and effective in preventing and detecting money laundering, the financing of terrorism, the financing of proliferation, they will need to be appropriate to the circumstances of the supervised person. See [Section 18](18-aml-providers.md) of this Handbook where an AMLSP appointed by a supervised person may provide AMLSP services relating to systems and controls.
 
 !!! danger "Statutory Requirement"
 
@@ -190,11 +190,11 @@ tags:
 
     **46.** Article 11(9) of the Money Laundering Order requires a relevant person to take appropriate measures for the purpose of making employees whose duties relate to the provision of financial services ('relevant employees') aware of policies and procedures under Article 11(1) and of legislation in Jersey to counter money laundering and the financing of terrorism. Article 11(10) of the Money Laundering Order requires a relevant person to provide relevant employees with training in the recognition and handling of transactions carried out by or on behalf of persons who are, or appear to be, engaged in money laundering or the financing of terrorism.
 
-    **47.** Article 11(11) of the Money Laundering Order requires a relevant person to establish and maintain policies and procedures for monitoring compliance with and testing the effectiveness of: (i) its policies and procedures; (ii) its measures to promote AML/CFT awareness; and (iii) its training of relevant employees (see Section 9 of this Handbook).
+    **47.** Article 11(11) of the Money Laundering Order requires a relevant person to establish and maintain policies and procedures for monitoring compliance with and testing the effectiveness of: (i) its policies and procedures; (ii) its measures to promote AML/CFT awareness; and (iii) its training of relevant employees (see [Section 9](09-screening-awareness-training.md) of this Handbook).
 
     **48.** When considering the type and extent of testing to be carried out under Articles 11(11) and 11(12) of the Money Laundering Order requires a relevant person to have regard to the risk of money laundering or financing of terrorism that exists in respect of the relevant person's business, and matters that have an impact on that risk, such as the size and structure of the relevant person.
 
-    **49.** Article 11(8) requires that a relevant person operating through branches or subsidiaries, which carry on financial services business, must communicate its policies and procedures, maintained in accordance with Article 11(1) of the Money Laundering Order, to those branches or subsidiaries. In addition, Article 11A of the Money Laundering Order requires group programmes for information sharing (see Section 2.8 of this Handbook).
+    **49.** Article 11(8) requires that a relevant person operating through branches or subsidiaries, which carry on financial services business, must communicate its policies and procedures, maintained in accordance with Article 11(1) of the Money Laundering Order, to those branches or subsidiaries. In addition, Article 11A of the Money Laundering Order requires group programmes for information sharing (see [Section 2.8](#28-financial-groups) of this Handbook).
 
 
 !!! warning "AML/CFT/CPF Code of Practice"
@@ -203,12 +203,12 @@ tags:
 
     - apply the policies and procedures referred to in Article 11 of the Money Laundering Order;
     - apply CDD measures -in line with Sections 3 to 7 of this Handbook;
-    - report to the FIU when it knows, suspects, or has reasonable grounds to know or suspect that another person is involved in money laundering or the financing of terrorism, including attempted transactions -in line with Section 8 of this Handbook;
+    - report to the FIU when it knows, suspects, or has reasonable grounds to know or suspect that another person is involved in money laundering or the financing of terrorism, including attempted transactions -in line with [Section 8](08-reporting-obligations.md) of this Handbook;
 
-    - adequately screen relevant employees when they are initially employed, make employees aware of certain matters and provide training -in line with Section 9 of this Handbook;
-    - keep complete records that may be accessed on a timely basis -in line with Section 10 of this Handbook;
+    - adequately screen relevant employees when they are initially employed, make employees aware of certain matters and provide training -in line with [Section 9](09-screening-awareness-training.md) of this Handbook;
+    - keep complete records that may be accessed on a timely basis -in line with [Section 10](10-record-keeping.md) of this Handbook;
     - liaise closely with the JFSC and the FIU on matters concerning vigilance, systems, and controls (including policies and procedures );
-    - communicate policies and procedures to overseas branches and subsidiaries (subject to Article 10A(9) of the Money Laundering Order (see section 1.4.2 of this Handbook ), and monitor compliance therewith; and
+    - communicate policies and procedures to overseas branches and subsidiaries (subject to Article 10A(9) of the Money Laundering Order (see [section 1.4.2](01-introduction.md#142-money-laundering-order) of this Handbook ), and monitor compliance therewith; and
     - monitor and review instances where exemptions are granted to policies and procedures, or where controls are overridden.
 
     **51.** In addition to those listed in Article 11(3) of the Money Laundering Order, a supervised person must have policies and procedures for:
@@ -233,7 +233,7 @@ tags:
     - changes to its business activities or BRA;
     - information published from time to time by the JFSC or FIU, e.g., findings of supervisory and themed examinations and typologies;
 
-    - changes made or proposed in respect of new legislation, AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law or Guidance;
+    - changes made or proposed in respect of new legislation, AML/CFT/CPF Codes of Practice issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx) or Guidance;
     - resources available to comply with the Anti-Money Laundering and Counter-Terrorism Legislation and AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law, in particular resources provided to the MLCO and MLRO, to apply enhanced CDD measures and to scrutinise transactions.
 
     **54.** A supervised person may demonstrate that it checks that systems and controls (including policies and procedures ) are operating effectively where the board periodically considers the effect of those systems and controls (including policies and procedures, and those in place at branches and in respect of subsidiaries) considering the information that is available to it, including:
@@ -243,7 +243,7 @@ tags:
     - the number and percentage of customers that have been assessed by the supervised person as presenting a higher risk;
     - the number of applications to establish business relationships or carry-out one-off transactions which have been declined due to CDD issues, along with reasons;
     - the number of business relationships terminated due to CDD issues, along with reasons;
-    - the number of 'existing customers ' that have still to be remediated under Section 4.7.2 of this Handbook;
+    - the number of 'existing customers ' that have still to be remediated under [Section 4.7.2](04-identification-measures.md#472-timing-for-existing-customers) of this Handbook;
     - details of failures by an obliged person or customer to provide information and evidence on demand and without delay under Articles 16, 16A and 17B-D of the Money Laundering Order, and action taken;
     - the number of alerts generated by automated on-going monitoring systems;
     - the number of internal SARs made to the MLRO (or Deputy MLRO ), the number of subsequent external SARs submitted to the FIU, and timeliness of reporting (by business area if appropriate);
@@ -275,7 +275,7 @@ tags:
     - when cash payments will be accepted;
     - when payments will be accepted from or made to third parties;
 
-    - the supervised person's policy for applying LPP. Note that LPP is only applicable to Lawyers -see Section 15.7.1 of this Handbook.
+    - the supervised person's policy for applying LPP. Note that LPP is only applicable to Lawyers -see [Section 15.7.1](15-lawyers.md) of this Handbook.
     **58.** For supervised persons with an agent relationship with another natural or legal person, it is the responsibility of the supervised person to ensure that they have sufficient oversight or understanding of the operations of the agent to be able to demonstrate adequate systems and controls in relation to this relationship.
 
 
@@ -344,7 +344,7 @@ tags:
 
 **66.** The JFSC has also issued an Outsourcing policy for supervised persons, which outlines its own set of requirements and obligations in respect of outsourcing.
 
-**67.** Where an AMLSP performs AMLSP services on behalf of an AMLSP Direct Customer and such AMLSP services are consistent with the Money Laundering Order and the standards set out in the AML/CFT/CPF Codes of Practice and Guidance notes for AMLSPs in this Handbook, the performance of such AMLSP services is not subject to the Outsourcing policy but is subject to Section 18 of this Handbook.
+**67.** Where an AMLSP performs AMLSP services on behalf of an AMLSP Direct Customer and such AMLSP services are consistent with the Money Laundering Order and the standards set out in the AML/CFT/CPF Codes of Practice and Guidance notes for AMLSPs in this Handbook, the performance of such AMLSP services is not subject to the Outsourcing policy but is subject to [Section 18](18-aml-providers.md) of this Handbook.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -394,7 +394,7 @@ tags:
 
 ### 2.6 The MLCO
 
-**82.** The Money Laundering Order requires a supervised person or the supervised persons AMLSP, where applicable (see section 18 of this Handbook ), to appoint an individual as MLCO, and tasks that individual with the function of monitoring its compliance with legislation in Jersey relating to money laundering, the financing of terrorism, and the financing of proliferation and AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law. The objective of this requirement is to require supervised persons to clearly demonstrate how they ensure compliance with the requirements of the same.
+**82.** The Money Laundering Order requires a supervised person or the supervised persons AMLSP, where applicable (see [section 18](18-aml-providers.md) of this Handbook ), to appoint an individual as MLCO, and tasks that individual with the function of monitoring its compliance with legislation in Jersey relating to money laundering, the financing of terrorism, and the financing of proliferation and AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law. The objective of this requirement is to require supervised persons to clearly demonstrate how they ensure compliance with the requirements of the same.
 
 **83.** The Money Laundering Order also requires a supervised person to maintain adequate procedures for:
 
@@ -457,7 +457,7 @@ tags:
 
 ### 2.7 The MLRO
 
-**97.** Whilst the Money Laundering Order requires one individual to be appointed as MLRO by the supervised person or the supervised persons AMLSP, where applicable (see section 18 of this Handbook ), it recognises that, given the size and complexity of operations of many enterprises, it may be appropriate to designate additional persons ( Deputy MLROs ) to whom SARs may be made.
+**97.** Whilst the Money Laundering Order requires one individual to be appointed as MLRO by the supervised person or the supervised persons AMLSP, where applicable (see [section 18](18-aml-providers.md) of this Handbook ), it recognises that, given the size and complexity of operations of many enterprises, it may be appropriate to designate additional persons ( Deputy MLROs ) to whom SARs may be made.
 
 !!! danger "Statutory Requirement"
 
@@ -510,7 +510,7 @@ tags:
 
     **109.** A supervised person may demonstrate that its MLRO (and any Deputy MLRO ) is receiving and considering SARs in accordance with Article 21 of the Money Laundering Order where, among other things, its MLRO:
 
-    - maintains a record of all requests for information from law enforcement authorities and records relating to all internal and external SARs (see Section 8 of this Handbook );
+    - maintains a record of all requests for information from law enforcement authorities and records relating to all internal and external SARs (see [Section 8](08-reporting-obligations.md) of this Handbook );
 
     - manages relationships effectively post disclosure to avoid tipping off any external parties;
     - acts as the liaison point with the JFSC and the FIU and in any other external enquiries in relation to money laundering, the financing of terrorism or proliferation financing.
@@ -526,7 +526,7 @@ tags:
 
 **111.** A financial group of which a supervised person is a member must maintain a group programme for the sharing of AML/CFT/CPF information.
 
-**112.** In addition, as explained in Section 1.4.3 of this Handbook, where a company incorporated in Jersey (a supervised person ) carries on a supervised business through an overseas branch, it must comply with AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law in respect of that business, irrespective of whether it also carries on supervised business in or from within Jersey.
+**112.** In addition, as explained in [Section 1.4.3](01-introduction.md#14-legal-status-and-sanctions-for-non-compliance) of this Handbook, where a company incorporated in Jersey (a supervised person ) carries on a supervised business through an overseas branch, it must comply with AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law in respect of that business, irrespective of whether it also carries on supervised business in or from within Jersey.
 
 **113.** In practice, the above only applies to supervised persons that meet the definition of a financial group, this includes a requirement that a parent company or other legal person exercise control over every member of that group for the purposes of applying group supervision.
 

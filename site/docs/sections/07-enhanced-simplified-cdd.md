@@ -9,18 +9,18 @@ tags:
 
 # Section 7 - Enhanced and Simplified CDD Measures
 
-**1.** This section explains the circumstances in which CDD measures are required to be enhanced under Articles 15, 15A and 15B of the Money Laundering Order and explains the exemptions from CDD requirements under Part 3A of the Money Laundering Order. It also sets out circumstances where simplified identification measures can be applied in relation to low-risk products or services.
+**1.** This section explains the circumstances in which CDD measures are required to be enhanced under Articles 15, 15A and 15B of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) and explains the exemptions from CDD requirements under Part 3A of the Money Laundering Order. It also sets out circumstances where simplified identification measures can be applied in relation to low-risk products or services.
 
 **2.** In addition to any case where a supervised person determines that a customer presents a higher risk of money laundering, the financing of terrorism, or proliferation financing, Articles 15, 15A and 15B of the Money Laundering Order also require enhanced CDD measures to be applied in the following specified scenarios:
 
-- customer, or some other person, is not physically present for identification purposes -section 7.4 of this Handbook;
-- customer has a relevant connection to an enhanced risk state -section 7.5 of this Handbook;
-- customer, or some other prescribed person, is a PEP -section 7.6 of this Handbook;
-- customer is a non-resident -section 7.7 of this Handbook;
-- customer is provided with private banking services -section 7.8 of this Handbook;
-- customer is a personal asset holding vehicle -section 7.9 of this Handbook;
-- customer is a company with nominee shareholders or issues bearer shares -section 7.10 of this Handbook;
-- correspondent banking or similar relationships -section 7.11 of this Handbook.
+- customer, or some other person, is not physically present for identification purposes -[section 7.4](#74-customer-not-physically-present-for-identification-measures) of this Handbook;
+- customer has a relevant connection to an enhanced risk state -[section 7.5](#75-customer-with-relevant-connection-to-an-enhanced-risk-state) of this Handbook;
+- customer, or some other prescribed person, is a PEP -[section 7.6](#76-customer-who-is-a-politically-exposed-person-pep) of this Handbook;
+- customer is a non-resident -[section 7.7](#77-non-resident-customer) of this Handbook;
+- customer is provided with private banking services -[section 7.8](#78-customer-provided-with-private-banking-services) of this Handbook;
+- customer is a personal asset holding vehicle -[section 7.9](#79-customer-that-is-a-personal-asset-holding-vehicle) of this Handbook;
+- customer is a company with nominee shareholders or issues bearer shares -[section 7.10](#710-customer-that-is-a-company-with-nominee-shareholders-or-issues-bearer-shares) of this Handbook;
+- correspondent banking or similar relationships -[section 7.11](#711-correspondent-banking-and-similar-relationships) of this Handbook.
 
 **3.** It may be that CDD measures routinely applied under Article 13 of the Money Laundering Order already address some of the risk characteristics of these customers (for instance identification of beneficial owner(s) and understanding the nature and purpose of the relationship) and significantly reduce the risk of money laundering, the financing of terrorism and proliferation financing. Therefore, any additional measures may be quite limited.
 
@@ -28,7 +28,7 @@ tags:
 
 **5.** When applying enhanced CDD measures, a supervised person should not use a 'one size fits all' -approach, e.g., applying the same package of measures regardless of the circumstances. The measures utilised should be tailored and appropriate to the specific scenario. The supervised person should also be able to articulate why they have applied the measures they have chosen, how they address the specific risks posed by the customer and how they are appropriate and commensurate with those risks.
 
-**6.** A customer may be an individual (or group of individuals) or a legal person. Section 4.3 of this Handbook deals with the obligation to find out identity and obtain evidence for a customer who is an individual (or group of individuals), section 4.4 of this Handbook deals with the obligation to find out identity and obtain evidence for a customer (an individual or legal person) who is acting for a legal arrangement, and section 4.5 of this Handbook deals with the obligation to find out identity and obtain evidence for a customer who is a legal person.
+**6.** A customer may be an individual (or group of individuals) or a legal person. [Section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook deals with the obligation to find out identity and obtain evidence for a customer who is an individual (or group of individuals), [section 4.4](04-identification-measures.md#44-obligation-to-find-out-identity-and-obtain-evidence-legal-arrangements) of this Handbook deals with the obligation to find out identity and obtain evidence for a customer (an individual or legal person) who is acting for a legal arrangement, and [section 4.5](04-identification-measures.md#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook deals with the obligation to find out identity and obtain evidence for a customer who is a legal person.
 
 **7.** References to a customer include, where appropriate, a prospective customer (an applicant for business) with whom a business relationship is to be established or a one-off transaction carried out.
 
@@ -64,7 +64,7 @@ tags:
 
 ### 7.3 Higher risk customer
 
-**11.** Section 3.3 of this Handbook explains the risk-based approach to identification measures. It explains that a supervised person must, based on information collected, assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
+**11.** [Section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook explains the risk-based approach to identification measures. It explains that a supervised person must, based on information collected, assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
 **12.** Enhanced CDD measures must be applied where a supervised person's assessment is that there is a higher risk of money laundering, the financing of terrorism, or the financing of proliferation (i.e., a situation which by its nature can present a higher risk of money laundering, the financing of terrorism, or the financing of proliferation ).
 
@@ -135,7 +135,7 @@ tags:
     - under the AML/CFT/CPF Codes of Practice set at paragraph 24 above:
 
     - Where it finds out further information on a person (in this example, 'Person A'), obtains an additional form of evidence of identity for Person A, or carries out some other additional measure in respect of Person A.
-    **26.** Additional forms of evidence of identity may include use of a further source listed in section 4 of this Handbook (including independent data sources).
+    **26.** Additional forms of evidence of identity may include use of a further source listed in [section 4](04-identification-measures.md) of this Handbook (including independent data sources).
 
     **27.** Other additional measures may include:
 
@@ -143,7 +143,7 @@ tags:
     - confirmation from a supervised person that carries on a regulated business or a person who carries on an equivalent business that Person A has been met face-to-face;
     - confirmation from a supervised person that carries on Trust Company Business or a person who carries on an equivalent business that Person A is known to the TCSP, and the TCSP is satisfied that the particular individual is the person whose identity is to be found out;
     - a combination of other checks that adequately take into account the supervised person's risk assessment for Person A, including:
-    - requiring the first payment for the product or service to be drawn on an account in the customer's name at a bank that is a regulated person or carries on equivalent business (refer to section 1.8 of this Handbook );
+    - requiring the first payment for the product or service to be drawn on an account in the customer's name at a bank that is a regulated person or carries on equivalent business (refer to [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook );
     - telephone contact with the customer prior to establishing a relationship on a home or business number which has been verified, or a 'welcome call' to the customer before transactions are permitted, using the call to verify additional components of identity found out;
     - internet sign-on following verification measures where the customer uses security codes, tokens, and/or other passwords which have been set up during account opening and provided by mail (or secure delivery) to the named individual at an independently verified address;
     - specific card or account activation measures.
@@ -319,8 +319,8 @@ tags:
 
     **58.** Where the existence of foreign PEPs is a practical issue, a supervised person may demonstrate that it has appropriate policies and procedures for determining whether a customer or prescribed person is a PEP where it does the following:
 
-    - assesses those countries and territories to which customers are connected, which pose the highest risk of corruption. See section 3.3.4.1 of this Handbook;
-    - finds out who the current and former holders of prominent public functions are within those higher risk countries and territories and determines, as far as is reasonably practicable, whether customers have any connections with such individuals (including through immediate family or close associates). In determining who the current and former holders of prominent public functions are, it may have regard to information already held by the supervised person and to external information sources such as the UN, the European Parliament, the UK Foreign, Commonwealth &amp; Development Office, the Group of States against Corruption, and other external data sources (see section 3.3.4.2 of this Handbook ); and
+    - assesses those countries and territories to which customers are connected, which pose the highest risk of corruption. See [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook;
+    - finds out who the current and former holders of prominent public functions are within those higher risk countries and territories and determines, as far as is reasonably practicable, whether customers have any connections with such individuals (including through immediate family or close associates). In determining who the current and former holders of prominent public functions are, it may have regard to information already held by the supervised person and to external information sources such as the UN, the European Parliament, the UK Foreign, Commonwealth &amp; Development Office, the Group of States against Corruption, and other external data sources (see [section 3.3.4.2](03-identification-overview.md#3342-external-data-sources) of this Handbook ); and
     - exercises vigilance where customers are involved in business sectors that are vulnerable to corruption such as (but not limited to) oil or arms trades.
 
     **59.** Where a supervised person runs the details of all its customers and prescribed persons through an external data source (e.g., a screening package) to determine whether any of them are PEPs, it should nevertheless also assess those countries and territories to which customers are connected, which pose the highest risk of corruption, and exercise particular vigilance where customers are involved in business sectors that are vulnerable to corruption.
@@ -438,7 +438,7 @@ tags:
     **78.** A supervised person may demonstrate that it has applied enhanced CDD measures under Article 15(1)(a) of the Money Laundering Order, where it has applied additional measures that are commensurate with risk. Additional measures may include one or more of the following:
 
     - determining the reasons why the customer is looking to establish a business relationship or carry out a one-off transaction other than in their home country or territory; and/or
-    - the use of external data sources to collect information on the customer and the country risk of the customer's home country or territory (see section 3.3.4.1 of this Handbook ) to build a customer business and risk profile similar to that available for a resident customer.
+    - the use of external data sources to collect information on the customer and the country risk of the customer's home country or territory (see [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook ) to build a customer business and risk profile similar to that available for a resident customer.
 
 
 ### 7.8 Customer provided with private banking services
@@ -574,7 +574,7 @@ tags:
 
     **107.** A supervised person may determine the respondents' reputation by assessing its stature from publicly-available information from credible sources on the reputation of the respondent and the quality of the supervision to which it is subject.
 
-    **108.** A correspondent may determine that a respondent' s systems and controls are consistent with the requirements of the FATF Recommendations where the respondent carries on equivalent business (see Section 1.8 of this Handbook).
+    **108.** A correspondent may determine that a respondent' s systems and controls are consistent with the requirements of the FATF Recommendations where the respondent carries on equivalent business (see [Section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook).
 
     **109.** Where customers of the respondent have direct access to the services of the correspondent, a correspondent may satisfy itself as to the adequacy of the respondent's CDD measures, and its ability to provide relevant CDD information and documents on request where either:
     - a) It obtains a written assurance from the respondent to this effect; or
@@ -598,7 +598,7 @@ tags:
 
 **114.** However, Article 13(1)(c)(ii) of the Money Laundering Order requires a supervised person to apply identification measures where the supervised person has doubts about the veracity or adequacy of documents, data or information previously obtained. In the context of this section, this would include where documents, data or information previously obtained for a business relationship do not satisfy additional new CDD requirements, such as those set out in the Money Laundering (Amendment No.10) (Jersey) Order 2019
 
-**115.** This means that where, during the course of its regular review of a business relationship (pursuant to Article 3(3)(b) of the Money Laundering Order and discussed at section 3.4 of this Handbook ) a supervised person becomes aware that documents, data or information previously obtained do not satisfy the additional CDD requirements set out in the Money Laundering (Amendment No.10) (Jersey) Order 2019 (or any other subsequent amendments), the supervised person will need to apply CDD measures to that customer at that time, in line with the requirement in Article 13(1)(c)(ii) of the Money Laundering Order.
+**115.** This means that where, during the course of its regular review of a business relationship (pursuant to Article 3(3)(b) of the Money Laundering Order and discussed at [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook ) a supervised person becomes aware that documents, data or information previously obtained do not satisfy the additional CDD requirements set out in the Money Laundering (Amendment No.10) (Jersey) Order 2019 (or any other subsequent amendments), the supervised person will need to apply CDD measures to that customer at that time, in line with the requirement in Article 13(1)(c)(ii) of the Money Laundering Order.
 
 **116.** Part 3A of the Money Laundering Order provides for exemptions from CDD requirements that apply in some strictly limited circumstances, as set out in Articles 17B - D and 18 of the Money Laundering Order.
 
@@ -677,13 +677,13 @@ Circumstances in which exemptions under Part 3A of the Money Laundering Order do
     **125.** Under Article 17C(1) of the Money Laundering Order a relevant person is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer:
     - a) is, or carries on business in respect of, an unregulated fund, within the meaning of the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008, or equivalent business;
 
-    - b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 9 of Part 2 of Schedule 2 to the Proceeds of Crime Law, or equivalent business;
+    - b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 9 of Part 2 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999), or equivalent business;
     - (c) carries on Trust Company Business and is registered to carry on such business under the FS(J) Law, or equivalent business, but only if the relevant person is:
     - (i) carrying on deposit-taking business;
 
     - ii. a Lawyer carrying on business described in paragraph 21 of Part 3 of Schedule 2 to the Proceeds of Crime Law; or
     - iii. an Accountant carrying on a business described in paragraph 22 of Part 3 of Schedule 2 to the Proceeds of Crime Law; or
-    - d) is an independent legal professional carrying on a business described in paragraph 21 of Part 3 of Schedule 2 to the Proceeds of Crime Law and is registered to carry on such business under the Supervisory Bodies Law, but only if the relevant person is carrying on deposit-taking business.
+    - d) is an independent legal professional carrying on a business described in paragraph 21 of Part 3 of Schedule 2 to the Proceeds of Crime Law and is registered to carry on such business under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx), but only if the relevant person is carrying on deposit-taking business.
     **126.** Under Article 17C(2) of the Money Laundering Order, a relevant person who, by virtue of Article 17C(1) of the Money Laundering Order, does not apply third party identification requirements must:
     - a) be satisfied, by reason of the nature of the relationship with the relevant customer, that there is little risk of money laundering occurring; and
     - b) obtain adequate assurance in writing from the relevant customer that the relevant customer:
@@ -724,7 +724,7 @@ Circumstances in which exemptions under Part 3A of the Money Laundering Order do
 
 #### 7.15.1 Assessment of risk
 
-**133.** The risk factors that are set out in this section will also be relevant to a CRA that is conducted under section 3.3.4.1 of this Handbook in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
+**133.** The risk factors that are set out in this section will also be relevant to a CRA that is conducted under [section 3.3.4.1](03-identification-overview.md#3341-factors-to-consider) of this Handbook in the cases highlighted at sections 4.4 and 4.5 of this Handbook.
 
 !!! danger "Statutory Requirement"
 
@@ -919,11 +919,11 @@ Then in line with Article 18(3) of the Money Laundering Order, there is no requi
 
 **166.** Where funds involved in a business relationship:
 
-- have been received from a bank that is a regulated person or carries on equivalent business to deposit-taking (see section 1.8 of this Handbook regarding equivalent business ); and
+- have been received from a bank that is a regulated person or carries on equivalent business to deposit-taking (see [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook regarding equivalent business ); and
 - have come from an account in the sole or joint name of the customer who is an individual (or are individuals);
 
 - Then the receipt of funds from such an account may be considered to be reasonably capable of verifying that the person to be identified is who they are said to be where the product or service requested by the customer is considered to present a very low risk of money laundering, the financing of terrorism, or the financing of proliferation. This will be the case where funds may only be received from, and paid to, an account in the customer's name, i.e., a product or service where funds may not be paid in by, or paid out to, external parties.
-**167.** In the event that any of the conditions set below are breached, evidence of identity for the customer must be obtained at that time in accordance with section 4 of this Handbook and this section 7 of this Handbook.
+**167.** In the event that any of the conditions set below are breached, evidence of identity for the customer must be obtained at that time in accordance with [section 4](04-identification-measures.md) of this Handbook and this section 7 of this Handbook.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -936,13 +936,13 @@ Then in line with Article 18(3) of the Money Laundering Order, there is no requi
 
     **169.** To benefit from the concession, the product or service must satisfy the following conditions:
 
-    - all initial and future payments must be received from an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see section 1.8 of this Handbook ), where the account can be confirmed as belonging to the customer;
+    - all initial and future payments must be received from an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook ), where the account can be confirmed as belonging to the customer;
     - no initial or future payments may be received from external parties;
     - cash withdrawals are not permitted, with the exception of face-to-face withdrawals by the customer, where they are required to produce evidence of identity before the withdrawal can be made;
-    - no payments may be made, other than to an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see section 1.8 of this Handbook ), where the account can be confirmed as belonging to the customer, or on the death of the customer to a personal representative named in the grant of probate or the letters of administration; and
+    - no payments may be made, other than to an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook ), where the account can be confirmed as belonging to the customer, or on the death of the customer to a personal representative named in the grant of probate or the letters of administration; and
     - no future changes must be made to the product or service that enable funds to be received from or paid to external parties.
 
-    **170.** A supervised person must obtain and retain evidence confirming that payment has been received from an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see section 1.8 of this Handbook ), and, where a request for a withdrawal or transfer to another bank account is received, confirmation that this account is also in the customer's name and held at a bank that is a regulated person or carries on an equivalent business to deposit-taking.
+    **170.** A supervised person must obtain and retain evidence confirming that payment has been received from an account at a bank that is a regulated person or carries on an equivalent business to deposit-taking (see [section 1.8](01-introduction.md#18-risk-based-approach) of this Handbook ), and, where a request for a withdrawal or transfer to another bank account is received, confirmation that this account is also in the customer's name and held at a bank that is a regulated person or carries on an equivalent business to deposit-taking.
 
     **171.** If a supervised person has reason to suspect that the motive behind a particular transaction, or the way a business is being structured, is to avoid standard identification measures, it must not use this concession.
 

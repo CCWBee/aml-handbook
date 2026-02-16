@@ -9,9 +9,9 @@ tags:
 
 # Section 8 - Reporting Money Laundering and Financing Obligations
 
-**1.** Under the Proceeds of Crime Law and Terrorism Law, where any supervised person conducting supervised business in or from within Jersey knows or suspects or has reasonable grounds for knowing or suspecting that another person is engaged in money laundering or the financing of terrorism, then it must report its knowledge or suspicion to the FIU.
+**1.** Under the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) and Terrorism Law, where any supervised person conducting supervised business in or from within Jersey knows or suspects or has reasonable grounds for knowing or suspecting that another person is engaged in money laundering or the financing of terrorism, then it must report its knowledge or suspicion to the FIU.
 
-**2.** Under the Money Laundering Order, a supervised person must have procedures in place for reporting such knowledge or suspicion of money laundering or the financing of terrorism activity to the FIU.
+**2.** Under the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), a supervised person must have procedures in place for reporting such knowledge or suspicion of money laundering or the financing of terrorism activity to the FIU.
 
 **3.** This section outlines the statutory provisions concerning reporting that apply to:
 
@@ -30,7 +30,7 @@ tags:
 
 **7.** Whilst this section describes reports made to the FIU under the Proceeds of Crime Law and Terrorism Law as SARs, depending on the circumstances such reports may involve knowledge of money laundering or the financing of terrorism, rather than suspicion (or reasonable grounds for knowledge or suspicion).
 
-**8.** Section 8.8 of this Handbook explains the separate sanctions compliance reporting obligations under the Sanctions and Asset-Freezing Law.
+**8.** [Section 8.8](#88-sanctions-compliance-reporting-obligations-under-the-sanctions-and-asset-freezing-law) of this Handbook explains the separate sanctions compliance reporting obligations under the Sanctions and Asset-Freezing Law.
 
 ### 8.2 Reporting knowledge or suspicion
 
@@ -45,7 +45,7 @@ tags:
 - the proceeds of criminal conduct; or
 - property used in or intended to be used in criminal conduct; or
 - terrorist property.
-- Where the person making the report does any act or deals with the property in any way which would otherwise amount to the commission of a money laundering or the financing of terrorism offence, the person shall not be guilty of that offence (where certain conditions are fulfilled in section 8.2.2 of this Handbook ) where it makes a protective report.
+- Where the person making the report does any act or deals with the property in any way which would otherwise amount to the commission of a money laundering or the financing of terrorism offence, the person shall not be guilty of that offence (where certain conditions are fulfilled in [section 8.2.2](#822-protective-report) of this Handbook ) where it makes a protective report.
 
 **10.** In practice, a report made in accordance with the reporting requirement will also provide protection. For example, where a supervised person knows or suspects, or has reasonable grounds for knowing or suspecting, that property constitutes or represents the proceeds of criminal conduct (or has been, is being or is intended to be used in criminal conduct), and has possession of that property, it must report its knowledge or suspicion under Article 34D of the Proceeds of Crime Law. Where it makes such a report, this will also address its suspicion or belief that property constitutes or represents the proceeds of criminal conduct (or has been used in or is intended to be used in criminal conduct) under Article 32 of the Proceeds of Crime Law. The effect of this is that the supervised person does not commit a money laundering offence under Article 30 (and potentially Article 31) of the Proceeds of Crime Law.
 
@@ -68,9 +68,9 @@ tags:
 - any property has been, is being, or is intended to be used in criminal conduct; or
 - any property is, or may be, terrorist property.
 
-**17.** What may constitute reasonable grounds for knowledge or suspicion will be determined by the facts or circumstances present, from which an honest and reasonable employee working in a supervised person would have inferred knowledge or formed a suspicion (the socalled 'objective test '). See section 8.2.3.3 of this Handbook.
+**17.** What may constitute reasonable grounds for knowledge or suspicion will be determined by the facts or circumstances present, from which an honest and reasonable employee working in a supervised person would have inferred knowledge or formed a suspicion (the socalled 'objective test '). See [section 8.2.3.3](#8233-reasonable-grounds-to-suspect-the-objective-test-of-knowledge-or-suspicion) of this Handbook.
 
-**18.** Something which appears unusual is not necessarily suspicious but will likely be the cause for further investigation. This may, in turn, require judgement to be exercised as to whether something is indeed suspicious. The provisions under section 8.5 of this Handbook regarding tipping off may also need to be considered.
+**18.** Something which appears unusual is not necessarily suspicious but will likely be the cause for further investigation. This may, in turn, require judgement to be exercised as to whether something is indeed suspicious. The provisions under [section 8.5](#85-tipping-off) of this Handbook regarding tipping off may also need to be considered.
 
 **19.** A supervised person's MLRO (or Deputy MLRO ) must consider all internal SARs as soon as practicable.
 
@@ -216,11 +216,11 @@ tags:
 
 **70.** The test for whether a person holds a suspicion is subjective. The suspicion is one of believing that something is possible, which is more than fanciful. The suspicion must also be more than a vague feeling of unease. If someone thinks a transaction is suspicious, they are not expected to know the exact nature of the criminal offence or that particular funds were definitely those arising from the crime. They may have noticed something unusual or unexpected and, after making enquiries, the facts do not seem normal or make commercial sense. There does not have to be evidence that money laundering, terrorist financing, or the financing of proliferation is taking place for there to be a suspicion.
 
-**71.** If someone has not yet formed a suspicion, but they have cause for concern, a supervised person may choose to ask the customer or other parties more questions. This decision will depend on what is already known, and how easy it is to make enquiries. The provisions under section 8.5 of this Handbook regarding tipping off may also need to be considered.
+**71.** If someone has not yet formed a suspicion, but they have cause for concern, a supervised person may choose to ask the customer or other parties more questions. This decision will depend on what is already known, and how easy it is to make enquiries. The provisions under [section 8.5](#85-tipping-off) of this Handbook regarding tipping off may also need to be considered.
 
 **72.** If there is a belief that a customer is innocent, but there are suspicions that another party to the business relationship or one-off transaction is engaged in money laundering, the financing of terrorism, or the financing of proliferation a supervised person may need to consider referring the customer for specialist advice regarding the risk that they may be a party to a criminal offence.
 
-**73.** Section 6.4 of this Handbook and the sector-specific sections of this Handbook below provide several standard warning signs which may suggest an increased risk of money laundering, the financing of terrorism, or the financing of proliferation and therefore give cause for concern. However, whether someone has a suspicion is a matter of their own judgement.
+**73.** [Section 6.4](06-ongoing-monitoring.md#64-money-laundering-warning-signs) of this Handbook and the sector-specific sections of this Handbook below provide several standard warning signs which may suggest an increased risk of money laundering, the financing of terrorism, or the financing of proliferation and therefore give cause for concern. However, whether someone has a suspicion is a matter of their own judgement.
 
 ##### 8.2.3.3 Reasonable grounds to suspect: the objective test of knowledge or suspicion
 
@@ -237,7 +237,7 @@ tags:
 
 - drafted in a way that can be easily understood by Employees;
 - tailored to the supervised person's BRA; and
-- applied in every case where functions are outsourced (in line with section 2.4.4 of this Handbook ).
+- applied in every case where functions are outsourced (in line with [section 2.4.4](02-corporate-governance.md#244-outsourcing) of this Handbook ).
 
 !!! danger "Statutory Requirement"
 
@@ -327,7 +327,7 @@ tags:
 
     the number of internal SARs not considered within a period of time judged by the board/senior management to be reasonable, together with an explanation.
 
-    Refer to section 2.1 of this Handbook for an explanation of the meaning of 'the board' in the context of this paragraph.
+    Refer to [section 2.1](02-corporate-governance.md) of this Handbook for an explanation of the meaning of 'the board' in the context of this paragraph.
 
 
 ### 8.4 FIU Consent

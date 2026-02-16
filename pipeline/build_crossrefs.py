@@ -141,6 +141,55 @@ def linkify_references(content: str, anchor_index: dict, current_slug: str) -> s
     return ''.join(result)
 
 
+# External legislation links → jerseylaw.je
+LEGISLATION_URLS = {
+    "Money Laundering Order": "https://www.jerseylaw.je/laws/current/ro_20_2008",
+    "Money Laundering (Jersey) Order": "https://www.jerseylaw.je/laws/current/ro_20_2008",
+    "Proceeds of Crime Law": "https://www.jerseylaw.je/laws/current/l_8_1999",
+    "Proceeds of Crime (Jersey) Law": "https://www.jerseylaw.je/laws/current/l_8_1999",
+    "Terrorism (Jersey) Law": "https://www.jerseylaw.je/laws/current/l_40_2002",
+    "Commission Law": "https://www.jerseylaw.je/laws/current/l_11_1998",
+    "Financial Services Commission (Jersey) Law": "https://www.jerseylaw.je/laws/current/l_11_1998",
+    "Supervisory Bodies Law": "https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx",
+    "Supervisory Bodies (Jersey) Law": "https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx",
+}
+
+
+def linkify_legislation(content: str) -> str:
+    """Replace legislation name references with links to jerseylaw.je.
+
+    Only links the first occurrence of each law per file to avoid
+    excessive linking. Skips references already inside markdown links.
+    """
+    linked = set()
+
+    for name, url in sorted(LEGISLATION_URLS.items(), key=lambda x: -len(x[0])):
+        if name in linked:
+            continue
+
+        # Pattern: the legislation name, not already inside a markdown link
+        pattern = re.compile(
+            r'(?<!\[)'           # Not preceded by [
+            r'(?<!\()'           # Not preceded by (
+            + re.escape(name)
+            + r'(?!\])'          # Not followed by ]
+            + r'(?!\))'          # Not followed by )
+        )
+
+        match = pattern.search(content)
+        if match:
+            link = f"[{name}]({url})"
+            # Replace only the first occurrence
+            content = content[:match.start()] + link + content[match.end():]
+            linked.add(name)
+            # Also mark shorter aliases as linked if this is a long form
+            for other_name in LEGISLATION_URLS:
+                if other_name != name and other_name in name:
+                    linked.add(other_name)
+
+    return content
+
+
 def main():
     config = load_config()
     sections_dir = Path(__file__).parent.parent / "site" / "docs" / "sections"
@@ -176,6 +225,28 @@ def main():
             print(f"  [crossref] Section {num}: no new links")
 
     print(f"\n  Total cross-reference links added: {total_links}")
+
+    # Step 3: Add external legislation links
+    print("\n=== Linking External Legislation ===")
+    total_leg = 0
+    for num, section in sorted(config["sections"].items()):
+        filepath = sections_dir / f"{section['slug']}.md"
+        if not filepath.exists():
+            continue
+
+        content = filepath.read_text(encoding="utf-8")
+        updated = linkify_legislation(content)
+
+        if updated != content:
+            filepath.write_text(updated, encoding="utf-8")
+            # Count legislation links added
+            leg_links = updated.count("jerseylaw.je") - content.count("jerseylaw.je")
+            print(f"  [legislation] Section {num}: {leg_links} links added")
+            total_leg += leg_links
+        else:
+            print(f"  [legislation] Section {num}: no new links")
+
+    print(f"\n  Total legislation links added: {total_leg}")
 
 
 if __name__ == "__main__":
