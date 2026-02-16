@@ -592,11 +592,26 @@ html {
   border-top-color: #404040;
 }
 
+.pitch-subheading {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  color: #0b0c0c;
+}
+
+[data-md-color-scheme="slate"] .pitch-subheading {
+  color: #e4e4e4;
+}
+
 .pitch-footer p {
   font-size: 0.82rem;
   line-height: 1.5;
-  margin: 0;
+  margin: 0 0 0.6rem 0;
   color: #505050;
+}
+
+.pitch-footer p:last-child {
+  margin-bottom: 0;
 }
 
 [data-md-color-scheme="slate"] .pitch-footer p {
