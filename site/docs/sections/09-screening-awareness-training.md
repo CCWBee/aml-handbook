@@ -9,9 +9,11 @@ tags:
 
 # Section 9 - Screening, Awareness and Training
 
+#### 9.1. Overview of section
+
 **1.** One of the most important controls over the prevention and detection of money laundering, the financing of terrorism and the financing of proliferation is to have appropriately screened employees who are:
 
-- alert to money laundering, terrorist financing, and proliferation financing risks; and
+- alert to money laundering, terrorist financing, and [proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/); and
 - well trained in the recognition of notable transactions or activity which may indicate money laundering, the financing of terrorism, or the financing of proliferation activity (see [section 6](06-ongoing-monitoring.md) of this Handbook ).
 
 **2.** The effective application of even the best designed systems and controls (including policies and procedures ) is compromised if Employees lack competence or integrity, or are unaware of, or fail to apply, systems and controls (including policies and procedures ), or if Employees are not adequately trained.
@@ -19,7 +21,7 @@ tags:
 **3.** It is essential that a supervised person takes action to make sure that customer -facing and other Employees are:
 
 - competent and have integrity;
-- aware of policies and procedures and their obligations under the Anti-Money laundering and Counter-Terrorism Legislation and the AML/CFT/CPF Codes of Practice issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx);
+- aware of policies and procedures and their obligations under the Anti-Money laundering and Counter-Terrorism Legislation and the AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx);
 - trained in the recognition of notable transactions or activities (which may indicate money laundering, the financing of terrorism, or the financing of proliferation ) or transactions and activity with enhanced risk states and/or sanctioned persons.
 
 **4.** In particular, customer -facing Employees and those who handle, or are responsible for the handling of, customers and transactions will provide a supervised person with its strongest defence, or its weakest link.
@@ -54,7 +56,7 @@ tags:
     - obtains details of any regulatory action taken against the individual (or absence of such action);
     - obtains and confirms details of any criminal convictions (or absence of such convictions).
 
-    **10.** Enquiries into an individual's criminal past are required to be subject to the Rehabilitation of Offenders (Jersey) Law 2001, which prevents a supervised person requesting information from its directors, senior managers and other Employees (and prospective directors, senior managers and other Employees ) about convictions that are "spent", except where provided for by the Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002.
+    **10.** Enquiries into an individual's criminal past are required to be subject to the [Rehabilitation of Offenders (Jersey) Law 2001](https://www.jerseylaw.je/laws/current/Pages/08.840.aspx), which prevents a supervised person requesting information from its directors, senior managers and other Employees (and prospective directors, senior managers and other Employees ) about convictions that are "spent", except where provided for by the [Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002](https://www.jerseylaw.je/laws/current/Pages/08.840.50.aspx).
 
 
 ### 9.3 Obligations to promote awareness and to train
@@ -70,11 +72,11 @@ Overview
     **13.** Articles 11(9), (10), (10A), (11) and (12) of the Money Laundering Order require that a relevant person must, in relation to employees whose duties relate to the provision of a financial services business:
 
     - take appropriate measures from time to time for the purposes of making them aware of:
-    - the CDD, record-keeping, reporting and other policies and procedures for the purposes of preventing and detecting money laundering and the financing of terrorism;
-    - the enactments in Jersey relating to money laundering and the financing of terrorism and any relevant Code of Practice.
+        - the CDD, record-keeping, reporting and other policies and procedures for the purposes of preventing and detecting money laundering and the financing of terrorism;
+        - the enactments in Jersey relating to money laundering and the financing of terrorism and any relevant Code of Practice.
     - provide those employees from time-to-time with training in the recognition and handling of:
-    - transactions carried out by or on behalf of any person who is or appears to be engaged in money laundering or the financing of terrorism;
-    - other conduct that indicates that a person is or appears to be engaged in money laundering or the financing of terrorism.
+        - transactions carried out by or on behalf of any person who is or appears to be engaged in money laundering or the financing of terrorism;
+        - other conduct that indicates that a person is or appears to be engaged in money laundering or the financing of terrorism.
 
     Such training to include the provision of information on current money laundering techniques, methods and trends and on the financing of terrorism;
 
@@ -233,8 +235,8 @@ Overview
 
     **35.** A supervised person may demonstrate the provision of adequate training to Employees who are not relevant employees where it addresses:
 
-    - the threat of money laundering, the financing of terrorism, or the financing of proliferation; and
-    - procedures for making internal SARs.
+        - the threat of money laundering, the financing of terrorism, or the financing of proliferation; and
+        - procedures for making internal SARs.
 
 
 #### 9.5.6 Timing and frequency of training
@@ -245,8 +247,8 @@ Overview
 
     by:
 
-    - providing all Employees with induction training within 10 working days of the commencement of employment and, when necessary, where there is a subsequent change in an employee's role; and
-    - delivering training to all Employees at least once every two years, and otherwise determining the frequency of training for relevant employees based on risk, with more frequent training delivered where appropriate.
+        - providing all Employees with induction training within 10 working days of the commencement of employment and, when necessary, where there is a subsequent change in an employee's role; and
+        - delivering training to all Employees at least once every two years, and otherwise determining the frequency of training for relevant employees based on risk, with more frequent training delivered where appropriate.
 
 
 #### 9.5.7 Monitoring the effectiveness of screening, awareness, and training

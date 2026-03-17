@@ -34,7 +34,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 - raised NPO Funds exceeding £1,000 from outside Jersey, Guernsey, the Isle of Man, England and Wales and Scotland, or
 - disbursed NPO Funds exceeding £1,000 outside those jurisdictions.
 
-**5.** The JFSC will apply a risk-based approach to determine how a Prescribed NPO is supervised for compliance with the Prescribed NPO Order and section 17 of the Handbook. See the NPO section of our website for more details.
+**5.** The JFSC will apply a risk-based approach to determine how a Prescribed NPO is supervised for compliance with the Prescribed NPO Order and section 17 of the Handbook. See the [NPO section of our website](https://www.jerseyfsc.org/industry/sectors/non-profit-organisations/) for more details.
 
 **6.** Prescribed NPOs are required by the Prescribed NPO Order to:
 
@@ -44,7 +44,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 - keep records of significant donors; and
 - take reasonable steps to identify, obtain information on, and confirm that its associate NPOs and NPO Beneficiaries are not assisting, or being used to assist, terrorist activities.
 
-**7.** Parts of this section headed ' Statutory Requirements ' and ' Codes of Practice ' are mandatory and Prescribed NPOs are required to comply with them. Parts of this section headed ' Guidance notes ' are not mandatory and provide examples of how Prescribed NPOs might demonstrate compliance with the requirements of the Prescribed NPO Order and Codes of Practice.
+**7.** Parts of this section headed ' Statutory Requirements ' and ' [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) ' are mandatory and Prescribed NPOs are required to comply with them. Parts of this section headed ' Guidance notes ' are not mandatory and provide examples of how Prescribed NPOs might demonstrate compliance with the requirements of the Prescribed NPO Order and Codes of Practice.
 
 **8.** Unless otherwise stated:
 
@@ -59,7 +59,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
 ### 17.2 Vulnerabilities of Prescribed NPOs
 
-**12.** The April 2022 the National Risk Assessment for NPOs (the NPO NRA ) identified around 11% of Jersey-based NPOs as being particularly vulnerable to being abused for terrorist financing purposes.
+**12.** The April 2022 [the National Risk Assessment for NPOs](https://www.gov.je/SiteCollectionDocuments/Industry%20and%20finance/R%20National%20Risk%20Assessment%20of%20NPOs.pdf) (the NPO NRA ) identified around 11% of Jersey-based NPOs as being particularly vulnerable to being abused for terrorist financing purposes.
 
 **13.** This sub-sector of NPOs may be more vulnerable to terrorist financing abuse due to one or more of the following factors:
 
@@ -90,7 +90,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 - Conduct which is an offence under any provision of Articles 15, 16 and 16A of the [Terrorism (Jersey) Law](https://www.jerseylaw.je/laws/current/l_40_2002) 2002 ( the Terrorism Law );
 - Conduct outside Jersey which, if occurring in Jersey, would be an offence under Articles 15, 16 and 16A of the Terrorism Law;
 - Conduct which is an offence under any provision of Article 21 of the Terrorism Law;
-- Conduct which is an offence under any provision of Parts 3, 4 and 6 of the Sanctions and Asset-Freezing Law.
+- Conduct which is an offence under any provision of Parts 3, 4 and 6 of the [Sanctions and Asset-Freezing Law](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx).
 
 ### 17.3 Risk-based approach
 
@@ -125,7 +125,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
     **25.** Prescribed NPOs are expected to apply enhanced controls to demonstrate that they are effectively identifying, assessing, managing, and mitigating terrorist financing risks. These risks may include, but are not limited to:
 
-    - operating in jurisdictions with higher terrorist financing risks, such as those identified in Appendix D2 of this Handbook, including, for example, conflict zones, failed states, and disaster areas;
+    - operating in jurisdictions with higher terrorist financing risks, such as those identified in [Appendix D2](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/appendix-d2-countries-and-territories-identified-as-presenting-higher-risks/) of this Handbook, including, for example, conflict zones, failed states, and disaster areas;
     - utilising certain payment remittance methods which fall outside the formal banking system, such as Hawala, mobile money, preloaded cards, virtual assets, cash (outside Jersey) etc.;
     - funds being diverted from intended beneficiaries of the NPO programme to any other third party with weak terrorist financing controls.
 
@@ -168,7 +168,7 @@ The below table is applicable to section 17 of this Handbook concerning Prescrib
 
     **34.** Risk should also be considered on a cumulative basis. The overall exposure from all risks aggregated together may be greater than if they were each considered individually.
 
-    **35.** An example of a NPO PRA checklist can be downloaded from our website and modified, as appropriate: draft programme risk assessment checklist. This template is not intended to be rigid or prescriptive. An NPO may wish to make amendments to the checklist to account for the specific risks relevant to its activities.
+    **35.** An example of a NPO PRA checklist can be downloaded from our website and modified, as appropriate: [draft programme risk assessment checklist.](https://www.jerseyfsc.org/media/6180/npo-pra-checklist.pdf) This template is not intended to be rigid or prescriptive. An NPO may wish to make amendments to the checklist to account for the specific risks relevant to its activities.
 
     **36.** To support the assessment of risks presented by a particular NPO programme of work, it may be appropriate to prepare a risk appetite statement. This statement sets out what level of terrorist financing risk the Prescribed NPO is prepared to tolerate. A clear position, set out in writing, can assist a Prescribed NPO in deciding whether a proposed NPO programme of work creates too much risk exposure to be undertaken.
 
@@ -235,7 +235,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 - documenting how the charity governor's, board member's, trustee's, senior officers (or equivalent, whether or not they are remunerated) have decided how the identified risks should be treated and managed.
 
-**48.** A Prescribed NPO may demonstrate they are adequately monitoring risk by keeping records of their monitoring activities in a Diversion risk register. An example of a Diversion risk register can be downloaded from our website: draft Diversion risk register template.
+**48.** A Prescribed NPO may demonstrate they are adequately monitoring risk by keeping records of their monitoring activities in a Diversion risk register. An example of a Diversion risk register can be downloaded from our website: [draft Diversion risk register template.](https://www.jerseyfsc.org/media/5784/draft-tf-diversion-risk-register-template.pdf)
 
 **49.** This template is not intended to be rigid or prescriptive. A Prescribed NPO may decide, with reference to its NPO PRA and/or risk appetite statement (or equivalents) that it should carry out monitoring on more, less or different risks than those listed in the template Diversion risk register.
 
@@ -408,8 +408,8 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
     **91.** Based on the outcome of the NPO PRA, a greater or lesser level of measures may be necessary to mitigate the risk of the associate NPO being involved in terrorist financing. However, Prescribed NPOs should always include the following checks in their due diligence measures relating to associate NPOs:
 
     - screening against the UK and Jersey lists of Proscribed terrorist organisations;
-    - screening against the UNSC Consolidated List; and
-    - the OFSI Consolidated sanctions list and the UK sanctions list.
+    - screening against the [UNSC Consolidated List](https://www.un.org/securitycouncil/content/un-sc-consolidated-list); and
+    - the [OFSI Consolidated sanctions list](https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets/consolidated-list-of-targets) and the [UK sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list).
 
     **92.** A Prescribed NPO may undertake screening in respect of sanctions through several different methods. These should be tailored so they are appropriate to its size and complexity. Examples may include:
 
@@ -531,6 +531,8 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 ### 17.5 Identification, screening and training of relevant volunteers, relevant employees, Owners and Controllers
 
+#### 17.5.1. Overview
+
 **119.** Prescribed NPOs also have a specific legal requirement to maintain certain information on their NPO Owners and/or Controllers. This section sets out the statutory requirements and provides guidance on how Prescribed NPOs may demonstrate compliance with those requirements.
 
 **120.** This section also provides guidance on how a Prescribed NPO might carry out due diligence on, and provide training to, certain volunteers and employees.
@@ -619,7 +621,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
     - the UK and Jersey lists of Proscribed terrorist organisations;
     - screening against the UNSC Consolidated List; and
-    - the OFSI Consolidated sanctions list and the UK sanctions list.
+    - the [OFSI Consolidated sanctions](https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets/consolidated-list-of-targets) list and the UK sanctions list.
 
     **142.** A Prescribed NPO may undertake screening in respect of sanctions through several different methods. These should be tailored so they are appropriate to its size and complexity. Examples may include:
 
@@ -634,7 +636,7 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
     - obtains details of any regulatory action taken against the individual (or absence of such action);
     - obtains and confirms details of any criminal convictions (or absence of such convictions).
 
-    **144.** Enquiries into an individual's criminal past are required to be subject to the Rehabilitation of Offenders (Jersey) Law 2001, which prevents supervised persons from requesting information from its directors, senior managers and other employees (and prospective directors, senior managers and other employees) about convictions that are "spent", except where provided for by the Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002.
+    **144.** Enquiries into an individual's criminal past are required to be subject to the [Rehabilitation of Offenders (Jersey) Law 2001](https://www.jerseylaw.je/laws/current/Pages/08.840.aspx), which prevents supervised persons from requesting information from its directors, senior managers and other employees (and prospective directors, senior managers and other employees) about convictions that are "spent", except where provided for by the [Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002](https://www.jerseylaw.je/laws/current/Pages/08.840.50.aspx).
 
     **145.** A Prescribed NPO may also wish to consider requiring its relevant employees, relevant volunteers and all NPO Controller s to make a signed confirmation that they are not, nor have ever been, members of a Proscribed terrorist organisation.
 
@@ -758,6 +760,8 @@ Prescribed NPO records their checks, and the rationale for their decision, in th
 
 
 ### 17.7 Record-keeping
+
+#### 17.7.1. Overview
 
 **172.** This section supplements the statutory provisions of the Prescribed NPO Order relevant to record-keeping with additional Codes of Practice and Guidance notes so that Prescribed NPOs may demonstrate compliance with the legal requirements. More general obligations on Prescribed NPOs to maintain records (such as those in other Jersey laws) are not addressed in this section. It should be noted, however, that such general obligations may extend the period for which records must be kept.
 

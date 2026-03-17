@@ -50,7 +50,7 @@ tags:
 **16.** The objectives of this Handbook are:
 
 - to outline the relevant requirements of the Anti-Money Laundering and Counter-Terrorism Legislation;
-- to set out the JFSC 's requirements, expressed as AML/CFT/CPF Codes of Practice - to be followed by all supervised persons;
+- to set out the JFSC 's requirements, expressed as AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) - to be followed by all supervised persons;
 - to assist supervised persons to comply with the requirements of the Anti-Money Laundering and Counter-Terrorism Legislation and the AML/CFT/CPF Codes of Practice, through practical interpretation;
 
 - to outline good practice in developing systems and controls to prevent supervised persons from being used to facilitate money laundering, the financing of terrorism, and the financing of proliferation;
@@ -139,6 +139,8 @@ tags:
 
 **44.** The JFSC has published a notice designating 'senior management functions' on its website effective from 13 March 2023.
 
+#### 1.4.3. AML/CFT/CPF Codes of Practice
+
 !!! warning "AML/CFT/CPF Code of Practice"
 
     **45.** An AML/CFT/CPF Code of Practice is prepared and issued by the JFSC under Article 22 of the Supervisory Bodies Law. The AML/CFT/CPF Codes of Practice set out the principles and detailed requirements that must be complied with to meet certain statutory provisions of the Supervisory Bodies Law and the Anti-Money Laundering and Counter-Terrorism Legislation (Proceeds of Crime Law, Terrorism Law, Directions Law, Targeted Financial Sanctions Measures, Wire Transfers Regulations, and the Money Laundering Order) by supervised persons. The AML/CFT/CPF Codes of Practice comprise several individual AML/CFT/CPF Codes of Practice.
@@ -181,6 +183,10 @@ tags:
     **55.** Where a breach of an AML/CFT/CPF Code of Practice results in contravention of the Money Laundering Order, a supervised person and its employees can be criminally prosecuted.
 
 
+### 1.5. Jurisdictional scope of the Money Laundering Order and AML/CFT/CPF Codes of Practice
+
+#### 1.5.1. Application of the Money Laundering Order and AML/CFT/CPF Codes of Practice to supervised persons in Jersey
+
 !!! warning "AML/CFT/CPF Code of Practice"
 
     **56.** By virtue of the definition of relevant person in Article 1(1), the Money Laundering Order applies to any supervised person who is carrying on a supervised business in or from within Jersey. This will include Jersey-based branches of companies incorporated outside Jersey conducting supervised business in Jersey.
@@ -202,7 +208,7 @@ tags:
 
 **63.** Notwithstanding the above paragraph, all the provisions of the Money Laundering Order apply to a supervised person that is a legal person carrying on supervised business anywhere in the world. However, in practice this may not apply to all supervised persons carrying on supervised business on the basis that some businesses currently registered under the Supervisory Bodies Law are either sole practitioners or Jersey customary law partnerships.
 
-**64.** Article 10A(3) of the Money Laundering Order requires a supervised person (subject to Article 10A(9), see above) who: (i) is registered, incorporated or otherwise established under Jersey law, but who is not a legal person; and (ii) carries on a supervised business in or from within Jersey, to apply measures that are at least equivalent to the requirements of the Money Laundering Order in respect of any supervised business carried on by that person through an overseas branch. This requirement will apply to a limited partnerships registered under the Limited Partnerships (Jersey) Law 1994 and general partnership established under Jersey customary law.
+**64.** Article 10A(3) of the Money Laundering Order requires a supervised person (subject to Article 10A(9), see above) who: (i) is registered, incorporated or otherwise established under Jersey law, but who is not a legal person; and (ii) carries on a supervised business in or from within Jersey, to apply measures that are at least equivalent to the requirements of the Money Laundering Order in respect of any supervised business carried on by that person through an overseas branch. This requirement will apply to a limited partnerships registered under the [Limited Partnerships (Jersey) Law 1994](https://www.jerseylaw.je/laws/current/Pages/13.500.aspx) and general partnership established under Jersey customary law.
 
 Note that the term 'registered, incorporated or otherwise established' in Article 10A(5) of the Money Laundering Order is intended to be understood only to refer to the creation of a legal arrangement. In particular, it is not intended that 'registered' be understood in the more general sense of registering under commercial or other legislation, or that 'established' be understood in the more general sense of establishing a branch or representative office.
 
@@ -215,6 +221,8 @@ Note that the term 'registered, incorporated or otherwise established' in Articl
 **68.** Article 10A(6) of the Money Laundering Order requires a supervised person (subject to Article 10A(9) of the Money Laundering Order, see above) to take reasonable steps to comply with paragraphs (2), (3) and (4) to the extent that the law of the country or territory in which that person carries on a supervised business, or has a subsidiary carrying on such a business, does not have the effect of prohibiting or preventing the supervised person from taking such steps. If the supervised person does not comply with paragraphs (2), (3) and (4), the following steps must be taken by the supervised person: (i) the JFSC must be informed that this is the case; (ii) other reasonable steps to deal effectively with the risk of money laundering and the financing of terrorism or proliferation financing must be taken.
 
 **69.** If a supervised person carries on a supervised business or has a subsidiary carrying on such a business overseas that has more stringent requirements than those set out in the Money Laundering Order, Article 10A(10) of the Money Laundering Order requires that the supervised person ensure that the more stringent requirements are complied with.
+
+#### 1.5.3. Application of AML/CFT/CPF Codes of Practice to supervised persons carrying on business outside Jersey (overseas)
 
 !!! warning "AML/CFT/CPF Code of Practice"
 

@@ -9,6 +9,8 @@ tags:
 
 # Section 18 - AML Service Providers
 
+#### 18.1. Overview
+
 **1.** This section applies only to supervised persons who are eligible to appoint an AMLSP in accordance with the Notice issued under Article 9A(4) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) ( Article 9A(4) Notice ).
 
 **2.** An individual or organisation which is a supervised person may itself fulfil its own AML/CFT/CPF obligations. Alternatively, it may engage the services of an AMLSP and/or outsource within its group or to a third party (an outsourcing services provider) to assist it in meeting certain AML/CFT/CPF obligations.
@@ -19,7 +21,7 @@ tags:
 
 **5.** Where a supervised person engages the services of an AMLSP, they shall be an AMLSP Direct Customer.
 
-**6.** This section outlines the statutory provisions concerning the AMLSP. It also sets out the AML/CFT/CPF Codes of Practice and provides guidance on the obligations of an AMLSP and how an AMLSP might assist an AMLSP Direct Customer in fulfilling its AML/CFT/CPF obligations.
+**6.** This section outlines the statutory provisions concerning the AMLSP. It also sets out the AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) and provides guidance on the obligations of an AMLSP and how an AMLSP might assist an AMLSP Direct Customer in fulfilling its AML/CFT/CPF obligations.
 
 **7.** It is expected that the AMLSP Direct Customer will use the AMLSP to enable it to meet most of its AML/CFT/CPF obligations.
 
@@ -41,8 +43,8 @@ tags:
 
     **11.** Considering the conclusions of the BRA and AML/CFT/CPF strategy as they relate to the AMLSP services, the AMLSP must:
 
-    - organise and control its affairs in a way that effectively mitigates the risks that it has identified, including areas that are complex; and
-    - be able to demonstrate the existence of adequate and effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, or the financing of proliferation.
+        - organise and control its affairs in a way that effectively mitigates the risks that it has identified, including areas that are complex; and
+        - be able to demonstrate the existence of adequate and effective systems and controls (including policies and procedures ) to counter money laundering, the financing of terrorism, or the financing of proliferation.
 
     **12.** An AMLSP must assess possible money laundering, terrorist financing, or proliferation financing risk associated with sub-outsourced functions, record its assessment, and monitor any risk on an ongoing basis.
 
@@ -57,8 +59,8 @@ tags:
 
     **16.** Careful consideration of the following differences, and clear documentation of the measures taken to address these differences, may be taken to demonstrate that the AMLSP has properly considered AMLSP Direct Customers, and AMLSP Indirect Customers, in its BRA, AML/CFT/CPF strategy and systems and controls (including policies and procedures ).
 
-    - Where the activities or operations of AMLSP Direct Customers are not similar in nature to an AMLSP 's own activities or operations; or
-    - Where AMLSP Indirect Customers are not similar in nature to the other customers of an AMLSP.
+        - Where the activities or operations of AMLSP Direct Customers are not similar in nature to an AMLSP 's own activities or operations; or
+        - Where AMLSP Indirect Customers are not similar in nature to the other customers of an AMLSP.
 
     **17.** An AMLSP may demonstrate consideration of AMLSP Indirect Customers as if they were its own customers by demonstrating the application of its BRA, AML/CFT/CPF strategy, and systems and controls (including policies and procedures ) as amended for any differences in the nature of its AMLSP Direct Customers, and AMLSP Indirect Customers to its other customers.
 
@@ -97,9 +99,9 @@ tags:
 
     **29.** Evidence to support compliance with the AML/CFT/CPF Codes of Practice at [section 18.2.2](#1822-amlsp-responsibilities) of this Handbook is likely to include:
 
-    - Documented consideration of AMLSP services, AMLSP Direct Customers, and AMLSP Indirect Customers within an AMLSP 's BRA, AML/CFT/CPF strategy and systems and controls (including policies and procedures );
-    - A written agreement for services between an AMLSP and its AMLSP Direct Customer regarding the provision of AMLSP services; and
-    - Consideration of AMLSP services in the AMLSP 's board minutes (or equivalent if the AMLSP is not a company).
+        - Documented consideration of AMLSP services, AMLSP Direct Customers, and AMLSP Indirect Customers within an AMLSP 's BRA, AML/CFT/CPF strategy and systems and controls (including policies and procedures );
+        - A written agreement for services between an AMLSP and its AMLSP Direct Customer regarding the provision of AMLSP services; and
+        - Consideration of AMLSP services in the AMLSP 's board minutes (or equivalent if the AMLSP is not a company).
 
 
 #### 18.2.3 AMLSP Direct Customer MLCO
@@ -141,7 +143,6 @@ tags:
     **37.** The appointment of an AMLSP 's MLCO as AMLSP Direct Customer MLCO is likely to be appropriate where the activities or operations of AMLSP Direct Customer s are similar in nature to an AMLSP 's other customers, and where AMLSP Indirect Customer s are similar in nature to the other customers of an AMLSP. In such circumstances, there is likely to be little difference between the AMLSP 's BRA, AML/CFT/CPF strategy and systems and controls (including policies and procedures ) in respect of both the AMLSP 's own AML/CF T/CPF activities and the AMLSP services provided to its AMLSP Direct Customer s.
 
 
-#### 18.2.4 AMLSP Direct Customer MLRO
 
 !!! danger "Statutory Requirement"
 
@@ -220,8 +221,8 @@ tags:
 
     **52.** Demonstrating that the AMLSP is providing the services it has contracted to and they are fulfilling the AMLSP Direct Customer 's AML/CFT/ CPF obligations may be achieved through:
 
-    - the ongoing oversight of the AMLSP Direct Customer ' s Governing body of the AMLSP services. For example, if there is scheduled compliance reporting that this is complied with; and
-    - the Governing body of an AMLSP Direct Customer having participated in all relevant training provided by their AMLSP to its equivalent employees may support the AMLSP Direct Customer in demonstrating compliance with its AML/CFT/CPF obligations.
+        - the ongoing oversight of the AMLSP Direct Customer ' s Governing body of the AMLSP services. For example, if there is scheduled compliance reporting that this is complied with; and
+        - the Governing body of an AMLSP Direct Customer having participated in all relevant training provided by their AMLSP to its equivalent employees may support the AMLSP Direct Customer in demonstrating compliance with its AML/CFT/CPF obligations.
 
     **53.** The JFSC would expect to see, upon request, board minutes (or equivalent) of the Governing body of the AMLSP Direct Customer evidencing the ongoing monitoring of services provided by the AMLSP.
 
@@ -292,8 +293,8 @@ tags:
 
     **67.** An AMLSP could provide the AMLSP Direct Customer MLCO and AMLSP Direct Customer MLRO to the AMLSP Direct Customer and this appointment could relate to both the AMLSP Direct Customer:
 
-    - In its own capacity; and
-    - Acting in relation to the legal arrangement.
+        - In its own capacity; and
+        - Acting in relation to the legal arrangement.
 
     **68.** If the AMLSP services are to encompass a legal arrangement in relation to which the AMLSP Direct Customer is acting, the written agreement for AMLSP services is to be provided in relation to the legal arrangement.
 
@@ -303,9 +304,9 @@ tags:
 
     **71.** Some examples of circumstances where a n AMLSP arrangement in respect of a legal person acting for itself and a legal arrangement may not be appropriate include:
 
-    - Where the trustee or the general partner are businesses with presence in the island which have their own employees;
-    - Where the trustees or the general partner provide services to multiple legal arrangements/funds; or
-    - Where the complexity, frequency or risks posed by the fund require a more subjective bespoke approach.
+        - Where the trustee or the general partner are businesses with presence in the island which have their own employees;
+        - Where the trustees or the general partner provide services to multiple legal arrangements/funds; or
+        - Where the complexity, frequency or risks posed by the fund require a more subjective bespoke approach.
 
     **72.** [Section 13](13-fund-services.md) of this Handbook provides additional information regarding funds and fund operators, with [section 13.2.4](13-fund-services.md#1324-risk-assessments-for-spv-governing-bodies) of this Handbook regarding risk-assessments for SPV governing bodies providing guidance regarding potential approaches to the consolidation of risk assessments for legal arrangements.
 

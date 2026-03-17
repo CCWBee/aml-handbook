@@ -11,6 +11,8 @@ tags:
 
 ## 12. TRUST AND COMPANY SERVICE PROVIDERS TCSPs)
 
+### 12.1. Overview
+
 **1.** This section applies to all supervised persons who are TCSPs as described in the Guideline s, including Trust Company Businesses.
 
 **2.** The purpose of this section is to assist with the application of identification measures to a customer where a supervised person established a business relationship or carries out a one-off transaction in the course of carrying on Trust Company Businesses.
@@ -23,7 +25,7 @@ tags:
 
 **5.** This section does not deal with the provision of any service to a ' COBO-only fund '. A COBOonly fund is a scheme that would be a collective investment fund (as defined in the CIF(J) Law ) except for the fact that the capital, the collective investment of which is the object or one of the objects of the scheme or arrangement, is not acquired by means of an offer to the public of units for subscription, sale, or exchange.
 
-## 12.2.1. Obligation to apply identification measures
+### 12.2.1. Obligation to apply identification measures
 
 TCSPs
 
@@ -40,13 +42,13 @@ TCSPs
 
 10. The requirement to apply identification measures also applies where the relationship that a supervised person has with its customer is conducted through another service provider, e.g., the supervised person provides a director to a client company that is administered by another person carrying on Trust Company Business.
 
-## 12.2.2. Information for assessing risk -Stage 1.4
+### 12.2.2. Information for assessing risk -Stage 1.4
 
 TCSPs
 
 **11.** This section must be read in conjunction with and is supplemental to, [section 3.3.2](03-identification-overview.md#332-information-for-assessing-risk-stage-14) of this Handbook, which explains how a supervised person may demonstrate that it has obtained appropriate information for assessing the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
-## 12.2.2.1. Supervised person providing limited services
+#### 12.2.2.1. Supervised person providing limited services
 
 **12.** Where a supervised person provides only:
 
@@ -73,7 +75,7 @@ That supervised person is unlikely to have any oversight of, or control over, th
     - where accounts are not required to be prepared, underlying financial records that are maintained by the directors of that company (or equivalent for other legal persons or legal arrangements).
 
 
-## 12.2.2.2. Co-trustees and additional general partners
+#### 12.2.2.2. Co-trustees and additional general partners
 
 **16.** In some cases, an express trust or limited partnership may have more than one trustee or general partner respectively. In such cases, it will be necessary for a supervised person that is to act as trustee or general partner to obtain information on each co-trustee or additional general partner (or limited partner that participates in the management of the limited partnership) to fully consider money laundering, financing of terrorism, and financing of proliferation risk.
 
@@ -88,7 +90,7 @@ That supervised person is unlikely to have any oversight of, or control over, th
     **19.** The information requested may include why it is necessary to have more than one trustee or general partner, and the stature and regulatory track-record of the co-trustee or additional general partner.
 
 
-## 12.2.3. Assessment of risk -Stage 2.1
+### 12.2.3. Assessment of risk -Stage 2.1
 
 TCSPs
 
@@ -105,7 +107,7 @@ TCSPs
     - any request for unusually close supervision or control of assets by a person other than the supervised person.
 
 
-## 12.2.4. Identification measures: Finding out identity and obtaining evidence
+### 12.2.4. Identification measures: Finding out identity and obtaining evidence
 
 TCSPs
 
@@ -125,7 +127,7 @@ TCSPs
 
 **29.** Where a supervised person is to form a company, partnership or foundation, the customer will be the persons who are the Beneficial owners and/or controllers of the legal person (see sections 4.3.1 and 4.5 of this Handbook ).
 
-## 12.2.4.1. Finding out identity -Legal arrangement that is a trust
+#### 12.2.4.1. Finding out identity -Legal arrangement that is a trust
 
 !!! info "Guidance"
 
@@ -149,7 +151,7 @@ TCSPs
     **32.** For lower risk relationships, a general threshold of 25% is considered to indicate a material controlling ownership interest in the capital of the person. Where the distribution of interests is uneven, the percentage where effective control may be exercised (a material interest) may be less than 25% when the distribution of other interests is considered, i.e., interests of less than 25% may be material interests.
 
 
-## 12.2.4.2. Finding out identity -Legal arrangement that is a charitable trust (capital markets)
+#### 12.2.4.2. Finding out identity -Legal arrangement that is a charitable trust (capital markets)
 
 !!! info "Guidance"
 
@@ -161,7 +163,7 @@ TCSPs
     - each security-holder that can exercise effective control over the underlying security-issuing vehicle.
 
 
-## 12.2.4.3. Obtaining evidence of identity -Legal arrangement that is a trust
+#### 12.2.4.3. Obtaining evidence of identity -Legal arrangement that is a trust
 
 **34.** The measures that must be applied to obtain evidence of identity of beneficiaries and persons who are the object of a power and that have been identified as presenting higher risk will reflect the verification methods that are available at a particular time to the trustee. For example, it may not be appropriate to request evidence directly from the beneficiary or object of a power.
 
@@ -174,7 +176,7 @@ TCSPs
     **36.** All key documents (or parts thereof) obtained as evidence of identity must be in a language understood by the employees of the business and must be translated into English at the request of the FIU or of the JFSC.
 
 
-## 12.2.4.4. Finding out identity -Legal arrangement that is a limited partnership
+#### 12.2.4.4. Finding out identity -Legal arrangement that is a limited partnership
 
 !!! info "Guidance"
 
@@ -196,7 +198,7 @@ TCSPs
     **41.** For lower risk relationships, a general threshold of 25% is considered to indicate a material controlling ownership interest in the capital of a limited partnership. Where the distribution of interests is uneven, the percentage where effective control may be exercised (a material interest) may be less than 25% when the distribution of other interests is considered, i.e., interests of less than 25% may be material interests.
 
 
-## 12.2.4.5. Obtaining evidence of identity -Legal arrangement that is a limited partnership
+#### 12.2.4.5. Obtaining evidence of identity -Legal arrangement that is a limited partnership
 
 **42.** Where a supervised person is not familiar with a document obtained as evidence of identity, additional appropriate measures may be necessary to satisfy itself that the evidence is genuine.
 
@@ -207,7 +209,7 @@ TCSPs
     **43.** All key documents (or parts thereof) obtained as evidence of identity must be in a language understood by the employees of the business and must be translated into English at the request of the FIU or of the JFSC.
 
 
-## 12.2.4.6. Finding out identity -Legal person that is a PCC
+#### 12.2.4.6. Finding out identity -Legal person that is a PCC
 
 **44.** This section must be read in conjunction with and is supplemental to sections 4.5.1 and 4.5.2 of this Handbook.
 
@@ -215,7 +217,7 @@ TCSPs
 
 **46.** As a result, where a supervised person provides a registered office or secretary to a PCC, it will do so for each cell of that PCC as well. Because the cell of a PCC does not have the ability to enter into arrangements or contract in its own name, for the purposes of Article 3 of the Money Laundering Order, the PCC will be taken to be a customer acting for a third party and each cell will be taken to be a third party that is a person other than an individual. Identification measures must therefore be applied under Article 13 of the Money Laundering Order to the PCC (the customer ) and each cell of the PCC (a third party).
 
-## 12.2.5. Timing of identification measures
+### 12.2.5. Timing of identification measures
 
 **47.** This section must be read in conjunction with and is supplemental to sections 4.1 and 4.7 of this Handbook.
 
@@ -236,7 +238,7 @@ TCSPs
     **51.** During the course of a business relationship, a supervised person that is the trustee of an express trust may demonstrate that it has obtained evidence that is reasonably capable of verifying the identity of a beneficiary or person who is the object of a trust power, where it does so at the time that the person is identified as presenting a higher risk.
 
 
-## 12.2.6. Failure to complete identification measures
+### 12.2.6. Failure to complete identification measures
 
 TCSPs
 
@@ -246,14 +248,14 @@ TCSPs
 
 **54.** This requirement may cause conflicts where a supervised person is acting as a trustee, its customer is the beneficiary or object of a power of a trust and:
 
-- the relationship between a supervised person and its customer is governed by other legislation, e.g., the Trusts (Jersey) Law 1984; and
+- the relationship between a supervised person and its customer is governed by other legislation, e.g., the [Trusts (Jersey) Law 1984](https://www.jerseylaw.je/laws/current/Pages/13.875.aspx); and
 - the termination of a relationship with a customer (a beneficiary or object of a power) may have a prejudicial effect on the interests of other customers.
 
 **55.** This requirement may also cause conflicts where a supervised person is acting as a council member, its customer is a foundation, and the foundation is governed by the Foundations Law. Under Article 12(3) of the Foundations Law the retirement or removal of the qualified member of a foundation does not take effect until immediately before the appointment of a new qualified person to be the qualified member of the council has taken effect.
 
 **56.** In order to address such potential issues, termination of a business relationship may be delayed until such time as compliance with Article 14 of the Money Laundering Order does not conflict with another legal requirement, and/or does not have any prejudicial effect on the interests of other customers, so long as the risk of money laundering, the financing of terrorism, or the financing of proliferation is effectively managed.
 
-## 12.2.7. Provision of information by trustees
+### 12.2.7. Provision of information by trustees
 
 TCSPs
 

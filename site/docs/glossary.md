@@ -20,7 +20,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 **AML/CFT/CPF**
 :   Anti-money laundering/countering the financing of terrorism/countering proliferation financing.
 
-**AML/CFT/CPF Codes of Practice**
+**AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/)**
 :   Codes of Practice for supervised persons , issued under Article 22 of the Supervisory Bodies Law . This includes Codes in Sections 1 to 10 that relate to all supervised persons (except NPOs ) and Codes that relate to particular activities in the sector-specific Sections 11-16 and 18.
 
 **AML/CFT/CPF Handbook**
@@ -71,7 +71,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Basel Committee on Banking Supervision.
 
 **BB(J) Law**
-:   Banking Business (Jersey) Law 1991.
+:   [Banking Business (Jersey) Law 1991](https://www.jerseylaw.je/laws/current/Pages/13.075.aspx).
 
 **Beneficial owners and/or controllers**
 :   Has the meaning set out in Article 2 of the Money Laundering Order. May also be referred to as ' beneficial owner ' , ' owner ' or ' controller ' separately throughout the text .
@@ -94,16 +94,16 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Countering the financing of terrorism .
 
 **CIF(J) Law**
-:   Collective Investment Funds (Jersey) Law 1988.
+:   [Collective Investment Funds (Jersey) Law 1988](https://www.jerseylaw.je/laws/current/Pages/13.100.aspx).
 
 **Collective investment scheme**
 :   Means any of the funds specified in Article 13(10) of the Money Laundering Order.
 
 **Commission Law**
-:   Financial Services Commission (Jersey) Law 1998.
+:   [Financial Services Commission (Jersey) Law 1998](https://www.jerseylaw.je/laws/current/Pages/13.250.aspx).
 
 **Companies Law**
-:   Companies (Jersey) Law 1991.
+:   [Companies (Jersey) Law 1991](https://www.jerseylaw.je/laws/current/Pages/13.125.aspx).
 
 **Compliance Officer**
 :   Has the meaning given in Article 1 of the Supervisory Bodies Law .
@@ -144,10 +144,10 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   A relationship established by a customer on behalf of one third party, including a relationship involving sub-accounts for each third party.
 
 **Designation**
-:   With regard to Article 3(4), part 4 or Part 5 of the Sanctions and Asset-Freezing (Jersey) Law 2019
+:   With regard to Article 3(4), part 4 or Part 5 of the [Sanctions and Asset-Freezing (Jersey) Law 2019](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx)
 
 **Directions Law**
-:   Money Laundering and Weapons Development (Directions) (Jersey) Law 2012.
+:   [Money Laundering and Weapons Development (Directions) (Jersey) Law 2012](https://www.jerseylaw.je/laws/current/Pages/08.685.aspx).
 
 **Diversion**
 :   Transactions by a non- profit organisation's [ NPO ], NPO Representatives or external parties such as associate NPO s that divert NPO Funds away from the NPO 's legitimately intended purposes to a terrorist, terrorist cell or terrorist organisation for them to benefit from, directly or indirectly.
@@ -185,10 +185,10 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   The European Union.
 
 **EU Directive**
-:   EU Electronic Money Directive 2009.
+:   [EU Electronic Money Directive 2009](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32009L0110).
 
 **EU Regulation**
-:   Regulation (EU) 2015/847 of 20 May 2015 on information accompanying transfers of funds.
+:   [Regulation (EU) 2015/847 of 20 May 2015 on information accompanying transfers of funds](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32015R0847).
 
 **express trust(s)**
 :   As defined in the FATF glossary and refers to activities/operations listed under Part 5 of Schedule 2 to the Proceeds of Crime Law .
@@ -223,13 +223,13 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   terrorism.
 
 **financing of proliferation or proliferation financing**
-:   For the purposes of this Handbook , this term means: Conduct which creates the risk of non-implementation, breaching, circumvention, or evasion of the Targeted financial sanctions related to proliferation of weapons of mass destruction and its financing, effective in Jersey. Persons involved in the financing of proliferation are sometimes described as proliferators or proliferation financiers .
+:   For the purposes of this Handbook , this term means: Conduct which creates the risk of non-implementation, breaching, circumvention, or evasion of the [Targeted financial sanctions related to proliferation of weapons of mass destruction and its financing](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/targeted-financial-sanctions-related-to-proliferation-of-weapons-of-mass-destruction-and-its-financing/), effective in Jersey. Persons involved in the financing of proliferation are sometimes described as proliferators or proliferation financiers .
 
 **financing of terrorism or terrorist financing**
-:   • Conduct which is an offence under any provision of Articles 15, 16 and 16A of the Terrorism (Jersey) Law 2002 [the Terrorism Law]; • Conduct outside Jersey which, if occurring in Jersey, would be an offence under Articles 15, 16 and 16A of the Terrorism Law; • Conduct which is an offence under any provision of Article 21 of the Terrorism Law; and • Conduct which is an offence under any provision of Parts 3, 4 and 6 of the Sanctions and Asset-Freezing Law. • Persons involved in the financing of terrorism are sometimes described as terrorist financiers.
+:   • Conduct which is an offence under any provision of Articles 15, 16 and 16A of the [Terrorism (Jersey) Law 2002](https://www.jerseylaw.je/laws/current/Pages/17.860.aspx) [the Terrorism Law]; • Conduct outside Jersey which, if occurring in Jersey, would be an offence under Articles 15, 16 and 16A of the Terrorism Law; • Conduct which is an offence under any provision of Article 21 of the Terrorism Law; and • Conduct which is an offence under any provision of Parts 3, 4 and 6 of the [Sanctions and Asset-Freezing Law](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx). • Persons involved in the financing of terrorism are sometimes described as terrorist financiers.
 
 **FIU**
-:   The Financial Intelligence Unit for Jersey as designated by the regulations made under 41B of the Proceeds of Crime (Jersey) Law 1999
+:   The Financial Intelligence Unit for Jersey as designated by the regulations made under 41B of the [Proceeds of Crime (Jersey) Law 1999](https://www.jerseylaw.je/laws/current/Pages/08.780.aspx?revisedredir=true)
 
 **Foreign financial institution**
 :   Means a person who carries on financial business falling within Part 2 (financial institutions) of Schedule 2 to the Law outside Jersey and is not a Jersey financial institution
@@ -238,10 +238,10 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   A person that is not incorporated or constituted under the law of Jersey and carries on such financial services business in any part of the world
 
 **Foundations Law**
-:   Foundations (Jersey) Law 2009.
+:   [Foundations (Jersey) Law 2009](https://www.jerseylaw.je/laws/current/Pages/13.265.aspx).
 
 **FS(J) Law**
-:   Financial Services (Jersey) Law 1998.
+:   [Financial Services (Jersey) Law 1998](https://www.jerseylaw.je/laws/current/Pages/13.225.aspx).
 
 **FSIU**
 :   Financial Sanctions Implementation Unit, forming part of Jersey's Ministry of External Relations.
@@ -277,7 +277,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   International Association of Insurance Supervisors.
 
 **IB(J) Law**
-:   Insurance Business (Jersey) Law 1996.
+:   [Insurance Business (Jersey) Law 1996](https://www.jerseylaw.je/laws/current/Pages/13.425.aspx).
 
 **ICC**
 :   Incorporated cell company.
@@ -292,7 +292,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   International Monetary Fund.
 
 **Information Order**
-:   Proceeds of Crime (Provision of Information by Trustees) (Jersey) Order 2021.
+:   [Proceeds of Crime (Provision of Information by Trustees) (Jersey) Order 2021](https://www.jerseylaw.je/laws/current/Pages/08.780.70.aspx).
 
 **insolvency practitioner**
 :   Those in the business of undertaking insolvency services .
@@ -346,7 +346,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   For the purposes of this Handbook , means: › Conduct which is an offence under any provision of Articles 30 and 31 of the Proceeds of Crime Law ; › Conduct which is an offence under any provision of Articles 34A and 34D of the Proceeds of Crime Law ; and › Conduct which is an offence under any provision of the Sanctions and Asset-Freezing (Jersey) Law 2019 or any provision of an Order under Article 3 of that Law; and › Conduct which falls within the definition of financing of terrorism set out in this Handbook . Persons involved in money laundering are sometimes
 
 **Money laundering Order**
-:   Money Laundering (Jersey) Order 2008.
+:   [Money Laundering (Jersey) Order 2008](https://www.jerseylaw.je/laws/current/Pages/08.780.30.aspx).
 
 **MVTS**
 :   Money or Value Transfer Services. means a person who provides a money or value transfer service within the meaning given in paragraph 5 in Part 2 of Schedule 2 to the Proceeds of Crime Law.
@@ -366,7 +366,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   This term includes both money and NPO Resources that may be of value to terrorists, terrorist cells or terrorist organisations. Value does not need to include physical assets; it can, for example, be provision of training.
 
 **NPO Law**
-:   Non-Profit Organizations (Jersey) Law 2008.
+:   [Non-Profit Organizations (Jersey) Law 2008](https://www.jerseylaw.je/laws/current/Pages/15.430.aspx).
 
 **NPO Owners and/or Controllers**
 :   For the purposes of this Handbook , means the individuals listed at Articles 4(1)(a) and 4(1)(b) of the Prescribed NPO Orde r.
@@ -415,7 +415,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Has the meaning given in Article 1 of the Prescribed NPO Order . The sub-set of NPOs which present a higher risk of being abused for terrorist financing purposes.
 
 **Prescribed NPO Order**
-:   Prescribed Non-profit Organisations (Jersey) Order 2022.
+:   [Prescribed Non-profit Organisations (Jersey) Order 2022](https://www.jerseylaw.je/laws/current/Pages/15.430.60.aspx).
 
 **Proceeds of Crime Law**
 :   Proceeds of Crime (Jersey) Law 1999.
@@ -476,10 +476,10 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 ## S
 
 **sanctioned country or territory**
-:   Means, at any time, a country or territory which is itself, or whose government (or equivalent) is, the subject of any sanctions broadly prohibiting dealings with such government (or equivalent), country or territory, including trade sanctions, arms embargoes and other trade restrictions in force in Jersey (refer to Sources 6 and 12 of Appendix D2 of this Handbook for a current list of sanctioned countries and territories).
+:   Means, at any time, a country or territory which is itself, or whose government (or equivalent) is, the subject of any sanctions broadly prohibiting dealings with such government (or equivalent), country or territory, including trade sanctions, arms embargoes and other trade restrictions in force in Jersey (refer to Sources 6 and 12 of [Appendix D2](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/appendix-d2-countries-and-territories-identified-as-presenting-higher-risks/) of this Handbook for a current list of sanctioned countries and territories).
 
 **sanctioned person**
-:   Means a person or entity listed on the sanctions designations lists under the Jersey sanctions regime.
+:   Means a person or entity listed on the [sanctions designations lists](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/sanctions-designations-lists/) under the Jersey sanctions regime.
 
 **Sanctions and Asset- Freezing Law**
 :   Sanctions and Asset-Freezing (Jersey) Law 2019.
@@ -488,7 +488,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Suspicious Activity Report.
 
 **sensitive activities**
-:   Refers to activities that have been established, as a matter of policy, by the JFSC as sensitive activities , and which are listed in the JFSC's Sound Business Policy.
+:   Refers to activities that have been established, as a matter of policy, by the JFSC as sensitive activities , and which are listed in the JFSC's [Sound Business Policy](https://www.jerseyfsc.org/industry/guidance-and-policy/sound-business-practice-policy/).
 
 **similar identification measures**
 :   Has the meaning given in Article 16A(1) of the Money Laundering Order.
@@ -521,7 +521,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Defined in Article 1 of the Supervisory Bodies Law and covers all those persons that are required to comply with the Money Laundering Order (referred to in the Money Laundering Order as ' relevant persons '). References in this Handbook where legislation is quoted, summarised, or paraphrased will be to relevant persons to align with the Money Laundering Order.
 
 **Supervisory Bodies Law**
-:   Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008.
+:   [Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008](https://www.jerseylaw.je/laws/current/Pages/08.785.aspx).
 
 **Sympathiser(s)**
 :   An individual who is not actively engaged in terrorist acts but that supports individual terrorists, terrorist cells or terrorist organisations indirectly.
@@ -562,7 +562,7 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 :   Subject to any Order under Article 4 of the FS(J) Law , has the meaning given at Article 2(3) of the FS(J) Law . Persons carrying on Trust Company Business may also be referred to as ' Trust and company service providers ' or ' TCSPs '.
 
 **Trust Law**
-:   Trust (Jersey) Law 1984.
+:   [Trust (Jersey) Law 1984](https://www.jerseylaw.je/laws/current/Pages/13.875.aspx).
 
 ## U
 
@@ -595,4 +595,4 @@ Terms and definitions used throughout the AML/CFT/CPF Handbook.
 ## W
 
 **Wire Transfer Regulations**
-:   EU Legislation (Information Accompanying Transfers of Funds) (Jersey) Regulations 2017.
+:   [EU Legislation (Information Accompanying Transfers of Funds) (Jersey) Regulations 2017](https://www.jerseylaw.je/laws/current/Pages/17.245.53.aspx).

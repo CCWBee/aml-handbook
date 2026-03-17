@@ -15,7 +15,7 @@ tags:
 
 **1.** Paragraph 21 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant operations and activities of lawyers, notaries, and other independent legal professionals ( Lawyers ) for the purposes of the complying with the requirements of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide the interpretation and activities and operations of Lawyers that are in scope.
 
-## 15.1.1. Activities to which the Money Laundering Order applies
+### 15.1.1. Activities to which the Money Laundering Order applies
 
 **2.** Whilst the Money Laundering Order, the Guidelines and consequently this Handbook, only brings within its scope the business activities of law firms where they are carrying on a supervised business, the Anti-Money Laundering and Counter-Terrorism Legislation and the general offences and penalties cover all persons and all business activities within Jersey. Consequently, law firms undertaking a significant proportion of supervised business may wish to consider applying the systems and controls to counter money laundering, the financing of terrorism, or the financing of proliferation across the whole of their business activities.
 
@@ -54,7 +54,7 @@ Lawyers
 
 Lawyers
 
-## 15.3.1. Considering and assessing service area vulnerabilities and warning signs
+### 15.3.1. Considering and assessing service area vulnerabilities and warning signs
 
 Lawyers
 
@@ -64,7 +64,7 @@ Lawyers
 
 **13.** The following sub-sections set out some key legal service area vulnerabilities drawn from FATF and law enforcement guidance and case studies, and some key warning signs that have been drawn up by the Law Society for England and Wales, as an indication of service area vulnerabilities. Further factors to consider when evaluating the risks posed by customers and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
-## 15.3.1.1. Use of client accounts
+#### 15.3.1.1. Use of client accounts
 
 !!! info "Guidance"
 
@@ -79,7 +79,7 @@ Lawyers
     **17.** Circulation of client account details should be kept to a minimum. Customers should be discouraged from passing the details on to third parties and should be asked to use the account details only for previously agreed purposes.
 
 
-## 15.3.1.2. Establish a policy on handling cash
+#### 15.3.1.2. Establish a policy on handling cash
 
 !!! info "Guidance"
 
@@ -88,7 +88,7 @@ Lawyers
     **18.** It is good practice to establish a policy of not accepting cash payments above a certain limit either at the supervised person's office or into the supervised person's bank account. Customers may attempt to circumvent such a policy by depositing cash directly into a client account at a bank. Supervised persons may consider advising customers in such circumstances that they might encounter a delay in completion of the final transaction. Avoid disclosing client account details as far as possible and make it clear that electronic transfer of funds is expected.
 
 
-## 15.3.1.3. Source of funds
+#### 15.3.1.3. Source of funds
 
 !!! info "Guidance"
 
@@ -99,7 +99,7 @@ Lawyers
     **20.** In some circumstances, cleared funds will be essential for transactions and customers may want to provide cash to meet a completion deadline. Supervised persons should assess the risk in these cases and ask more questions if necessary.
 
 
-## 15.3.1.4. Private client work -Administration of estates
+#### 15.3.1.4. Private client work -Administration of estates
 
 !!! info "Guidance"
 
@@ -107,7 +107,7 @@ Lawyers
 
     **21.** A deceased person's estate is very unlikely to be actively utilised by criminals as a means for laundering their funds, however there is still a risk of money laundering, the financing of terrorism, or proliferation financing for those working in this area.
 
-    **22.** When winding up an estate, there is no blanket requirement that supervised persons should be satisfied about the history of all the funds which make up the estate under administration. However, supervised persons should be aware of the factors which can increase money laundering, the financing of terrorism or proliferation financing risks and consider the following:
+    **22.** When winding up an estate, there is no blanket requirement that supervised persons should be satisfied about the history of all the funds which make up the estate under administration. However, supervised persons should be aware of the factors which can increase money laundering, the financing of terrorism or [proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/) and consider the following:
 
     - where estate assets have been earned in a foreign jurisdiction, supervised persons should be aware of the wide definition of criminal conduct in the Proceeds of Crime Law; and
     - where estate assets have been earned or are located in a higher risk country or territory, supervised persons may need to make further checks about the source of those funds.
@@ -123,7 +123,7 @@ Lawyers
     **27.** If the deceased person is from another jurisdiction and a Lawyer is dealing with the matter in the home country, supervised persons may find it helpful to ask the Lawyer for information about the deceased to gain some assurances that there are no suspicious circumstances surrounding the estate. The issue of the tax payable on the estate may depend on the jurisdiction concerned.
 
 
-## 15.3.1.5. Property transactions
+#### 15.3.1.5. Property transactions
 
 !!! info "Guidance"
 
@@ -136,7 +136,7 @@ Lawyers
     **30.** The purchase of real estate is commonly used as part of the last stage of money laundering. Such a purchase offers the criminal an investment which gives the appearance of financial stability. The purchase of a restaurant or hotel, for example, offers advantages as it is often a cash-intensive business, which is the preferred currency of criminals. Cash remains the mainstay of much serious organised criminal activity. It has the obvious advantage that it leaves no audit trail and is the most reliable form of payment, as well as the most flexible. Retail businesses also provide a good front for criminal funds where legitimate earnings can be mixed with the proceeds of crime.
 
 
-## 15.3.1.6. Criminal use of conveyancing services
+#### 15.3.1.6. Criminal use of conveyancing services
 
 !!! info "Guidance"
 
@@ -147,7 +147,7 @@ Lawyers
     **32.** Corrupt Lawyers may employ trainees to perform the conveyancing work for criminal groups, thereby distancing themselves from the criminal aspect of the business. Conveyancers should also be alert to instructions which are a deliberate attempt to avoid assets being dealt with in the way intended by the court or through the usual legal process. For example, Lawyers may sometimes suspect that instructions are being given to avoid the property forming part of a bankruptcy or forming part of assets subject to confiscation.
 
 
-## 15.3.1.7. Ownership issues
+#### 15.3.1.7. Ownership issues
 
 !!! info "Guidance"
 
@@ -160,7 +160,7 @@ Lawyers
     **35.** Another potential cause for concern is where a third party is providing the funding for a p urchase, but the property is being registered in someone else's name. There may be legitimate reasons for this, such as a family arrangement, but supervised persons should be alert to the possibility of being misled about the true ownership of the property. Further CDD measures should be undertaken on the person providing the funding.
 
 
-## 15.3.1.8. Methods of funding
+#### 15.3.1.8. Methods of funding
 
 !!! info "Guidance"
 
@@ -187,7 +187,7 @@ Lawyers
     **41.** Supervised persons should consider their obligations to the mortgage lender in these circumstances -supervised persons are normally required to advise mortgage lenders if the buyers are not funding the balance of the price from their own resources.
 
 
-## 15.3.1.9. Valuations
+#### 15.3.1.9. Valuations
 
 !!! info "Guidance"
 
@@ -198,7 +198,7 @@ Lawyers
     **43.** Properties may also be sold below the market value to an associate, with a view to obscuring the title to the property while the original owner still maintains the Beneficial ownership.
 
 
-## 15.3.1.10. Mortgage Fraud
+#### 15.3.1.10. Mortgage Fraud
 
 !!! info "Guidance"
 
@@ -221,7 +221,7 @@ Lawyers
     **51.** If a customer has made a deliberate misrepresentation on their mortgage application, it is likely that the crime/fraud exemption to legal professional privilege will apply (see section 15.5.1 of this Handbook ). This means that no waiver of confidentiality will be needed before a disclosure is made. However, such matters will need to be dealt with on a case-by-case basis.
 
 
-## 15.3.1.11. Company and commercial work
+#### 15.3.1.11. Company and commercial work
 
 !!! info "Guidance"
 
@@ -245,7 +245,7 @@ Lawyers
     **56.** The more of the above elements that exist, the greater the likelihood and the risk that the identity of the underlying beneficial owner may be able to remain unidentifiable.
 
 
-## 15.3.1.12. Shell corporations
+#### 15.3.1.12. Shell corporations
 
 !!! info "Guidance"
 
@@ -256,7 +256,7 @@ Lawyers
     **58.** Shell companies are often used to receive deposits of cash which are then transferred to another jurisdiction, to facilitate false invoicing or to purchase real estate and other assets. They have also been used as the vehicle for the actual predicate offence of bankruptcy fraud on many occasions.
 
 
-## 15.3.1.13. Bearer shares
+#### 15.3.1.13. Bearer shares
 
 !!! info "Guidance"
 
@@ -272,7 +272,7 @@ Lawyers
     **61.** To guard against misuse, several jurisdictions have dematerialised or immobilised bearer shares when they are registered in an effort to ensure that the identity of the Beneficial owners can be verified. Dematerialisation is achieved by requiring registration upon transfer or requiring registration to vote or collect dividends. While physical transfer of bearer shares is possible, it is believed to be rare.
 
 
-## 15.3.1.14. Private equity
+#### 15.3.1.14. Private equity
 
 !!! info "Guidance"
 
@@ -309,7 +309,7 @@ Lawyers
 
 **65.** This section is supplemental to and should be read in conjunction with [section 2.7](02-corporate-governance.md#27-the-mlro) of this Handbook.
 
-**66.** [Section 2.7](02-corporate-governance.md#27-the-mlro) of this Handbook sets out statutory requirements under the Money Laundering Order and AML/CFT/CPF Codes of Practice regarding the appointment a MLRO and, where relevant, Deputy MLROs.
+**66.** [Section 2.7](02-corporate-governance.md#27-the-mlro) of this Handbook sets out statutory requirements under the Money Laundering Order and AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) regarding the appointment a MLRO and, where relevant, Deputy MLROs.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -322,7 +322,7 @@ Lawyers
 
 Lawyers
 
-## 15.5.1. Timing of identification measures
+### 15.5.1. Timing of identification measures
 
 **68.** [Section 4.7](04-identification-measures.md#47-timing-of-identification-measures) of this Handbook sets out statutory requirements under the Money Laundering Order regarding when identification measures must be applied, in respect of a business relationship or one-off transaction.
 
@@ -332,7 +332,7 @@ Lawyers
 
 **71.** Where the provision of supervised business by the Lawyer is urgent, this undertaking may be provided prior to obtaining evidence of identity if there is little risk of money laundering, the financing of terrorism, or proliferation financing occurring, and evidence of identity is obtained as soon as reasonably practicable. Nevertheless, identity is still required to be found out.
 
-## 15.5.2. Timing for 'existing clients'
+### 15.5.2. Timing for 'existing clients'
 
 Lawyers
 
@@ -346,7 +346,7 @@ Lawyers
 
 **76.** Once an e xisting relationship has been 'remediated', then Article 13(1)(c)(ii) of the Money Laundering Order will apply to such a relationship in the same way as a relationship established on or after 1 May 2008 (on the basis that documents, data or information will have been obtained under the CDD measures prescribed in Article 3 of the Money Laundering Order).
 
-## 15.5.3. Ascertaining legal position
+### 15.5.3. Ascertaining legal position
 
 Lawyers
 
@@ -376,7 +376,7 @@ Lawyers
 
 Lawyers
 
-## 15.6.1. Exemption from applying third party identification requirements in relation to certain relevant customers involved in Trust Company Business
+### 15.6.1. Exemption from applying third party identification requirements in relation to certain relevant customers involved in Trust Company Business
 
 **84.** This section is supplemental to and should be read in conjunction with [section 7.15](07-enhanced-simplified-cdd.md) of this Handbook.
 
@@ -460,13 +460,13 @@ Lawyers
     **90.** For example, the provision of a standard trust deed that requires very little modification, may be described as 'off the shelf' and attracts only a nominal fee, may be illustrative of a relationship presenting little risk of money laundering. By contrast, the provision of a bespoke trust deed that requires detailed information on the trust to be collected and which attracts more than a nominal fee, may not.
 
 
-## 15.6.2. Jersey property transfers
+### 15.6.2. Jersey property transfers
 
 Lawyers
 
 **91.** This section is supplemental to and should be read in conjunction with [section 7.16](07-enhanced-simplified-cdd.md#716-further-exemptions-from-applying-identification-requirements) of this Handbook.
 
-**92.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the Control of Housing and Work (Jersey) Law 2012 (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
+**92.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the [Control of Housing and Work (Jersey) Law 2012](https://www.jerseylaw.je/laws/current/Pages/18.150.aspx) (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -483,7 +483,7 @@ Lawyers
 
 **95.** This section is supplemental to and should be read in conjunction with the AML/CFT/CPF Codes of Practice and Guidance notes set out at [section 8](08-reporting-obligations.md) of this Handbook.
 
-## 15.7.1. Legal Professional Privilege (LPP)
+### 15.7.1. Legal Professional Privilege (LPP)
 
 **96.** Lawyers are under a duty to keep the affairs of their customers confidential, and the circumstances in which they can disclose customer communications are strictly limited.
 
@@ -508,13 +508,13 @@ Lawyers
     - Again, this exemption does not apply in relation to any information or other matter that is disclosed with a view to furthering a criminal purpose.
 
 
-## 15.7.1.1. Duty of confidentiality
+#### 15.7.1.1. Duty of confidentiality
 
 **103.** Lawyers are professionally and legally obliged to keep the affairs of their customers confidential. This obligation extends to all matters revealed to a Lawyer, from whatever source, by a customer or someone acting on the customer's behalf.
 
 **104.** In exceptional circumstances, this obligation may be overridden. The most relevant instances are where a court orders disclosure or disclosure is required by statute.
 
-## 15.7.1.2. Application of LPP
+#### 15.7.1.2. Application of LPP
 
 **105.** Certain confidential communications between a Lawyer and their customer will fall into a category known as LPP. LPP is a privilege against disclosure, ensuring customers know that certain documents and information provided to Lawyers cannot be disclosed without the customer's consent. It recognises a customer's right to be open with their legal adviser, without fear of later disclosure to their prejudice. LPP cannot be overridden by any other public interest but can be waived or overridden by statute.
 
@@ -522,7 +522,7 @@ Lawyers
 
 **107.** For the purposes of LPP, the term ' Lawyers ' includes Advocates, Écrivains, barristers, solicitors, in-house Lawyers, and their employees.
 
-## 15.7.1.3. Advice Privilege
+#### 15.7.1.3. Advice Privilege
 
 !!! info "Guidance"
 
@@ -548,7 +548,7 @@ Lawyers
     - conveyancing documents (these documents are not communicated and therefore are not subject to advice privilege).
 
 
-## 15.7.1.4. Advice within a transaction
+#### 15.7.1.4. Advice within a transaction
 
 **111.** All communications between a Lawyer and their customer relating to a transaction in which the Lawyer has been instructed for the purpose of obtaining legal advice are covered by advice privilege, provided that they are directly related to the performance by the Lawyer of their professional duty as legal adviser of their customer.
 
@@ -560,7 +560,7 @@ Lawyers
 
 The customer, including any working papers and drafts prepared, as long as they are directly related to the Lawyer 's performance of their professional duties as a legal adviser.
 
-## 15.7.1.5. Litigation Privilege
+#### 15.7.1.5. Litigation Privilege
 
 !!! info "Guidance"
 
@@ -579,7 +579,7 @@ The customer, including any working papers and drafts prepared, as long as they 
     - for obtaining information leading to obtaining such evidence.
 
 
-## 15.7.1.6. What is covered by LPP -Further points to consider
+#### 15.7.1.6. What is covered by LPP -Further points to consider
 
 **115.** An original document not brought into existence for privileged purposes, and thus not already privileged, does not become privileged simply by being given to a Lawyer for advice or another privileged purpose.
 
@@ -587,7 +587,7 @@ The customer, including any working papers and drafts prepared, as long as they 
 
 **117.** It is not a breach of LPP to discuss a matter with your MLRO (or Deputy MLRO ) for the purpose of receiving guidance on whether to make a disclosure. Privilege will continue to apply whilst such a determination is being made.
 
-## 15.7.1.7. Crime/Fraud Exception
+#### 15.7.1.7. Crime/Fraud Exception
 
 !!! info "Guidance"
 
@@ -600,7 +600,7 @@ The customer, including any working papers and drafts prepared, as long as they 
     **120.** It is not just a customer's intention which is relevant for ascertaining whether information was communicated for the furtherance of a criminal purpose. In addition to the circumstances described above, LPP also does not extend to a situation where a third party intends the Lawyer -customer communication to be made for the furtherance of a criminal purpose (e.g., the innocent customer is being used by a criminal third party).
 
 
-## 15.7.1.8. Determining when to submit a SAR
+#### 15.7.1.8. Determining when to submit a SAR
 
 **121.** The reporting obligations and offences contained in Article 34D of the Proceeds of Crime Law and Article 21 of the Terrorism Law do not apply to a Lawyer 's knowledge or suspicion, or reasonable grounds for knowledge or suspicion, arising from information obtained in 'privileged circumstances' (as defined by the above laws). The Money Laundering Order also makes a provision in respect of privileged circumstances at Article 21(5). A Lawyer may, however, wish to consider making a joint report with their customer. The agreement of the Lawyer 's customer to waive LPP is necessary for this to be possible.
 
@@ -610,7 +610,7 @@ The customer, including any working papers and drafts prepared, as long as they 
 
 **124.** As the application of LPP is complex, supervised persons carrying on legal business may wish to consider maintaining procedures which require reports to be made to the MLRO (or Deputy MLRO ) on each occasion that there is knowledge, suspicion, or reasonable grounds to suspect money laundering or the financing of terrorism. The MLRO (or Deputy MLRO ) can then discuss the situation with the employee concerned and, as necessary, take advice from an appropriate partner.
 
-## 15.7.1.9. CDD measures and LPP
+#### 15.7.1.9. CDD measures and LPP
 
 !!! info "Guidance"
 

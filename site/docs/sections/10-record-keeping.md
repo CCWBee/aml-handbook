@@ -9,7 +9,9 @@ tags:
 
 # Section 10 - Record Keeping
 
-**1.** This section outlines the statutory provisions concerning record-keeping for the purposes of countering money laundering, the financing of terrorism or proliferation financing. It also sets AML/CFT/CPF Codes of Practice and provides Guidance notes on the keeping of records. More general obligations on supervised persons to maintain records in relation to their business are not addressed in this section -these may extend the period for which records must be kept.
+#### 10.1. Overview of section
+
+**1.** This section outlines the statutory provisions concerning record-keeping for the purposes of countering money laundering, the financing of terrorism or proliferation financing. It also sets AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) and provides Guidance notes on the keeping of records. More general obligations on supervised persons to maintain records in relation to their business are not addressed in this section -these may extend the period for which records must be kept.
 
 **2.** Record-keeping is essential to facilitate effective investigation, prosecution, and confiscation of criminal property. If law enforcement agencies, either in Jersey or elsewhere, are unable to trace criminal property due to inadequate record-keeping, then prosecution for money laundering, the financing of terrorism, or the financing of proliferation and confiscation of criminal property may not be possible. Likewise, if the funds used to finance terrorist activity or proliferation activity cannot be traced back through the financial system, then the sources and the destination of terrorist financing or proliferation financing will not be identified.
 

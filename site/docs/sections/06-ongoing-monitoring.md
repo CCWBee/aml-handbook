@@ -9,6 +9,8 @@ tags:
 
 # Section 6 - Ongoing Monitoring
 
+#### 6.1. Overview of section
+
 **1.** This section outlines the statutory provisions concerning on-going monitoring. On-going monitoring consists of:
 
 - scrutinising transactions undertaken throughout the course of a business relationship and
@@ -47,7 +49,7 @@ tags:
     - iii. connected with a country or territory that is subject to such measures.
     **8.** Article 11(3A) of the Money Laundering Order explains that, for the purposes of Article 11(3)(a), 'scrutiny' includes scrutinising the background and purpose of transactions and activities.
 
-    **9.** Parts 3, 4 and 5 of the Sanctions and Asset-Freezing Law set out a range of restrictions and prohibitions in respect of designated persons. These relate to funds, economic resources and financial services.
+    **9.** Parts 3, 4 and 5 of the [Sanctions and Asset-Freezing Law](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx) set out a range of restrictions and prohibitions in respect of designated persons. These relate to funds, economic resources and financial services.
 
     **10.** By virtue of the Sanctions and Asset-Freezing Law, UK designations have immediate effect in Jersey.
 
@@ -74,7 +76,7 @@ tags:
 
 **14.** Secondly, such notable transactions and activity, including their background and purpose, are then examined by an appropriate person.
 
-**15.** In addition to the scrutiny of transactions as required by the Money Laundering Order, AML/CFT/CPF Codes of Practice in this section also require a supervised person to scrutinise customer activity. This is not just relevant to transaction-based business relationships, but also to business relationships that do not involve transactions, e.g., where a supervised person gives investment advice, or acts as a director to a company.
+**15.** In addition to the scrutiny of transactions as required by the Money Laundering Order, AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) in this section also require a supervised person to scrutinise customer activity. This is not just relevant to transaction-based business relationships, but also to business relationships that do not involve transactions, e.g., where a supervised person gives investment advice, or acts as a director to a company.
 
 **16.** A supervised person must therefore, as a part of its scrutiny of transactions/activity, establish appropriate procedures to monitor all its customers' transactions/activity, and to recognise and examine notable transactions/activity.
 
@@ -180,7 +182,7 @@ tags:
 **42.** The risk that a business relationship is tainted by funds that are the proceeds of criminal conduct or instrumentalities, or are used to finance terrorism or the financing of proliferation, is increased where the business relationship or one-off transaction is with a person or entity connected with:
 
 - an enhanced risk state (see Appendix D1 of this Handbook );
-- a sanctioned country or territory (see Appendix D2 of this Handbook, sources 6 and 12 therein); or
+- a sanctioned country or territory (see [Appendix D2](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/appendix-d2-countries-and-territories-identified-as-presenting-higher-risks/) of this Handbook, sources 6 and 12 therein); or
 - a sanctioned person.
 
 **43.** A supervised person is required to comply with asset-freezing and reporting obligations to prevent funds or other assets being made available, directly or indirectly, for the benefit of a designated person. The Government of Jersey currently does not compile its own list of designated persons, however, any changes to UN and UK asset-freeze designations are immediately effective in Jersey by virtue of the ambulatory provisions in Jersey's sanctions legislation.
@@ -190,7 +192,7 @@ tags:
 - the need to prevent the flight or dissipation of funds or other assets which are linked to the financing of terrorists or financing of proliferation of weapons of mass destruction; and
 - the need for global, concerted action to swiftly prevent and disrupt their flow.
 
-**45.** Following changes to the sanctions designations lists effective in Jersey, the Government of Jersey will issue a sanctions notice without delay, and the JFSC will alert supervised persons of the changes.
+**45.** Following changes to the [sanctions designations lists](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/sanctions-designations-lists/) effective in Jersey, the Government of Jersey will issue a sanctions notice without delay, and the JFSC will alert supervised persons of the changes.
 
 **46.** As a part of its on-going monitoring procedures, a supervised person must establish and maintain appropriate policies and procedures to monitor all customer transactions and activity to recognise whether any business relationships or one-off transactions are directly or indirectly with such sanctioned persons, organisations, or other parties.
 
@@ -206,9 +208,9 @@ tags:
 
     **51.** As part of its examination of the above transactions and activity, a supervised person must examine, as far as possible, their background and purpose and set forth its findings in writing.
 
-    **52.** A supervised person must undertake sanctions screening for all business relationships and one-off transactions. This screening must include the customer, any Beneficial owners and/or controllers and other associated parties. The screening must be carried out at the time of take-on, periodic review and when there is a trigger event, i.e., amendments made to the sanctions designations lists.
+    **52.** A supervised person must undertake sanctions screening for all business relationships and one-off transactions. This screening must include the customer, any Beneficial owners and/or controllers and other associated parties. The screening must be carried out at the time of take-on, periodic review and when there is a trigger event, i.e., amendments made to the [sanctions designations lists](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/sanctions-designations-lists/).
 
-    **53.** A supervised person must sign up to receive sanctions e-mail alerts from the JFSC and sanctions notices from the Government of Jersey, which are publicly available on the Jersey Gazette -see the Government of Jersey Sanctions Notices Registration (gov.je) and the JFSC Sanctions Registration (jerseyfsc.org).
+    **53.** A supervised person must sign up to receive sanctions e-mail alerts from the JFSC and sanctions notices from the Government of Jersey, which are publicly available on the Jersey Gazette -see the Government of Jersey Sanctions Notices [Registration (gov.je)](https://www.gov.je/citizen/pages/registration.aspx) and the JFSC Sanctions [Registration (jerseyfsc.org)](https://www.jerseyfsc.org/subscribe-to-our-news-and-updates/).
 
     **54.** A supervised person must ensure their sanctions monitoring arrangements include an assessment of the effectiveness of their sanctions controls and their compliance with the Jersey sanctions regime.
 
@@ -263,7 +265,7 @@ tags:
 
     **63.** In the context of sanctions compliance reports, 'as soon as practicable' means as soon as possible and practical, considering all of the facts and circumstances in the individual case. For example, obtaining independent legal advice may delay immediate reporting of a sanctions matter and take some time, however, it is reasonable to suggest that the issue will be resolved within a matter of days. In any case, this should be no more than 14 days.
 
-    **64.** Further examples of good practice in respect of a range of sanctions compliance matters can be found in the JFSC 's Financial sanctions practical guidance and the Government of Jersey website.
+    **64.** Further examples of good practice in respect of a range of sanctions compliance matters can be found in the JFSC 's [Financial sanctions practical guidance](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/financial-sanctions-practical-guidance/) and the Government of Jersey website.
 
 
 ### 6.3 Automated monitoring methods

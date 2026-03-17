@@ -9,6 +9,8 @@ tags:
 
 # Section 7 - Enhanced and Simplified CDD Measures
 
+#### 7.1. Overview of section
+
 **1.** This section explains the circumstances in which CDD measures are required to be enhanced under Articles 15, 15A and 15B of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) and explains the exemptions from CDD requirements under Part 3A of the Money Laundering Order. It also sets out circumstances where simplified identification measures can be applied in relation to low-risk products or services.
 
 **2.** In addition to any case where a supervised person determines that a customer presents a higher risk of money laundering, the financing of terrorism, or proliferation financing, Articles 15, 15A and 15B of the Money Laundering Order also require enhanced CDD measures to be applied in the following specified scenarios:
@@ -132,7 +134,7 @@ tags:
     **25.** A supervised person may demonstrate that it has applied enhanced identification measures:
 
     - under Article 15 of the Money Laundering Order; and
-    - under the AML/CFT/CPF Codes of Practice set at paragraph 24 above:
+    - under the AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) set at paragraph 24 above:
 
     - Where it finds out further information on a person (in this example, 'Person A'), obtains an additional form of evidence of identity for Person A, or carries out some other additional measure in respect of Person A.
     **26.** Additional forms of evidence of identity may include use of a further source listed in [section 4](04-identification-measures.md) of this Handbook (including independent data sources).
@@ -151,7 +153,7 @@ tags:
 
 ### 7.5 Customer with relevant connection to an enhanced risk state
 
-**28.** The FATF has identified a number of countries and territories which have failed to address their own money laundering, the financing of terrorism, or proliferation financing risks, and/or have in place insufficient AML/CFT/CPF regimes, in relation to which it has called for the application of countermeasures. These countries or territories are referred to in the Money Laundering Order as enhanced risk states. A person with a relevant connection to these countries or territories presents a higher risk of being involved in money laundering, the financing of terrorism, or the financing of proliferation, and doing business with such a person also poses an increased risk.
+**28.** The FATF has identified a number of countries and territories which have failed to address their own money laundering, the financing of terrorism, or [proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/), and/or have in place insufficient AML/CFT/CPF regimes, in relation to which it has called for the application of countermeasures. These countries or territories are referred to in the Money Laundering Order as enhanced risk states. A person with a relevant connection to these countries or territories presents a higher risk of being involved in money laundering, the financing of terrorism, or the financing of proliferation, and doing business with such a person also poses an increased risk.
 
 **29.** For the purpose of applying Article 15(1)(c) of the Money Laundering Order, enhanced risk states are those listed in Appendix D1 of this Handbook.
 
@@ -349,8 +351,8 @@ tags:
 
     **66.** For further guidance on declassifying PEPs supervised persons can refer to the following:
 
-    - The Wolfsberg Group Guidance; and
-    - The FATF Guidance on Recommendation 12 and 22.
+    - [The Wolfsberg Group Guidance](https://wolfsberg-group.org/news/28); and
+    - [The FATF Guidance on Recommendation 12 and 22.](https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Guidance-PEP-Rec12-22.pdf.coredownload.pdf)
 
 
 !!! info "Guidance"
@@ -586,7 +588,7 @@ tags:
 ## a) Correspondent Banking Services (FATF)
 
 - b) Correspondent Banking Principles (Wolfsberg Group)
-- (c) Money Laundering -UK Joint Money Laundering Steering Group's Guidance (JMLSG), Part II, Chapter 16 the guidance relating to 'Correspondent Banking Relationships'
+- (c) Money Laundering -UK [Joint Money Laundering Steering Group](https://jmlsg.org.uk/guidance/)'s Guidance (JMLSG), Part II, Chapter 16 the guidance relating to 'Correspondent Banking Relationships'
 
 **111.** For similar relationships, it should also consider the following guidance:
 - a) Money Laundering -UK Joint Money Laundering Steering Group's Guidance (JMLSG),Part II, Chapter 16 the guidance relating to 'Correspondent Trading Relationships'
@@ -596,7 +598,7 @@ tags:
 
 **113.** Where amendments to the Money Laundering Order introduce new CDD requirements applicable to business relationships and one-off transactions, these requirements do not apply retrospectively, and no remediation project is required.
 
-**114.** However, Article 13(1)(c)(ii) of the Money Laundering Order requires a supervised person to apply identification measures where the supervised person has doubts about the veracity or adequacy of documents, data or information previously obtained. In the context of this section, this would include where documents, data or information previously obtained for a business relationship do not satisfy additional new CDD requirements, such as those set out in the Money Laundering (Amendment No.10) (Jersey) Order 2019
+**114.** However, Article 13(1)(c)(ii) of the Money Laundering Order requires a supervised person to apply identification measures where the supervised person has doubts about the veracity or adequacy of documents, data or information previously obtained. In the context of this section, this would include where documents, data or information previously obtained for a business relationship do not satisfy additional new CDD requirements, such as those set out in the [Money Laundering (Amendment No.10) (Jersey) Order 2019](https://www.jerseylaw.je/laws/enacted/Pages/RO-041-2019.aspx)
 
 **115.** This means that where, during the course of its regular review of a business relationship (pursuant to Article 3(3)(b) of the Money Laundering Order and discussed at [section 3.4](03-identification-overview.md#34-on-going-monitoring-ensuring-that-documents-data-and-information-are-up-to-date-and-remain-relevant) of this Handbook ) a supervised person becomes aware that documents, data or information previously obtained do not satisfy the additional CDD requirements set out in the Money Laundering (Amendment No.10) (Jersey) Order 2019 (or any other subsequent amendments), the supervised person will need to apply CDD measures to that customer at that time, in line with the requirement in Article 13(1)(c)(ii) of the Money Laundering Order.
 
@@ -675,7 +677,7 @@ Circumstances in which exemptions under Part 3A of the Money Laundering Order do
 !!! danger "Statutory Requirement"
 
     **125.** Under Article 17C(1) of the Money Laundering Order a relevant person is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer:
-    - a) is, or carries on business in respect of, an unregulated fund, within the meaning of the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008, or equivalent business;
+    - a) is, or carries on business in respect of, an unregulated fund, within the meaning of the [Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008](https://www.jerseylaw.je/laws/current/Pages/13.100.95.aspx), or equivalent business;
 
     - b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 9 of Part 2 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999), or equivalent business;
     - (c) carries on Trust Company Business and is registered to carry on such business under the FS(J) Law, or equivalent business, but only if the relevant person is:
@@ -717,7 +719,7 @@ Circumstances in which exemptions under Part 3A of the Money Laundering Order do
 
     another person carrying on deposit-taking business who is registered to do so by the JFSC, the Guernsey Financial Services Commission or the Isle of Man Financial Services Authority.
 
-    **131.** In relation to the exemption set out at Article 17C(1)(d) of the Money Laundering Order, a supervised person may be satisfied that there is little risk of money laundering, the financing of terrorism, or the financing of proliferation occurring where the deposit is in respect of a third party's registered contract within the meaning of the Control of Housing and Work (Jersey) Law 2012.
+    **131.** In relation to the exemption set out at Article 17C(1)(d) of the Money Laundering Order, a supervised person may be satisfied that there is little risk of money laundering, the financing of terrorism, or the financing of proliferation occurring where the deposit is in respect of a third party's registered contract within the meaning of the [Control of Housing and Work (Jersey) Law 2012](https://www.jerseylaw.je/laws/current/Pages/18.150.aspx).
 
     **132.** In relation to the exemptions set out at Article 17C(1)(c)(ii) and (iii) of the Money Laundering Order, guidance on when a supervised person may be satisfied that there is little risk of money laundering, the financing of terrorism, or the financing of proliferation occurring is provided in sections 15.4 and 16.5 of this Handbook.
 
@@ -880,7 +882,7 @@ Circumstances in which exemptions under Part 3A of the Money Laundering Order do
 - information about the identity and holdings of persons who hold a substantial beneficial ownership interest to be disclosed on a timely basis;
 - material changes in such ownership and other required information to be disclosed in a timely manner.
 
-**160.** Whilst there is not a global list of countries and territories that 'fully implement' or 'broadly implement' IOSCO Principles 16 and 17, reference may be made to IMF Financial System Stability Assessment reports, prepared as part of the IMF Financial Sector Assessment Program.
+**160.** Whilst there is not a global list of countries and territories that 'fully implement' or 'broadly implement' IOSCO Principles 16 and 17, reference may be made to [IMF Financial System Stability Assessment reports](https://www.imf.org/en/Publications/fssa), prepared as part of the IMF Financial Sector Assessment Program.
 
 **161.** Guidance published by the UK's Joint Money Laundering Steering Group addresses what may be considered to be a regulated market. The only list of exchanges currently available is for EU -regulated marke ts (follow the link provided in the glossary entry for regulated market ).
 

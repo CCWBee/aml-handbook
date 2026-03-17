@@ -9,6 +9,8 @@ tags:
 
 # Section 3 - Identification Measures - Overview
 
+#### 3.1. Overview of section
+
 **1.** This section explains the identification measures required under Article 13 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), and the framework under which a supervised person is required to apply a riskbased approach to the application of such measures.
 
 **2.** This section should be read and understood in conjunction with the following sections:
@@ -301,12 +303,12 @@ tags:
 - those with strategic deficiencies in the fight against money laundering, the financing of terrorism, and the financing of proliferation, e.g., those identified by the FATF as having strategic deficiencies:
 - when the FATF places jurisdictions under increased monitoring where they are identified as having strategic deficiencies. The list of jurisdictions under increased monitoring which have committed to addressing their issues is often informally referred to as FATF's 'grey list'. Jurisdictions which do not have an action plan are placed on a list of high-risk jurisdictions subject to a call for action. This is informally known as FATF's 'black list';
 - where a customer has a connection to a country on the FATF 's grey list or black list, such as a portion of their source of wealth originating from that country, it is possible they may try to disguise or obscure that connection to avoid additional scrutiny. Supervised persons should be mindful of customers whose source of wealth is routed through multiple intermediate layers, and seek to understand the ultimate geographic origin of the source of wealth;
-- up-to-date versions of both the FATF's grey list and black lists are maintained on the FATF website.
+- up-to-date versions of both the FATF's grey list and black lists are maintained on the [FATF website.](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html)
 - those identified as major illicit drug producers, or through which significant quantities of drugs are transited, e.g., those listed by the US Department of State in its annual International Narcotics Control Strategy Report;
 - those that do not take efforts to confront and eliminate human trafficking, e.g., those listed in Tier 3 of the US Department of State's annual Trafficking in Persons Report;
 - those that have strong links (such as funding or other support) with terrorist activities, e.g. those designated by the US Secretary of State as State sponsors of terrorism; and those physical areas identified by the US (in its annual report entitled Country Reports on Terrorism) as ungoverned, under-governed or ill-governed where terrorists are able to organise, plan, raise funds, communicate, recruit, train, transit and operate in relative security because of inadequate governance capability, political will or both;
 - those that are involved in the proliferation of nuclear and other weapons, e.g., those that are the subject of sanctions measures in place in Jersey, or, as appropriate, elsewhere;
-- those that are vulnerable to corruption, e.g., those with poor ratings in Transparency International's Corruption Perception Index or highlighted as a concern in the Worldwide Governance Indicators project;
+- those that are vulnerable to corruption, e.g., those with poor ratings in Transparency International's Corruption Perception Index or highlighted as a concern in the [Worldwide Governance Indicators](http://info.worldbank.org/governance/wgi/) project;
 - when considering the level of corruption risk in a country, it is important to consider the wider context of any issues affecting the country which may increase that risk. As noted below, this may include there being an ineffective government, or political instability;
 
 - the level of corruption risk may increase where the customer is a PEP. Supervised persons should therefore consider how much influence their customer deploys in that country and assess the risk that their source of wealth has been tainted by the proceeds of corruption;
@@ -315,14 +317,14 @@ tags:
 - those that are politically unstable, e.g., those highlighted as a concern in the Worldwide Governance Indicators project, or which may be considered to be a 'failed state', e.g., those listed in the Failed State Index (central government is so weak or ineffective that it has little practical control over much of its territory; non-provision of public services; widespread corruption and criminality; refugees and involuntary movement of populations; sharp economic decline);
 - those that are the subject of sanctions measures that are in place in Jersey or elsewhere, e.g., those dealing with the abuse of human rights of misappropriation of State funds;
 - those that lack transparency, or which have excessive secrecy laws, e.g. those identified by the OECD as having committed to internationally agreed tax standards, but which have not yet implemented those standards;
-- those with inadequate regulatory and supervisory standards on international cooperation and information exchange, e.g., those identified by the Financial Stability Board as just making material progress towards demonstrating sufficiently strong adherence, or being non-cooperative, where it may not be possible to investigate the provenance of funds introduced into the financial system.
+- those with inadequate regulatory and supervisory standards on international cooperation and information exchange, e.g., those identified by the [Financial Stability Board](https://www.fsb.org/) as just making material progress towards demonstrating sufficiently strong adherence, or being non-cooperative, where it may not be possible to investigate the provenance of funds introduced into the financial system.
 
 **68.** In addition to the above, supervised persons should also consider whether a customer has a relevant connection to a country or territory named in Appendix D1 of this Handbook (countries or territories for which a FATF call for action applies), as well as those that are generally considered to be un-cooperative in the fight against money laundering, the financing of terrorism, and the financing of proliferation.
 
 **69.** Country risk -A connection to a country, territory or area that presents a lower risk of money laundering, the financing of terrorism, or the financing of proliferation. The following factors may be indicative of lower risk:
 
 - a favourable rating in the Worldwide Governance Indicators project;
-- the application of national financial reporting standards that follow international financial reporting standards, e.g., those countries identified by the European Commission as having generally accepted accounting principles that are equivalent to International Financial Reporting Standards;
+- the application of national financial reporting standards that follow international financial reporting standards, e.g., those countries identified by the European Commission as having generally accepted accounting principles that are equivalent to [International Financial Reporting Standards](https://www.ifrs.org/);
 - a commitment to international export control regimes (Missile Technology Control Regime, the Australia Group, the Nuclear Suppliers Group, Wassenaar Arrangement and the Zangger Committee);
 - a favourable assessment by the Financial Stability Board concerning adherence to regulatory and supervisory standards on international cooperation and information exchange;
 
@@ -365,12 +367,12 @@ tags:
 - if the PEP siphons away money which legitimately belongs to the sovereign wealth fund via a trust and company structure, for their own personal gain; or
 - where the State-owned corporation itself is involved in illicit activity, as opposed to one or two 'bad actors' within the organisation. In this scenario, the corporation might utilise a structure to buy up key resources to deliberately manipulate their market price, for the benefit of the equally corrupt national government.
 - nature and scope of business activities generating the funds/assets. The below examples may indicate higher risk:
-- a customer conducting 'sensitive' activities (as defined by the JFSC 's Sound Business Policy) or conducting activities which are prohibited if carried on with certain countries;
+- a customer conducting 'sensitive' activities (as defined by the JFSC 's [Sound Business Policy](https://www.jerseyfsc.org/industry/guidance-and-policy/sound-business-practice-policy/)) or conducting activities which are prohibited if carried on with certain countries;
 - a customer engaged in higher risk trading activities (examples include, but are not limited to, trading in volatile currency pairs, assets linked to emerging market, cryptocurrencies and crypto assets);
 - a customer engaged in business activities which fall within the Table of the JFSC 's Sound Business Policy;
 - a customer engaged in a business which involves handling significant amounts of cash.
 - transparency of customer. For example:
-- persons that are subject to public disclosure rules, e.g., on exchanges or regulated markets (or majority-owned and consolidated subsidiaries of such persons), or subject to licensing by a statutory regulator, e.g. the Jersey Competition Regulatory Authority may indicate lower risk;
+- persons that are subject to public disclosure rules, e.g., on exchanges or regulated markets (or majority-owned and consolidated subsidiaries of such persons), or subject to licensing by a statutory regulator, e.g. the [Jersey Competition Regulatory Authority](https://www.jcra.je/) may indicate lower risk;
 - customers where the structure or nature of the entity or relationship makes it difficult to identify the true Beneficial owners and controllers may indicate higher risk, for example those with nominee directors, nominee shareholders or which have issued bearer shares.
 - behaviour by the customer may indicate a higher risk. For example:
 
@@ -394,13 +396,13 @@ tags:
 
 ##### 3.3.4.2 External data sources
 
-**78.** In assessing the risk that countries and territories may present a higher risk, objective data published by the IMF, FATF, World Bank and the Egmont Group of Financial Intelligence Units will be relevant, as will objective information published by national governments (such as the World Factbook published by the US Central Intelligence Agency) and other reliable and independent sources, such as those referred to in [Section 3.3.4.1](#3341-factors-to-consider) of this Handbook. Often, this information may be accessed through country or territory profiles provided on electronic subscription databases and on the internet. Some profiles, such as those available through KnowYourCountry, are free to use.
+**78.** In assessing the risk that countries and territories may present a higher risk, objective data published by the IMF, FATF, World Bank and the [Egmont Group of Financial Intelligence Units](https://egmontgroup.org/) will be relevant, as will objective information published by national governments (such as the World Factbook published by the US Central Intelligence Agency) and other reliable and independent sources, such as those referred to in [Section 3.3.4.1](#3341-factors-to-consider) of this Handbook. Often, this information may be accessed through country or territory profiles provided on electronic subscription databases and on the internet. Some profiles, such as those available through [KnowYourCountry](https://www.knowyourcountry.com/), are free to use.
 
 **79.** Information on sanctions may be found on the JFSC 's website.
 
-**80.** Appendix D2 of this Handbook lists several countries, territories and areas that are identified by reliable and independent external sources as presenting a higher risk. When assessing country risk for AML/CFT/CPF purposes, in addition to considering the particular features of a customer, it will be relevant to take account of the number of occasions that a particular country, territory or area is listed for different reasons.
+**80.** [Appendix D2](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/appendix-d2-countries-and-territories-identified-as-presenting-higher-risks/) of this Handbook lists several countries, territories and areas that are identified by reliable and independent external sources as presenting a higher risk. When assessing country risk for AML/CFT/CPF purposes, in addition to considering the particular features of a customer, it will be relevant to take account of the number of occasions that a particular country, territory or area is listed for different reasons.
 
-**81.** There are also several providers of country risk 'league tables' that rate countries according to risk (e.g., lower, medium or higher). Some of these are free to use, e.g., KnowYourCountry and the Basel AML Index. These are based on weighted data published by external sources. Before placing reliance on country risk 'league tables', care should be taken to review the methodology that has been used, including the basis followed for selecting sources, weighting applied to those sources and approach that is taken where data for a country, territory or area is missing.
+**81.** There are also several providers of country risk 'league tables' that rate countries according to risk (e.g., lower, medium or higher). Some of these are free to use, e.g., KnowYourCountry and the [Basel AML Index](https://baselgovernance.org/basel-aml-index). These are based on weighted data published by external sources. Before placing reliance on country risk 'league tables', care should be taken to review the methodology that has been used, including the basis followed for selecting sources, weighting applied to those sources and approach that is taken where data for a country, territory or area is missing.
 
 **82.** External data sources may also assist in establishing customer -specific risk. For example, electronic subscription databases list individuals entrusted with prominent public functions who may therefore meet the definition of a PEP. The lists of sanctions designations in force in Jersey may be accessed through the JFSC's website.
 
@@ -483,7 +485,7 @@ tags:
 
     **103.** The risk factors listed below do not constitute an exhaustive list and should not be considered in isolation. An accumulation of multiple risk factors will increase the overall risk level -such an accumulation is often seen in cases where prepaid cards have been used to facilitate criminal activities.
 
-    - Prepaid cards are portable and easily transported cross-border. The current definition of cash and bearer negotiable instruments in the Customs and Excise (Jersey) Law 1999 does not extend to prepaid cards and there is no requirement to report mailing or shipping such cards abroad. Furthermore, it can be difficult for law enforcement, customs, or border guards to determine and potentially seize the monetary value stored on a prepaid card. This is particularly relevant when prepaid cards have high load limits and are used to transport the proceeds of criminal activities;
+    - Prepaid cards are portable and easily transported cross-border. The current definition of cash and bearer negotiable instruments in the [Customs and Excise (Jersey) Law 1999](https://www.jerseylaw.je/laws/current/Pages/24.660.aspx) does not extend to prepaid cards and there is no requirement to report mailing or shipping such cards abroad. Furthermore, it can be difficult for law enforcement, customs, or border guards to determine and potentially seize the monetary value stored on a prepaid card. This is particularly relevant when prepaid cards have high load limits and are used to transport the proceeds of criminal activities;
     - Ownership of the card may be transferred to an unidentified bearer (i.e., from the customer to another person);
     - Prepaid cards may be purchased, and funds loaded, reloaded, redeemed, or withdrawn on a non-face-to-face basis;
     - Prepaid cards may be funded by cash which could be the proceeds of criminal activity. Cards also provide access to cash by way of ATMs, ' cash back ' functionality or redemption;
@@ -519,7 +521,7 @@ tags:
 
 - becomes a supervised person for the purposes of the Money Laundering Order and is required to apply CDD measures, keep records, appoint an MLCO and MLRO, and to have policies and procedures in place to prevent and detect money laundering, the financing of terrorism, and the financing of proliferation;
 - is required to register with the JFSC under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx) or, where the person carries on a regulated business as defined in the Supervisory Bodies Law, to notify the JFSC that it is issuing prepaid cards; and
-- is subject to supervision by the JFSC under the Supervisory Bodies Law for compliance with the Money Laundering Order and AML/CFT/CPF Codes of Practice.
+- is subject to supervision by the JFSC under the Supervisory Bodies Law for compliance with the Money Laundering Order and AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/).
 
 **110.** The Money Laundering Order therefore applies to prepaid card issuers with no physical presence in Jersey that issue cards through Jersey-based agents.
 

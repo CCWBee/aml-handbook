@@ -9,7 +9,7 @@ tags:
 
 # Section 11 - Wire Transfers
 
-## 1 1. WIRE TRANSFERS
+### 11.1. Overview of section
 
 **1.** The Wire Transfers Regulations were brought into force on 13 June 2017, following the EU's enactment of the EU Regulation on 20 May 2015. It implements FATF Recommendation 16 and promotes an enhanced framework around the traceability of transfers of funds for the purpose of preventing, detecting and investigating money laundering, the financing of terrorism, or the financing of proliferation and other financial crimes.
 
@@ -59,7 +59,7 @@ tags:
 
     **17.** The Wire Transfer Regulations also require PSPs to put in place effective procedures to detect transfers of funds that lack the required information about the payer and the payee, and to determine whether to execute, reject or suspend such transfers of funds.
 
-    **18.** In line with the Data Protection (Jersey) Law 2018, personal data obtained by PSPs should be used only for the purpose of preventing money laundering, terrorist financing, or proliferation financing. PSPs should ensure the confidentiality of such data.
+    **18.** In line with the [Data Protection (Jersey) Law 2018](https://www.jerseylaw.je/laws/current/Pages/15.240.aspx), personal data obtained by PSPs should be used only for the purpose of preventing money laundering, terrorist financing, or proliferation financing. PSPs should ensure the confidentiality of such data.
 
     **19.** Any record of information on the payer/payee should not be kept longer than is necessary for the purposes of preventing, detecting, and investigating money laundering, the financing of terrorism, or the financing of proliferation.
 
@@ -117,7 +117,7 @@ tags:
 
 ## 11.3. Outgoing transfers -obligations upon the PSP of the payer
 
-## Transfers for non-account holders
+### 11.3.1. Transfers for non-account holders
 
 !!! danger "Statutory Requirement"
 
@@ -141,7 +141,7 @@ tags:
     Note: For transfers of funds not exceeding € 1,000 the PSP of the payer need not verify the information on the payer unless the funds to be transferred have been received in cash or in anonymous electronic money, or the PSP has reasonable grounds for suspecting money laundering or the financing of terrorism.
 
 
-## 11.3.1. Transfers for Account holders
+### 11.3.2. Transfers for Account holders
 
 !!! danger "Statutory Requirement"
 
@@ -178,7 +178,7 @@ tags:
     **44.** To meet the technical limitations and to manage cases with multiple account holders and different addresses, the PSP of the payer may demonstrate compliance with the Wire Transfer Regulations by documenting the priority given to the payer's information in line with law enforcement purposes to trace the payer and for sanctions screening. For example, by de-prioritising titles and full middle names, whilst prioritising the initial of the given name and the full family name and at least the country and the city of address; or for joint accounts holders to provide both names, giving priority to family name over given names.
 
 
-## 11.3.2. Batch Files -payments either inside or outside of British Islands
+### 11.3.3. Batch Files -payments either inside or outside of British Islands
 
 !!! danger "Statutory Requirement"
 
@@ -215,7 +215,7 @@ tags:
 
 **53.** In addition to real-time and targeted ex-post monitoring, PSPs of the payee and IPSPs should regularly perform ex-post reviews on a random sample taken from all processed transfers of funds.
 
-## 11.4.1. Admissible characters or input and missing information checks
+### 11.4.1. Admissible characters or input and missing information checks
 
 !!! danger "Statutory Requirement"
 
@@ -244,7 +244,7 @@ tags:
     **62.** PSPs of the payee and IPSPs may draw on existing policies and procedures if they are considered sufficient to meet their obligations under the Wire Transfer Regulations, as long as those policies and procedures are subject to periodic reviews and updates, and training is provided to all relevant members of staff, including persons responsible for processing transfers of funds.
 
 
-## 11.4.1. Managing transfers of funds with missing information or inadmissible characters or inputs
+### 11.4.2. Managing transfers of funds with missing information or inadmissible characters or inputs
 
 !!! danger "Statutory Requirement"
 
@@ -260,7 +260,7 @@ tags:
 
 !!! info "Guidance"
 
-    **66.** To determine whether to reject, suspend or execute a transfer of funds in compliance with Articles 8 and 12, PSPs of the payee and IPSPs may consider the money laundering, terrorist financing, or proliferation financing risks associated with that transfer of funds and document it, for example:
+    **66.** To determine whether to reject, suspend or execute a transfer of funds in compliance with Articles 8 and 12, PSPs of the payee and IPSPs may consider the money laundering, terrorist financing, or [proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/) associated with that transfer of funds and document it, for example:
 
     - what money laundering, terrorist financing, or proliferation financing concerns the type of missing information gives rise to; and
     - what high-risk indicators have been identified that may suggest that the transaction presents a high money laundering, terrorist financing, or proliferation financing risk or gives rise to suspicion of money laundering, terrorist financing, or proliferation financing.
@@ -272,7 +272,7 @@ tags:
     - all appropriate follow-up steps taken to obtain the response, including the issuing of warnings and setting of deadlines, before either rejecting any future transfers of funds from that prior PSP or restricting or terminating its business relationship with that prior PSP.
 
 
-## 11.4.2. Failure to provide information
+### 11.4.3. Failure to provide information
 
 **68.** Under Article 8(2) and Article 12(2) should the PSP of the payer repeatedly fail to provide the required information on the payer or the payee, even after warnings and deadlines, the PSP of the payee or IPSP shall take further steps by:
 
@@ -291,7 +291,7 @@ tags:
 
     - the type of information which is missing.
 
-    **71.** The report to the JFSC should be completed without undue delay and contain the following information as set out in the JFSC form at Appendix E1 of this Handbook:
+    **71.** The report to the JFSC should be completed without undue delay and contain the following information as set out in the JFSC form at [Appendix E1](https://www.jerseyfsc.org/media/4668/appendix-e1-notification-point-2-article-8.doc) of this Handbook:
 
     - the name of the PSP of the payer or IPSP identified as repeatedly failing to provide the required information;
     - the country in which the PSP of the payer or IPSP is authorised;
@@ -304,7 +304,7 @@ tags:
     **72.** The obligation to report applies only to circumstances where information requests are not fulfilled and the PSP of the payee or IPSP invokes measures which restrict or terminate the business relationship with the PSP of the payer. The reporting requirement does not apply where a request for information is fulfilled by the PSP of the payer.
 
 
-## 11.4.3. Additional obligations on IPSPs
+### 11.4.4. Additional obligations on IPSPs
 
 !!! danger "Statutory Requirement"
 
@@ -331,7 +331,7 @@ tags:
 
     **78.** A supervised person should ensure that any breach of the Wire Transfer Regulations is promptly reported to the JFSC.
 
-    **79.** The report to the JFSC should be completed without undue delay and contain the following information as set out in the form at Appendix E2 of this Handbook:
+    **79.** The report to the JFSC should be completed without undue delay and contain the following information as set out in the form at [Appendix E2](https://www.jerseyfsc.org/media/4669/appendix-e2-notification-point-2-article-21.doc) of this Handbook:
 
     - the specific provision in the Wire Transfer Regulations which has been breached;
     - the nature of the breach, including its cause;

@@ -14,11 +14,11 @@ tags:
 
 ## 14.1. Definition of real estate agents and high value dealers undertaking supervised business
 
-## 14.1.1. Real estate agents
+### 14.1.1. Real estate agents
 
 **1.** Paragraph 19 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant transactions and activity of real estate agents for the purposes of complying with the requirements of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide the interpretation of ' real estate agents ' and their activities.
 
-## 14.1.2. High value dealers
+### 14.1.2. High value dealers
 
 **2.** Paragraph 20 of Part 3 of Schedule 2 to the Proceeds of Crime Law defines high value dealers, for the purposes of complying with the requirements of the Money Laundering Order.
 
@@ -32,7 +32,7 @@ The staff who processed these transactions did not identify that the persons wer
 
 Had the business had more effective controls in place in line with the Handbook, they would have applied CDD measures to the group of money-launderers and may have formed a suspicion that money laundering was taking place.
 
-The business in this example appears to be involved in money laundering and may be found guilty of the offence of dealing with criminal property. The business also appears to have failed to have had adequate procedures to prevent and detect money laundering in line with the Money Laundering Order. As such, they may be found guilty of an offence of contravening or failing to comply with a requirement contained in any Order made under Article 37 of the Proceeds of Crime Law. In addition, the business may be found to have contravened AML/CFT/CPF Codes of Practice within this Handbook and therefore may be subject to proceedings by the JFSC.
+The business in this example appears to be involved in money laundering and may be found guilty of the offence of dealing with criminal property. The business also appears to have failed to have had adequate procedures to prevent and detect money laundering in line with the Money Laundering Order. As such, they may be found guilty of an offence of contravening or failing to comply with a requirement contained in any Order made under Article 37 of the Proceeds of Crime Law. In addition, the business may be found to have contravened AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) within this Handbook and therefore may be subject to proceedings by the JFSC.
 
 !!! info "Guidance"
 
@@ -104,7 +104,7 @@ The business in this example appears to be involved in money laundering and may 
 
 ## Real estate agents and high value dealers
 
-## 14.2.1. Obligation to find out identity and obtain evidence
+### 14.2.1. Obligation to find out identity and obtain evidence
 
 **13.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.2](04-identification-measures.md#42-obligation-to-find-out-identity-and-obtain-evidence) of this Handbook.
 
@@ -115,7 +115,7 @@ The business in this example appears to be involved in money laundering and may 
     **14.** Following FATF Recommendation 22, a supervised person that provides real estate agency services as defined in paragraph 19 of Part 3 of Schedule 2 to the Proceeds of Crime Law, must comply with CDD obligations with respect to both purchasers and vendors of the property.
 
 
-## 14.2.2. Timing of identification measures
+### 14.2.2. Timing of identification measures
 
 ## Real estate agents and high value dealers
 
@@ -130,7 +130,7 @@ The business in this example appears to be involved in money laundering and may 
     **17.** A supervised person must not permit final agreements to be signed or pay away funds to an external party (or to another account in the name of the customer ), other than to deposit the funds on behalf of the customer, until such time as evidence of identity has been obtained.
 
 
-## 14.2.3. Timing for 'existing customers '
+### 14.2.3. Timing for 'existing customers '
 
 ## Real estate agents and high value dealers
 
@@ -152,7 +152,7 @@ Real estate agents
 
 **24.** This section is supplemental to and should be read in conjunction with [section 7.16](07-enhanced-simplified-cdd.md#716-further-exemptions-from-applying-identification-requirements) of this Handbook.
 
-**25.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the Control of Housing and Work (Jersey) Law 2012 (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
+**25.** This section relates to the exemption available under Article 18(6) of the Money Laundering Order, which provides that a supervised person that is a Lawyer or a real estate agent, which enters into a business relationship or carries out a one-off transaction for the purpose of enabling a customer, directly or indirectly, to enter into a registered contract within the meaning of the [Control of Housing and Work (Jersey) Law 2012](https://www.jerseylaw.je/laws/current/Pages/18.150.aspx) (i.e. where it is to be passed before the Royal Court and registered in the Public Registry of Contracts), need not obtain evidence of identity of its customer.
 
 !!! warning "AML/CFT/CPF Code of Practice"
 
@@ -165,7 +165,7 @@ Real estate agents
 
 ## Real estate agents and high value dealers
 
-## 14.4.1. Service area vulnerabilities and warning signs -Real estate agents
+### 14.4.1. Service area vulnerabilities and warning signs -Real estate agents
 
 **27.** Criminal conduct generates huge amounts of illicit capital, and these criminal proceeds need to be integrated into personal lifestyles and business operations. Law enforcement agencies advise that property purchases are one of the most frequently identified methods of money laundering. Property can be used either as a vehicle for money laundering or as a means of investing laundered funds.
 
@@ -177,7 +177,7 @@ Real estate agents
 
 **31.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
-## 14.4.2. Criminal use of conveyancing services real estate agents
+### 14.4.2. Criminal use of conveyancing services real estate agents
 
 !!! info "Guidance"
 
@@ -205,13 +205,13 @@ Real estate agents
 - the Agency advised that they had intervened to prevent Mr S from extending his property portfolio shortly before the hearing.
 - the total value of the property subject to the restraint order was estimated to be £1.4 million.
 
-## 14.4.3. Recognising suspicious behaviour and unusual instructions
+### 14.4.3. Recognising suspicious behaviour and unusual instructions
 
 Real estate agents
 
 **36.** The following are examples of potentially suspicious events, both prior to and during the life of the property transaction.
 
-## 14.4.3.1. Absence of normal commercial rationale
+#### 14.4.3.1. Absence of normal commercial rationale
 
 !!! info "Guidance"
 
@@ -226,9 +226,7 @@ Real estate agents
     **40.** Where a customer has declined services that a supervised person would normally expect them to use, or shows little interest in the transaction, this may indicate that the property deal is a sham and merely being used to confuse the audit trail for criminal money (i.e., part of the ' layering ' stage of the money laundering process).
 
 
-## 14.4.3.2.
-
-Ownership issues
+#### 14.4.3.2. Ownership issues
 
 !!! info "Guidance"
 
@@ -239,7 +237,7 @@ Ownership issues
     **42.** Changes in the beneficial ownership of a company owning and managing a property where the new beneficial owners' source of funds for the company purchase is unclear or dubious may indicate that criminal funds have been injected into the company. This risk is heightened if known, reputable Lawyers have not been appointed by either or both sides to act for them.
 
 
-## 14.4.3.3. Property values
+#### 14.4.3.3. Property values
 
 !!! info "Guidance"
 
@@ -250,7 +248,7 @@ Ownership issues
     **44.** Properties sold below the market value to an associate may have the objective of obscuring the title to the property while the original owner still maintains the beneficial ownership.
 
 
-## 14.4.3.4. Valuations and surveys
+#### 14.4.3.4. Valuations and surveys
 
 !!! info "Guidance"
 
@@ -263,9 +261,7 @@ Ownership issues
 
 - In 2006, a cannabis farm was discovered by local police. Officers found a large and sophisticated infrastructure for growing cannabis which could have produced close to £2.5 million pounds worth of cannabis over the previous four years. The owner, who was convicted of producing cannabis with intent to supply, was imprisoned for three years and had nearly £400,000 worth of assets confiscated.
 
-## 14.4.3.5.
-
-Funding issues
+#### 14.4.3.5. Funding issues
 
 ## Real estate agents
 
@@ -279,7 +275,7 @@ Funding issues
 
 **51.** Real estate agents should be mindful that as Lawyers tighten up on the circumstances in which they will hold customer money, other targets will be sought by criminals.
 
-## 14.4.3.6. Mortgage fraud
+#### 14.4.3.6. Mortgage fraud
 
 !!! info "Guidance"
 
@@ -303,7 +299,7 @@ Funding issues
 
 - A ring of over 40 professionals, including several fraudulent valuers, was broken because of an extensive mortgage fraud investigation. The fraudsters bought over 200 properties, falsely inflated their values, and sold them amongst themselves, fraudulently obtaining mortgages from most of the large lenders. No repayments were ever made on any of the mortgages which totalled over £30 million.
 
-## 14.4.3.7. Buy to let
+#### 14.4.3.7. Buy to let
 
 !!! info "Guidance"
 
@@ -318,7 +314,7 @@ Funding issues
 
 - In 2004, following an investigation by law enforcement and tax authorities in the UK, several people were arrested for importing cannabis resin concealed in machines from overseas. One of the defendants offered to plead guilty if no confiscation order was brought against them. The investigation, which spanned several jurisdictions in Europe, had uncovered a property portfolio the defendant wanted to protect. The defendant had purchased several new apartments in various developments to launder the money and rent out the properties. A confiscation order was raised against the defendant amounting to nearly £3 million.
 
-## 14.4.4. Service area vulnerabilities and warning signs -High value dealers
+### 14.4.4. Service area vulnerabilities and warning signs -High value dealers
 
 **60.** The business risk assessment relating to customers and services will depend on the supervised person's size, type of customers and the business area it engages in.
 
@@ -326,7 +322,7 @@ Funding issues
 
 **62.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
-## 14.4.5. Recognising suspicious behaviour and unusual transactions -High value dealers
+### 14.4.5. Recognising suspicious behaviour and unusual transactions -High value dealers
 
 **63.** Cash remains the mainstay of much serious organised criminal activity. It has the obvious advantage that it leaves no audit trail and is the most reliable form of payment, as well as the most flexible.
 
@@ -349,7 +345,7 @@ Funding issues
 - accounts had been opened for companies running cash-based businesses that received cash from customers and paid suppliers in cash;
 - the businesses arranged to deliver cash to the banks in small denomination notes, which would then be exchanged for the larger €500 notes. The €500 notes were then either paid into other bank accounts or smuggled out of the country. No SARs had been made by any of the banks concerned.
 
-## 14.4.5.1. Recognising stolen cash
+#### 14.4.5.1. Recognising stolen cash
 
 !!! info "Guidance"
 
@@ -358,7 +354,7 @@ Funding issues
     **69.** Stolen cash is frequently laundered through retail outlets. Sterling, and many euro banknotes, become stained with dye when cash boxes are stolen and opened during bank or cash-intransit robberies. Criminals frequently attempt to clean the notes, but this damages the foil and other security features.
 
 
-## 14.4.5.2. High value cash transactions
+#### 14.4.5.2. High value cash transactions
 
 !!! info "Guidance"
 
@@ -379,7 +375,7 @@ Funding issues
 
 - Members of the gang pleaded guilty to money laundering, criminal conspiracy, obtaining money by deception and possessing criminal property.
 
-## 14.4.5.3. Gold, precious metals, precious stones and jewellery
+#### 14.4.5.3. Gold, precious metals, precious stones and jewellery
 
 !!! info "Guidance"
 
@@ -410,7 +406,7 @@ Funding issues
 - The gold would be collected from the London dealer and sold for cash.
 - The cash would then be available to UK-based members of the criminal enterprise to be used to purchase drugs, or otherwise to cover the operating costs of the enterprise.
 
-## 14.4.5.4. The motor trade
+#### 14.4.5.4. The motor trade
 
 !!! info "Guidance"
 
@@ -433,7 +429,7 @@ Funding issues
 
 **81.** Outstanding finance is a big risk faced by dealers who buy second hand cars. HPI Limited have previously advised that 24 out of every 100 cars offered for sale that are checked by them are still subject to a finance agreement. If the loan remains unpaid when the vehicle is purchased, the second-hand dealer and any subsequent buyer will not acquire good title to it.
 
-## 14.4.5.5. Behaviours indicative of suspicious transactions
+#### 14.4.5.5. Behaviours indicative of suspicious transactions
 
 !!! info "Guidance"
 
@@ -450,7 +446,7 @@ Funding issues
     - the customer is paying in small denomination used notes.
 
 
-## 14.4.5.6. Goods that are returned for refund
+#### 14.4.5.6. Goods that are returned for refund
 
 !!! info "Guidance"
 
@@ -476,7 +472,7 @@ High value dealers
 
 - A similar technique was discovered by a leading wine trade company who discovered that a number of apparently wealthy businessmen were asking to buy significant volumes of highvalue wine, and keeping it held in 'bond' by the firm. The businessmen paid for their purchases in cash but did not ask for the wine to be released from the bonded warehouse. This was not considered unusual as many wine buyers purchase investment wines in this way. Later, upon request, the businessmen asked for their wines to be re-sold back to the company, sometimes at enhanced rates, depending upon the prevailing sale-room price.
 
-## 14.4.5.7. Buying second-hand goods
+#### 14.4.5.7. Buying second-hand goods
 
 !!! info "Guidance"
 

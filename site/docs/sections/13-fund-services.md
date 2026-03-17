@@ -9,12 +9,14 @@ tags:
 
 # Section 13 - Fund and Security Services Activities
 
+#### 13.1. Overview
+
 **1.** This section is supplemental to and should be read in conjunction with the sections of this Handbook referenced in the text below.
 
 **2.** The purpose of this section is to assist with the application of CDD, the conduct of risk assessments and additional AML/CFT/CPF requirements by funds, securities issuers and their service providers. The definition of financial services business in the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) means that:
 
 - (a) regulated and prudentially supervised funds and fund service providers under the CIF(J) Law and the FS(J) Law;
-- (b) funds that are not regulated (such as unregulated funds under the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008 and private funds) and their service providers; and
+- (b) funds that are not regulated (such as unregulated funds under the [Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008](https://www.jerseylaw.je/laws/current/Pages/13.100.95.aspx) and private funds) and their service providers; and
 - (c) other securities issuers and their service providers,
 
 are subject to the same statutory requirements in the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Further guidance is available in sections 3.1, 3.2, 3.3 and 3.12 of the Guidelines.
@@ -39,26 +41,28 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 - Custodian;
 - Legal Adviser.
 
-**7.** Natural Persons such as Class G Directors regulated under the FS(J) Law are supervised persons and will also have AML/CFT/CPF obligations. The JFSC has produced the Guidance note Natural persons carrying on a single class of trust company business for these individuals.
+**7.** Natural Persons such as Class G Directors regulated under the FS(J) Law are supervised persons and will also have AML/CFT/CPF obligations. The JFSC has produced the Guidance note [Natural persons carrying on a single class of trust company business](https://www.jerseyfsc.org/industry/guidance-and-policy/natural-persons-carrying-on-a-single-class-of-trust-company-business/) for these individuals.
 
-**8.** An entity that is a Managed Entity (meaning an entity that is managed by a Manager of a Managed Entity registered to carry on class ZK of fund services business under the FS(J) Law has the same AML/CFT/CPF obligations as any other Fund Operator. The JFSC has produced a Guidance note: Manager of managed entity (MoME) and certain managed entities.
+**8.** An entity that is a Managed Entity (meaning an entity that is managed by a Manager of a Managed Entity registered to carry on class ZK of fund services business under the FS(J) Law has the same AML/CFT/CPF obligations as any other Fund Operator. The JFSC has produced a [Guidance note: Manager of managed entity (MoME) and certain managed entities](https://www.jerseyfsc.org/industry/guidance-and-policy/manager-of-a-managed-entity-and-certain-managed-entities/).
 
 **9.** Funds, securities issuers, and their service providers may have different AML/CFT/CPF obligations. For example, any one of the service providers in the list above may be neither a Jersey legal person or arrangement nor carrying on business in or from within Jersey and so will not be a supervised person and will not be subject to Jersey AML/CFT/CPF obligations. A fund, securities issuer and/or their service provider that is not a supervised person may have AML/CFT/CPF obligations in another jurisdiction. A non-Jersey service provider that is not subject to Jersey AML/CFT/CPF obligations may act for a Jersey fund, such as a Jersey fund company, that does have Jersey AML/CFT/CPF obligations. For the remainder of this section the term ' securities issuer ' will be used, which includes both ' funds ' and ' securities issuers '.
 
 ### 13.2 AML/CFT/CPF risk assessments
 
-**10.** To meet its AML/CFT/CPF obligations, a supervised person is required to prepare a BRA, along with a CRA for each of its customers. These obligations are covered in sections 2.3 and 3.3.2 of this Handbook respectively. The BRA and CRA may be completed differently based on what the supervised person is/does, for example:
+#### 13.2.1 Overview - Obligation to conduct risk assessments
 
-**11.** All the financial services businesses defined by the Proceeds of Crime Law that are supervised persons under the Money Laundering Order must conduct a BRA and individual CRAs. Where the conducting of a BRA / CRA is outsourced to an external party, the supervised person must take adequate steps to ensure the BRA and CRA are properly conducted and documented.
+**10.** To meet its AML/CFT/CPF obligations, a supervised person is required to prepare a BRA, along with a CRA for each of its customers. These obligations are covered in sections 2.3 and 3.3.2 of this Handbook respectively. The BRA and CRA may be completed differently based on what the supervised person is/does, for example:
 
 | Supervised person | BRA | CRA |
 |------------------------------------|---------------------------|------------------------------------------------------|
 | Administrator as service provider. | Administrator's business. | Securities issuers for which the administrator acts. |
 | Securities issuer. | Securities issuer itself. | Investors. |
 
+**11.** All the financial services businesses defined by the Proceeds of Crime Law that are supervised persons under the Money Laundering Order must conduct a BRA and individual CRAs. Where the conducting of a BRA / CRA is outsourced to an external party, the supervised person must take adequate steps to ensure the BRA and CRA are properly conducted and documented.
+
 !!! info "Guidance"
 
-    **12.** For supervised persons who are subject to one or more of the Codes of Practice published by the JFSC (such as the Trust Company Business Code of Practice) there is also an obligation for a wider, operational BRA to be conducted. When preparing a BRA or CRA, factors in this operational business risk assessment may be relevant. Therefore, a combined BRA and operational business risk assessment may be appropriate.
+    **12.** For supervised persons who are subject to one or more of the [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) published by the JFSC (such as the Trust Company Business Code of Practice) there is also an obligation for a wider, operational BRA to be conducted. When preparing a BRA or CRA, factors in this operational business risk assessment may be relevant. Therefore, a combined BRA and operational business risk assessment may be appropriate.
 
     **13.** Risks that are not normally considered to be AML/CFT/CPF -specific may also be relevant to a BRA, for example, credit risk, tax risk, investor eligibility risk, cyber security related risk etc.
 
@@ -85,10 +89,7 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 | Jurisdiction/Domicile of securities issuer | › Local/ Non-domiciled. |
 | Securities issuer 's structure | › Legal Structure: Limited partnership/ company/unit trust/ ICC / PCC /incorporated limited partnership /separate limited partnership › Separate Governing body, i.e., general partner/trustee › Complex/Simple. › SPVs to hold assets › Part of platform of the manager of the securities issuer › Umbrella. |
 
-!!! info "Guidance"
-
-    19.
-
+**19.**
 
 | Securities issuer (including a fund) | Securities issuer (including a fund) |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -109,12 +110,9 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 | Investor's holding method | › Via intermediaries › Via nominee › Directly/indirectly › Complexity of holding structure › Rationale for holding structure. |
 | Investor information | › Source of funds › Source of wealth › Rationale. |
 
-!!! info "Guidance"
+**20.**
 
-    20.
-
-    21.
-
+**21.**
 
 | Investments | Investments |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -129,12 +127,9 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Stature | › Public/Private › Newly established/long established › Listed/unlisted |
 
-!!! info "Guidance"
+**22.**
 
-    22.
-
-    23.
-
+**23.**
 
 | | › Global/local/number of jurisdictions/number of offices. |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -155,20 +150,14 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 |-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | General | › Risks in relation to fund operator role or that particular securities issuer › Sub outsourcing. |
 
-!!! info "Guidance"
-
-    24.
-
+**24.**
 
 | Governing body | |
 |----------------------|----------------------------------------------------------------------------------------------------------|
 | Control | › Independent/equal/proportionate dominant individuals › Bank account mandates. |
 | Corporate governance | › Compliance culture, compliance monitoring policy › Frequency that policies and procedures are updated. |
 
-!!! info "Guidance"
-
-    25.
-
+**25.**
 
 | Finance | Finance |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -185,7 +174,7 @@ are subject to the same statutory requirements in the [Money Laundering Order](h
 
     **27.** The non-Jersey SPV investment holding vehicle is not a supervised person so has no Jersey AML/CFT/CPF obligations.
 
-    **28.** The securities issuer 's BRA should consider the AML/CFT/CPF risks arising from the existence of the co-investors in the structure. These risks may include (but are not limited to) connections to a jurisdiction listed in Appendix D2 of this Handbook or whether the co-investor or the ultimate beneficial owner of the co-investor company is a PEP. Sufficient information should be obtained to assess the AML/CFT/CPF risks in this aspect of the business.
+    **28.** The securities issuer 's BRA should consider the AML/CFT/CPF risks arising from the existence of the co-investors in the structure. These risks may include (but are not limited to) connections to a jurisdiction listed in [Appendix D2](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/appendix-d2-countries-and-territories-identified-as-presenting-higher-risks/) of this Handbook or whether the co-investor or the ultimate beneficial owner of the co-investor company is a PEP. Sufficient information should be obtained to assess the AML/CFT/CPF risks in this aspect of the business.
 
 
 #### 13.2.3 CRA -risk indicators
@@ -696,7 +685,7 @@ Securities Is uers
 
 Securities Is uers
 
-**127.** This section is supplemental to and should be read in conjunction with sections 2.4.4 and 5 (paragraph 14) of this Handbook, along with the JFSC 's Outsourcing policy.
+**127.** This section is supplemental to and should be read in conjunction with sections 2.4.4 and 5 (paragraph 14) of this Handbook, along with the JFSC 's [Outsourcing policy](https://www.jerseyfsc.org/industry/guidance-and-policy/outsourcing-policy/).
 
 **128.** Contractual arrangements may be put in place where another entity undertakes CDD for the supervised person as a delegate. This is likely to be the case where an administrator and/or manager is appointed to the securities issuer or where the Governing body of the securities issuer such as a trustee or general partner is a managed entity and reliant on a manager of a managed entity. The supervised person always remains responsible for fulfilling its statutory obligations regardless of the activities it outsources to delegates.
 

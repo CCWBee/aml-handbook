@@ -9,7 +9,9 @@ tags:
 
 # Section 5 - Identification Measures - Reliance on Obliged Persons
 
-**1.** In some strictly limited cases, a supervised person may meet its obligation to comply with Articles 13(1)(a) or (c)(ii) ( CDD ); 15(1)(a), (b), (d), (e) or (g) ( Enhanced CDD measures ); or 15A ( Enhanced CDD Measures in relation to PEPs ) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), and AML/CFT/CPF Codes of Practice by placing reliance on measures that have already been applied by an obliged person to find out the identity of a mutual customer and to obtain evidence of identity.
+#### 5.1. Overview of section
+
+**1.** In some strictly limited cases, a supervised person may meet its obligation to comply with Articles 13(1)(a) or (c)(ii) ( CDD ); 15(1)(a), (b), (d), (e) or (g) ( Enhanced CDD measures ); or 15A ( Enhanced CDD Measures in relation to PEPs ) of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), and AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) by placing reliance on measures that have already been applied by an obliged person to find out the identity of a mutual customer and to obtain evidence of identity.
 
 **2.** To consider what reliance might be placed on an obliged person, a supervised person will first need to determine what elements of identity must be found out and what evidence of identity is to be obtained for its customer. It will do so in accordance with Article 3 of the Money Laundering Order and the AML/CFT/CPF Codes of Practice set out in sections 3, 4 and 7 of this Handbook, and will also consider its risk assessment for the customer. Once it has determined what identification measures it is to apply, a supervised person can then consider whether those measures have already been applied by an obliged person.
 
@@ -70,7 +72,7 @@ tags:
 
 **15.** Whether a supervised person in receipt of outsourced services/ AMLSP services can be an obliged person will need to be assessed on a case-by-case basis, noting that while a supervised person using an AMLSP may be an equivalent business, it will not be a regulated business.
 
-**16.** Where information on identity found out, or evidence of that identity, is passed by an obliged person to a supervised person to comply with requirements to counter money laundering and the financing of terrorism, the Data Protection (Jersey) Law 2018 restricts the use of the information to that purpose, except where another condition for processing personal data applies.
+**16.** Where information on identity found out, or evidence of that identity, is passed by an obliged person to a supervised person to comply with requirements to counter money laundering and the financing of terrorism, the [Data Protection (Jersey) Law 2018](https://www.jerseylaw.je/laws/current/Pages/15.240.aspx) restricts the use of the information to that purpose, except where another condition for processing personal data applies.
 
 **17.** A customer may be an individual (or group of individuals) or legal person. [Section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook deals with a customer who is an individual (or group of individuals), [section 4.4](04-identification-measures.md#44-obligation-to-find-out-identity-and-obtain-evidence-legal-arrangements) of this Handbook deals with a customer (an individual or legal person) who is acting for a legal arrangement, and [section 4.5](04-identification-measures.md#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook deals with a customer who is a legal person.
 
@@ -242,9 +244,9 @@ tags:
 
     **57.** Article 1(5) of the Money Laundering Order explains that a person is a member of the same financial group as another person if there is, in relation to the group, a parent company or other legal person that exercises control over every member of that group for the purposes of applying group supervision under:
 
-    - the Core Principles for Effective Banking Supervision published by the Basel Committee;
-    - the Objectives and Principles for Securities Regulation issued by IOSCO; or
-    - the Insurance Supervisory Principles issued by the IAIS.
+    - the Core Principles for [Effective Banking Supervision](https://www.bis.org/publ/bcbs230.htm) published by the Basel Committee;
+    - the [Objectives and Principles for Securities Regulation](https://www.iosco.org/about/?subsection=display_committee&cmtid=19&subSection1=principles) issued by IOSCO; or
+    - the [Insurance Supervisory Principles](https://www.iaisweb.org/page/supervisory-material/insurance-core-principles-and-comframe) issued by the IAIS.
 
 
 !!! warning "AML/CFT/CPF Code of Practice"

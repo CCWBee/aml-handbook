@@ -9,6 +9,8 @@ tags:
 
 # Section 4 - Identification Measures
 
+#### 4.1. Overview of section
+
 **1.** This section explains what information on identity is to be found out when establishing a business relationship or carrying out a one-off transaction (or otherwise under Article 13 of the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008) ), and what evidence is to be obtained that is reasonably capable of verifying that the person to be identified is who they are said to be and satisfies a supervised person of the same.
 
 **2.** This section does not address the information that must also be collected under Article 3(5) of the Money Laundering Order as part of identification measures to assess the risk that any business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation, which is covered by Stage 1.4 in [section 3.3](03-identification-overview.md#33-risk-based-approach-to-identification-measures) of this Handbook. Nor does it address the enhanced measures that will be required to address the case of a customer that is assessed as presenting a higher risk of money laundering, the financing of terrorism, or the financing of proliferation, which is covered in [section 7](07-enhanced-simplified-cdd.md) of this Handbook.
@@ -237,7 +239,7 @@ tags:
     - a member of the judiciary, a senior civil servant, or a serving police or customs officer;
     - an officer of an embassy, consulate or high commission of the country of issue of documentary evidence of identity;
     - an individual who is a member of a professional body that sets and enforces ethical standards, for example an Advocate or Solicitor;
-    - an individual that is qualified to undertake certification services under authority of the Certification and International Trade Committee (in Jersey this service is available through the Jersey Chamber of Commerce);
+    - an individual that is qualified to undertake certification services under authority of the Certification and International Trade Committee (in Jersey this service is available through the [Jersey Chamber of Commerce](https://www.jerseychamber.com/));
     - a director, officer, or manager of either:
     - a person carrying on a financial services business which is regulated and operates in a well-regulated country or territory; or
 
@@ -338,7 +340,7 @@ tags:
 
 #### 4.3.5 Use of E-ID
 
-**73.** With the ongoing development of remote working and circumstances where customers are not physically present, supervised persons are increasingly making use of smart phone and tablet applications to capture information, copy documents and take images, liveness checks (including micro streaming) or video recordings of customers as part of their CDD processes (defined in this Handbook as E-ID ). This section provides guidance and (where relevant) sets out AML/CFT/CPF Codes of Practice in respect of:
+**73.** With the ongoing development of remote working and circumstances where customers are not physically present, supervised persons are increasingly making use of smart phone and tablet applications to capture information, copy documents and take images, liveness checks (including micro streaming) or video recordings of customers as part of their CDD processes (defined in this Handbook as E-ID ). This section provides guidance and (where relevant) sets out AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) in respect of:
 
 - the relevant legal and regulatory obligations in relation to CDD;
 - the relevant legal and regulatory obligations in relation to new and developing technologies, outsourcing and customers who are not physically present;
@@ -346,7 +348,7 @@ tags:
 - examples of risk mitigants to consider when assessing the potential use of a particular E-ID method or application; and
 - examples of practices or methods which are not considered to be E-ID.
 
-**74.** The FATF has issued Guidance on Digital Identity, March 2020 which supervised persons may find useful in developing their own procedures and controls.
+**74.** The FATF has issued [Guidance on Digital Identity, March 2020](http://www.fatf-gafi.org/media/fatf/documents/recommendations/Guidance-on-Digital-Identity.pdf) which supervised persons may find useful in developing their own procedures and controls.
 
 **75.** The guidance in this section may also be relevant in situations where similar processes are undertaken but carried out through means other than smart phone and tablet applications, e.g., the use of self-service kiosks with similar document and image capturing and verification technology.
 
@@ -573,7 +575,7 @@ tags:
 
 **122.** Jersey law recognises two distinct forms of legal arrangement: the trust and the limited partnership.
 
-**123.** Jersey trusts law comprises both the Trust Law, as amended, and the Jersey customary law of trusts. Limited partnerships are established under the Limited Partnerships (Jersey) Law 1994. Limited Liability Partnerships, Separate Limited Partnerships and Incorporated Limited Partnerships all have legal personality and are therefore covered in [section 4.5](#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook.
+**123.** Jersey trusts law comprises both the Trust Law, as amended, and the Jersey customary law of trusts. Limited partnerships are established under the [Limited Partnerships (Jersey) Law 1994](https://www.jerseylaw.je/laws/current/Pages/13.500.aspx). Limited Liability Partnerships, Separate Limited Partnerships and Incorporated Limited Partnerships all have legal personality and are therefore covered in [section 4.5](#45-obligation-to-find-out-identity-and-obtain-evidence-legal-persons) of this Handbook.
 
 **124.** There are a wide variety of trusts ranging from large, nationally, and internationally active organisations subject to a high degree of public scrutiny and transparency, through to trusts set up under testamentary arrangements or established for wealth management purposes. Trusts may also be established as Collective investment scheme s -known as a unit trusts.
 
@@ -791,10 +793,10 @@ tags:
 
 - companies, established under the Companies Law;
 - foundations, established under the Foundations Law;
-- limited liability partnerships, established under the Limited Liability Partnerships (Jersey) Law 2017;
-- separate limited partnerships, established under the Separate Limited Partnerships (Jersey) Law 2011;
-- incorporated limited partnerships, established under the Incorporated Limited Partnerships (Jersey) Law 2011;
-- limited liability companies, established under the Limited Liability Companies (Jersey) Law 2018.
+- limited liability partnerships, established under the [Limited Liability Partnerships (Jersey) Law 2017](https://www.jerseylaw.je/laws/current/Pages/13.475.aspx);
+- separate limited partnerships, established under the [Separate Limited Partnerships (Jersey) Law 2011](https://www.jerseylaw.je/laws/current/Pages/13.780.aspx);
+- incorporated limited partnerships, established under the [Incorporated Limited Partnerships (Jersey) Law 2011](https://www.jerseylaw.je/laws/current/Pages/13.370.aspx);
+- limited liability companies, established under the [Limited Liability Companies (Jersey) Law 2018.](https://www.jerseylaw.je/laws/current/Pages/13.470.aspx)
 
 **176.** The following provisions apply to situations where a legal person is the customer.
 

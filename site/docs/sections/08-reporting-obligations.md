@@ -9,6 +9,8 @@ tags:
 
 # Section 8 - Reporting Money Laundering and Financing Obligations
 
+#### 8.1. Overview of section
+
 **1.** Under the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) and Terrorism Law, where any supervised person conducting supervised business in or from within Jersey knows or suspects or has reasonable grounds for knowing or suspecting that another person is engaged in money laundering or the financing of terrorism, then it must report its knowledge or suspicion to the FIU.
 
 **2.** Under the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008), a supervised person must have procedures in place for reporting such knowledge or suspicion of money laundering or the financing of terrorism activity to the FIU.
@@ -18,7 +20,7 @@ tags:
 - an Employee of a supervised person; and
 - a supervised person, in the course of carrying on any trade, profession or business.
 
-- It also sets AML/CFT/CPF Codes of Practice for and provides guidance to:
+- It also sets AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) for and provides guidance to:
 - Employees making a report to their MLRO (or Deputy MLRO ) (referred to as an internal SAR ); and
 - MLROs (and Deputy MLROs ) making a report to the FIU (referred to as an external SAR ).
 
@@ -30,7 +32,7 @@ tags:
 
 **7.** Whilst this section describes reports made to the FIU under the Proceeds of Crime Law and Terrorism Law as SARs, depending on the circumstances such reports may involve knowledge of money laundering or the financing of terrorism, rather than suspicion (or reasonable grounds for knowledge or suspicion).
 
-**8.** [Section 8.8](#88-sanctions-compliance-reporting-obligations-under-the-sanctions-and-asset-freezing-law) of this Handbook explains the separate sanctions compliance reporting obligations under the Sanctions and Asset-Freezing Law.
+**8.** [Section 8.8](#88-sanctions-compliance-reporting-obligations-under-the-sanctions-and-asset-freezing-law) of this Handbook explains the separate sanctions compliance reporting obligations under the [Sanctions and Asset-Freezing Law](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx).
 
 ### 8.2 Reporting knowledge or suspicion
 
@@ -55,7 +57,7 @@ tags:
 
 **13.** Where the MLRO (or Deputy MLRO ) resolves to make an external SAR as a result of an internal SAR made under the Proceeds of Crime Law or Terrorism Law, Article 21 of the Money Laundering Order requires that SAR to be made using the approved form. In this section 'approved form' means the form approved by the Minister, which may be changed from time to time.
 
-**14.** Where an external SAR is made using the approved form to the FIU, in the circumstances where a supervised person is also subject to the requirements of the EU Legislation (Information Accompanying Transfers of Funds) (Jersey) Regulations 2017 (as amended) and is transacting with group counterparties, an external SAR should also be made in each jurisdiction to which the transaction relates. This external SAR is in addition to any made to the FIU and can be made either by the supervised person, or the group counterparty who was also subject to the same transaction in that jurisdiction.
+**14.** Where an external SAR is made using the approved form to the FIU, in the circumstances where a supervised person is also subject to the requirements of the [EU Legislation (Information Accompanying Transfers of Funds) (Jersey) Regulations 2017](https://www.jerseylaw.je/laws/current/Pages/17.245.53.aspx) (as amended) and is transacting with group counterparties, an external SAR should also be made in each jurisdiction to which the transaction relates. This external SAR is in addition to any made to the FIU and can be made either by the supervised person, or the group counterparty who was also subject to the same transaction in that jurisdiction.
 
 **15.** A SAR made in respect of a business relationship or one-off transaction does not remove the need to make further reports in respect of knowledge or suspicion that subsequently arises in respect of that business relationship or one-off transaction (which may also be a series of linked transactions).
 
@@ -492,16 +494,16 @@ tags:
 
     **134.** Article 1(5) of the Money Laundering Order states that a person is a member of the same financial group as another person if there is, in relation to the group, a parent company or the legal person that exercises control over every member of that group for the purposes of applying group supervision under:
 
-    - the Core Principles for Effective Banking Supervision published by the Basel Committee;
+    - the Core Principles for [Effective Banking Supervision](https://www.bis.org/publ/bcbs230.htm) published by the Basel Committee;
     - the Objectives and Principles of Securities Regulation issued by IOSCO; or
-    - the Insurance Supervisory Principles issued by IAIS.
+    - the [Insurance Supervisory Principles](https://www.iaisweb.org/page/supervisory-material/insurance-core-principles-and-comframe) issued by IAIS.
 
 
 ### 8.7 Investigation and the use of court orders
 
 **135.** Following the receipt of a SAR and initial enquiries by the FIU, reports are allocated to financial investigation officers for further investigation. Intelligence from reports submitted to the FIU is then disseminated to other intelligence agencies, as appropriate.
 
-**136.** Where additional information is required from a reporting institution following a SAR, it will generally be obtained pursuant to a production order issued by the Royal Court under the Proceeds of Crime Law, Terrorism Law, Investigation of Fraud (Jersey) Law 1991 and the Criminal Justice (International Co-operation) (Jersey) Law 2001, or a customer monitoring order under the Terrorism Law. It is a criminal offence to fail to comply with the terms of any order received under the above legislation.
+**136.** Where additional information is required from a reporting institution following a SAR, it will generally be obtained pursuant to a production order issued by the Royal Court under the Proceeds of Crime Law, Terrorism Law, [Investigation of Fraud (Jersey) Law 1991](https://www.jerseylaw.je/laws/current/Pages/08.640.aspx) and the [Criminal Justice (International Co-operation) (Jersey) Law 2001](https://www.jerseylaw.je/laws/current/Pages/08.300.aspx), or a customer monitoring order under the Terrorism Law. It is a criminal offence to fail to comply with the terms of any order received under the above legislation.
 
 **137.** During an investigation, a supervised person may be served with an order designed to restrain particular funds or property pending the outcome of an investigation. It should be noted that the restraint order may not apply to all funds or assets involved within a particular business relationship and a supervised person should consider what, if any, funds and assets may still be utilised subject to having obtained the appropriate consent from the FIU.
 
@@ -509,7 +511,7 @@ tags:
 
 **139.** Property may also be forfeited in Jersey utilising civil proceedings under the Terrorism Law.
 
-**140.** The FIU will, from time to time, issue liaison notices to all supervised persons, or to a particular category of business, with the goal of obtaining additional intelligence. The FIU will ensure that the requests contained within such notices are proportionate and reasonable in the circumstances. Supervised persons are requested to respond with any relevant information as soon as reasonably practicable.
+**140.** The FIU will, from time to time, issue [liaison notices](https://jersey.police.uk/about-us/departments/financial-crime-(jfcu)/tipping-off,-production-orders,-liaison-notices-and-saisie-judiciaires/) to all supervised persons, or to a particular category of business, with the goal of obtaining additional intelligence. The FIU will ensure that the requests contained within such notices are proportionate and reasonable in the circumstances. Supervised persons are requested to respond with any relevant information as soon as reasonably practicable.
 
 #### 8.7.1 Updates/Feedback from the FIU
 
@@ -527,17 +529,17 @@ tags:
 
 **146.** The list of active sanctions regimes is available on the JFSC website and provides further explanation of the sanctions legal framework, including:
 
-- targeted financial sanctions related to terrorism and terrorist financing
-- targeted financial sanctions related to proliferation and proliferation financing
-- other sanctions regimes in effect in Jersey
+- [targeted financial sanctions related to terrorism and terrorist financing](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/targeted-financial-sanctions-related-to-terrorism-and-terrorist-financing/)
+- [targeted financial sanctions related to proliferation and proliferation financing](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/targeted-financial-sanctions-related-to-proliferation-of-weapons-of-mass-destruction-and-its-financing/)
+- [other sanctions regimes in effect in Jersey](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/sanctions-by-country-and-category/)
 
-**147.** Sanctions compliance reporting obligations under the Sanctions and Asset Freezing Law are separate and distinct from any legal obligation to submit a SAR. For example, the Sanctions and Asset Freezing Law requires notification to the Minister concerning suspected financial sanctions breaches, sanctioned persons, and frozen assets. In some circumstances, it may be necessary to submit both reports, i.e., an external SAR to the FIU and a sanctions compliance report to the FSIU.
+**147.** Sanctions compliance reporting obligations under the [Sanctions and Asset Freezing Law](https://www.jerseylaw.je/laws/current/Pages/17.750.aspx) are separate and distinct from any legal obligation to submit a SAR. For example, the Sanctions and Asset Freezing Law requires notification to the Minister concerning suspected financial sanctions breaches, sanctioned persons, and frozen assets. In some circumstances, it may be necessary to submit both reports, i.e., an external SAR to the FIU and a sanctions compliance report to the FSIU.
 
 **148.** The Minister is the ' Competent Authority ' for sanctions in Jersey. All communication regarding sanctions breaches and licencing should be made using the approved forms. These forms provide details on what information is required.
 
 **149.** Even though Jersey has an independent sanctions regime, some cross-border transactions may trigger certain extra-territorial effects and sanctions compliance reporting obligations in another jurisdiction. In Jersey, failure to comply with sanctions compliance reporting obligations is a criminal offence.
 
-**150.** In this section, r eference to a 'person' is a reference to a natural person, as well as a legal person, body or entity. 'Designated person' is defined in the Glossary of this Handbook, and essentially means persons who are subject to financial sanctions. References to the 'listing' of a person means their inclusion on the lists of designated persons. Sanctions designations lists are available on the JFSC website.
+**150.** In this section, r eference to a 'person' is a reference to a natural person, as well as a legal person, body or entity. 'Designated person' is defined in the Glossary of this Handbook, and essentially means persons who are subject to financial sanctions. References to the 'listing' of a person means their inclusion on the lists of designated persons. [Sanctions designations lists](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/sanctions-designations-lists/) are available on the JFSC website.
 
 !!! danger "Statutory Requirement"
 
@@ -569,9 +571,9 @@ tags:
 
     **157.** Under Article 35(2) of the Sanctions and Asset Freezing Law, a person commits an offence, and is liable to imprisonment for a term of 2 years and to a fine, if the person: -
 
-    - (a) knowingly or recklessly gives any information, or produces any document, that is false in a material particular in response to a requirement of sanctions reporting obligations.
-    - (b) with intent to evade the reporting provisions, destroys, mutilates, defaces, conceals or removes a document; or
-    - otherwise intentionally obstructs the Minister in the exercise of the Minister's powers.
+        - (a) knowingly or recklessly gives any information, or produces any document, that is false in a material particular in response to a requirement of sanctions reporting obligations.
+        - (b) with intent to evade the reporting provisions, destroys, mutilates, defaces, conceals or removes a document; or
+        - otherwise intentionally obstructs the Minister in the exercise of the Minister's powers.
 
 
 !!! info "Guidance"
@@ -598,7 +600,7 @@ tags:
     - refrain from dealing with the funds or assets or making them available (directly or indirectly) to such persons unless licensed by the Minister;
     - as soon as practicable, report any findings to the FSIU, together with any additional information that would facilitate compliance with the Sanctions and Asset Freezing Law;
 
-    - provide any further information concerning the frozen assets of designated perso ns, if required. Examples of information to be reported to the Minister may be found in Annex A to the JFSC 's Financial sanctions practical guidance.
+    - provide any further information concerning the frozen assets of designated perso ns, if required. Examples of information to be reported to the Minister may be found in Annex A to the JFSC 's [Financial sanctions practical guidance.](https://www.jerseyfsc.org/industry/international-co-operation/sanctions/financial-sanctions-practical-guidance/)
 
     **163.** ' Reasonable cause to suspect ' refers to an objective test that the Court uses to ascertain whether there were factual circumstances from which an honest and reasonable person should have inferred knowledge, or formed the suspicion, of a sanctions breach.
 
@@ -615,5 +617,5 @@ tags:
     - ensuring that the requisite report is filed in accordance with the legislation relevant to the particular sanctions regime and its guidance;
     - appropriate sanctions reporting record-keeping.
 
-    The JFSC and the Government of Jersey provide regular updates on sanctions matters, and deliver sanctions webinars, workshops, and presentations. Further information, including a, description of sanctions regimes in effect in Jersey and their relevant guidance, is available on the JFSC website. Further sources of information in respect of proliferation financing risks and sanctions evasion typologies also available on the JFSC 's Additional information sources -ML/TF/PF page.
+    The JFSC and the Government of Jersey provide regular updates on sanctions matters, and deliver sanctions webinars, workshops, and presentations. Further information, including a, description of sanctions regimes in effect in Jersey and their relevant guidance, is available on the JFSC website. Further sources of information in respect of [proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/) and sanctions evasion typologies also available on the JFSC 's Additional information sources -ML/TF/PF page.
 

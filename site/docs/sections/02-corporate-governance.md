@@ -9,6 +9,8 @@ tags:
 
 # Section 2 - Corporate Governance
 
+#### 2.1. Overview of section
+
 **1.** Corporate governance is the system by which enterprises are directed and controlled and their risks managed. For supervised persons, money laundering, the financing of terrorism, and the financing of proliferation are risks that must be managed in the same way as other business risks.
 
 **2.** Under the general heading of corporate governance, this section considers:
@@ -99,7 +101,7 @@ tags:
     - are there any sensitive activities or industries undertaken by potential customers, which the board are not prepared to take on?
     - will the board accept business relationships or one-off transactions where PEPs are involved?
     - how do the characteristics of the supervised person (e.g., business sector, type of products and services offered) potentially expose it to greater ML, TF, and/or PF risk?
-    - what types of customers and activity are considered to be outside of Jersey's national risk appetite? See Financial crime strategy, appetite and national risk assessments (gov.je)
+    - what types of customers and activity are considered to be outside of Jersey's national risk appetite? See [Financial crime strategy, appetite and national risk assessments (gov.je)](https://www.gov.je/industry/finance/financialcrime/nationalriskassesmnents/pages/index.aspx)
 
     **22.** It is important for the risk appetite to be sufficiently clear so that the board can articulate it when considering whether to establish a business relationship or carry out a one-off transaction with a customer. For example, it should not be so vague that it can be used to justify the acceptance of any business, no matter the risk level.
 
@@ -107,14 +109,14 @@ tags:
 
     **24.** It is the responsibility of the board to ensure that business relationships and one-off transactions are maintained in accordance with the agreed risk appetite.
 
-    **25.** A supervised person may extend its existing risk management systems to address money laundering/terrorist financing/proliferation financing risks. The detail and sophistication of these systems will depend on the supervised person's size and the complexity of the business it undertakes. Ways of incorporating a supervised person's BRA will be governed by the size of the supervised person and how regularly compliance staff and the board are involved in day-to-day activities.
+    **25.** A supervised person may extend its existing risk management systems to address money laundering/terrorist financing/[proliferation financing risks](https://www.jerseyfsc.org/industry/financial-crime/proliferation-and-proliferation-financing-of-weapons-of-mass-destruction/). The detail and sophistication of these systems will depend on the supervised person's size and the complexity of the business it undertakes. Ways of incorporating a supervised person's BRA will be governed by the size of the supervised person and how regularly compliance staff and the board are involved in day-to-day activities.
 
     **26.** The board of a supervised person may demonstrate that it has considered its exposure to money laundering, the financing of terrorism, and the financing of proliferation risk by:
 
     - involving all members of the board in determining the risks posed by money laundering, the financing of terrorism, and the financing of proliferation within those areas for which they have responsibility;
     - considering organisational factors that may increase the level of exposure to the risk of money laundering, the financing of terrorism, and the financing of proliferation, e.g., outsourced aspects of regulated activities or compliance functions;
     - considering the nature, scale and complexity of its business, the diversity of its operations (including geographical diversity), the volume and size of its transactions, and the degree of risk associated with each area of its operation;
-    - considering who its customers are and what they do, e.g., do its customers engage in higher-risk activities (having regard for the JFSC 's Sound Business Policy);
+    - considering who its customers are and what they do, e.g., do its customers engage in higher-risk activities (having regard for the JFSC 's [Sound Business Policy](https://www.jerseyfsc.org/industry/guidance-and-policy/sound-business-practice-policy/));
     - considering whether any additional risks are posed by the countries, territories and areas with which its customers are connected. Factors such as high levels of organised crime, increased vulnerabilities to corruption and inadequate frameworks to prevent and detect money laundering, the financing of terrorism, and the financing of proliferation will impact the risk posed by relationships connected with such countries, territories and areas;
     - considering the characteristics of the products and services that it offers and assessing the associated vulnerabilities posed by each product and service. For example:
     - (a) products that allow a customer to 'pool' third party funds will tend to be more vulnerable - because of the anonymity provided by the co-mingling of assets or funds belonging to several third parties by the customer;
@@ -165,7 +167,7 @@ tags:
 
     **36.** Where gaps or deficiencies are identified during a BRA review, an action plan should be drawn up so they can be addressed. The action plan should form an integral part of the BRA.
 
-    **37.** Where a supervised person is subject to a regulatory Code of Practice (such as the Trust Company Business Code of Practice) there is also an obligation for a wider, operational BRA to be conducted. When preparing an AML/CFT/CPF BRA or CRA, factors in this operational BRA may be relevant. Therefore, a combined AML/CFT/CPF and operational BRA may be appropriate.
+    **37.** Where a supervised person is subject to a [regulatory Code of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) (such as the Trust Company Business Code of Practice) there is also an obligation for a wider, operational BRA to be conducted. When preparing an AML/CFT/CPF BRA or CRA, factors in this operational BRA may be relevant. Therefore, a combined AML/CFT/CPF and operational BRA may be appropriate.
 
     **38.** Risks that are not normally considered to be specific money laundering/terrorist financing/proliferation financing risks may also be relevant to an AML/CFT/CPF BRA, for example, credit risk, tax risk, investor eligibility risk, cyber security related risk etc.
 
@@ -233,7 +235,7 @@ tags:
     - changes to its business activities or BRA;
     - information published from time to time by the JFSC or FIU, e.g., findings of supervisory and themed examinations and typologies;
 
-    - changes made or proposed in respect of new legislation, AML/CFT/CPF Codes of Practice issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx) or Guidance;
+    - changes made or proposed in respect of new legislation, AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) issued under the [Supervisory Bodies Law](https://www.jerseylaw.je/laws/current/Pages/08.785.30.aspx) or Guidance;
     - resources available to comply with the Anti-Money Laundering and Counter-Terrorism Legislation and AML/CFT/CPF Codes of Practice issued under the Supervisory Bodies Law, in particular resources provided to the MLCO and MLRO, to apply enhanced CDD measures and to scrutinise transactions.
 
     **54.** A supervised person may demonstrate that it checks that systems and controls (including policies and procedures ) are operating effectively where the board periodically considers the effect of those systems and controls (including policies and procedures, and those in place at branches and in respect of subsidiaries) considering the information that is available to it, including:
@@ -342,7 +344,7 @@ tags:
 
 **65.** Depending on the nature and size of a supervised person, the roles of the MLCO and MLRO may require additional support and resourcing. Where a supervised person elects to bring in additional support, or to delegate areas of the MLCO or MLRO functions to external parties, the MLCO or MLRO will remain directly responsible for their respective role, and the board will remain responsible for overall compliance with the Anti-Money Laundering and Counter-Terrorism Legislation (and by extension, also this Handbook ). Note that the AML/CFT/CPF Codes of Practice at paragraphs 90 and 103 below provide that the role of the MLCO and MLRO must be undertaken by an employee of the supervised person based in Jersey, unless the specific circumstances set out in the sub-paragraphs to those specific codes of practice apply.
 
-**66.** The JFSC has also issued an Outsourcing policy for supervised persons, which outlines its own set of requirements and obligations in respect of outsourcing.
+**66.** The JFSC has also issued an [Outsourcing policy](https://www.jerseyfsc.org/industry/guidance-and-policy/outsourcing-policy/) for supervised persons, which outlines its own set of requirements and obligations in respect of outsourcing.
 
 **67.** Where an AMLSP performs AMLSP services on behalf of an AMLSP Direct Customer and such AMLSP services are consistent with the Money Laundering Order and the standards set out in the AML/CFT/CPF Codes of Practice and Guidance notes for AMLSPs in this Handbook, the performance of such AMLSP services is not subject to the Outsourcing policy but is subject to [Section 18](18-aml-providers.md) of this Handbook.
 
@@ -530,7 +532,7 @@ tags:
 
 **113.** In practice, the above only applies to supervised persons that meet the definition of a financial group, this includes a requirement that a parent company or other legal person exercise control over every member of that group for the purposes of applying group supervision.
 
-Group supervision refers to (a) the core principles for effective banking supervision published by the Basel Committee on Banking Supervision; (b) the Objectives and Principles of Securities Regulation issued by the International Organisation of Securities Commissions; or (c) the Insurance Supervisory Principles issued by the International Association of Insurance Supervisors.
+Group supervision refers to (a) the core principles for effective banking supervision published by the Basel Committee on Banking Supervision; (b) the Objectives and Principles of Securities Regulation issued by the International Organisation of Securities Commissions; or (c) the [Insurance Supervisory Principles](https://www.iaisweb.org/page/supervisory-material/insurance-core-principles-and-comframe) issued by the International Association of Insurance Supervisors.
 
 !!! danger "Statutory Requirement"
 

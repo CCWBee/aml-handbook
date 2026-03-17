@@ -11,9 +11,11 @@ tags:
 
 ## 16. ACCOUNTANTS
 
+### 16.1. Definition and overview of regulated activity
+
 **1.** Paragraph 22 of Part 3 of Schedule 2 to the [Proceeds of Crime Law](https://www.jerseylaw.je/laws/current/l_8_1999) defines the relevant operations and activities of Accountant s for the purposes of complying with AML requirements in the [Money Laundering Order](https://www.jerseylaw.je/laws/current/ro_20_2008). Guidelines provide interpretation and the activities and operations of Accountant s that are in scope.
 
-## 16.1.2. Accountancy services
+### 16.1.1. Accountancy services
 
 **2.** For the purposes of this Handbook, ' accountancy services' is limited to those services set out in the Guidelines.
 
@@ -21,7 +23,7 @@ tags:
 
 **4.** Accountant s involved in the provision of management consultancy or interim management should be alert to the possibility that they could fall within the scope of the Money Laundering Order and by extension this Handbook to the extent that they provide any supervised business when acting under a contract for services in the course of business.
 
-## 16.1.3. Tax advisers
+### 16.1.2. Tax advisers
 
 Accountants
 
@@ -31,7 +33,7 @@ Accountants
 
 **7.** Whilst tax advisers are more likely to identify tax offences, they need to be aware of the potential requirement to report knowledge or suspicion of proceeds derived from any criminal conduct (as defined in Article 1 of the Proceeds of Crime Law ) which is encountered in the course of business as a tax adviser.
 
-## 16.1.4. Audit services
+### 16.1.3. Audit services
 
 Accountants
 
@@ -41,16 +43,16 @@ Overview
 
 **9.** The extent to which the Anti-Money Laundering and Counter-Terrorism Legislation affects the auditor's work differs between two broad categories of audit -audits of supervised persons and audits of other types of entity.
 
-## 16.1.4.1. Audits of supervised persons
+#### 16.1.3.1. Audits of supervised persons
 
 !!! info "Guidance"
 
-    **10.** Supervised persons carrying on supervised business are required to comply with the Money Laundering Order which places obligations on them to combat money laundering, the financing of terrorism, or the financing or proliferation. All such businesses are required to comply with the AML/CFT/CPF Codes of Practice and Guidance notes issued by the JFSC (see [section 2.6](02-corporate-governance.md#26-the-mlco) of this Handbook, which covers the monitoring of compliance with the same).
+    **10.** Supervised persons carrying on supervised business are required to comply with the Money Laundering Order which places obligations on them to combat money laundering, the financing of terrorism, or the financing or proliferation. All such businesses are required to comply with the AML/CFT/CPF [Codes of Practice](https://www.jerseyfsc.org/industry/codes-of-practice/) and Guidance notes issued by the JFSC (see [section 2.6](02-corporate-governance.md#26-the-mlco) of this Handbook, which covers the monitoring of compliance with the same).
 
     **11.** In addition to reporting on their financial statements, auditors of such businesses are required to report to the JFSC on matters of significance that come to their attention in the course of their work. This includes non-compliance with legislation, departures from its requirements and suspicions that the directors and management of such entities are implicated in money laundering (see [section 8](08-reporting-obligations.md) of this Handbook ). Therefore, auditors of such businesses should not only be aware of the key provisions contained in the Money Laundering Order as they affect auditors themselves, but also the requirements of the wider AML/CFT/CPF Handbook, including any sector-specific AML/CFT/CPF Codes of Practice and Guidance notes relevant to the business that they are auditing.
 
 
-## 16.1.4.2. Audits of other types of entity
+#### 16.1.3.2. Audits of other types of entity
 
 !!! info "Guidance"
 
@@ -59,7 +61,7 @@ Overview
     **12.** In general, auditors of other types of entity not covered by the Money Laundering Order are required only to take appropriate steps in response to factors encountered in the course of their work which led them to suspect that money laundering, the financing of terrorism, or the financing of proliferation is taking place.
 
 
-## 16.1.4.3. Detection of money laundering, the financing of terrorism, and the financing of proliferation
+#### 16.1.3.3. Detection of money laundering, the financing of terrorism, and the financing of proliferation
 
 !!! info "Guidance"
 
@@ -70,13 +72,13 @@ Overview
     **14.** However, auditors cannot be held responsible for the prevention of, and failure to detect, the financing of terrorism, or the financing of proliferation activities in the entities they audit. External auditors performing financial statement audits within a short timescale may be less likely than other professional Accountant s (such as forensic Accountant s and Accountant s in management positions) to encounter signs of possible money laundering, the financing of terrorism, or the financing of proliferation. Nor is it the auditors' responsibility to detect suspicious activity in connection with a compliance or operational audit of an AML/CFT/CPF programme or testing a SAR process.
 
 
-## 16.1.5. Insolvency services
+### 16.1.4. Insolvency services
 
 Accountants
 
 **15.** The terms insolvency services and insolvency practitioners are defined in the Glossary of this Handbook. The Guidelines further describe particular insolvency services that fall within Schedule 2 of the Proceeds of Crime Law.
 
-## 16.1.6. Accountants undertaking supervised business
+### 16.1.5. Accountants undertaking supervised business
 
 Accountants
 
@@ -97,7 +99,7 @@ Accountants
 
 Accountants
 
-## 16.2.2. Considering customer and service risks to the business
+### 16.2.1. Considering customer and service risks to the business
 
 **18.** The BRA relating to customers and services will depend on the supervised person's size, type of customers and the practice area it engages in.
 
@@ -107,7 +109,7 @@ Accountants
 
 **21.** Further factors to consider when evaluating the risks posed by clients and service areas are set out in [section 3.3.4](03-identification-overview.md#334-assessment-of-risk-stage-21) of this Handbook.
 
-## 16.2.2.1. Accountancy, audit and insolvency services risk
+#### 16.2.1.1. Accountancy, audit and insolvency services risk
 
 !!! info "Guidance"
 
@@ -140,7 +142,7 @@ Accountants
     **25.** Customers who are supervised persons -such as financial services businesses, MVTS activity and real estate agents should have taken steps to mitigate their risks by implementing robust internal controls.
 
 
-## 16.2.2.2. Taxation service risk
+#### 16.2.1.2. Taxation service risk
 
 !!! info "Guidance"
 
@@ -162,7 +164,7 @@ Accountants
 
 **28.** The Guidance notes set out below provide sector-specific guidance on additional factors supervised persons providing accountancy services may need to consider, to appropriately assess the risk that a business relationship or one-off transaction will involve money laundering, the financing of terrorism, or the financing of proliferation.
 
-## 16.3.2.1. Insolvency cases
+#### 16.3.1.1. Insolvency cases
 
 !!! info "Guidance"
 
@@ -173,7 +175,7 @@ Accountants
     **30.** A situation where an insolvency practitioner is required may be urgent, for example if there is a risk of dissipation of assets and erosion of value. It is therefore important for an insolvency practitioner to be certain about the identity of the customer over which they are taking appointment.
 
 
-## 16.3.2.2. Auditing standards on acceptance of client relationships
+#### 16.3.1.2. Auditing standards on acceptance of client relationships
 
 !!! info "Guidance"
 
@@ -194,11 +196,11 @@ Accountants
 
 Accountants
 
-## 16.4.2. Obligation to find out identity and obtain evidence: Individuals
+### 16.4.1. Obligation to find out identity and obtain evidence: Individuals
 
 **34.** This sector-specific section is supplementary to and should be read in conjunction with [section 4.3](04-identification-measures.md#43-obligation-to-find-out-identity-and-obtain-evidence-individuals) of this Handbook.
 
-## 16.4.2.1. Insolvency cases
+#### 16.4.1.1. Insolvency cases
 
 **35.** It may not always be possible or necessary to obtain identification evidence direct from individuals, individual shareholders or directors in respect of an insolvent company as their cooperation may not be forthcoming.
 
@@ -207,7 +209,7 @@ Accountants
     **36.** An insolvency practitioner may demonstrate compliance with Article 3 of the Money Laundering Order where it obtains evidence of the identity of the person or entity over which they are appointed. Acceptable evidence may include a court order, a court endorsed appointment, or an appointment made by a debenture holder or creditors meeting supported by a company search or similar.
 
 
-## 16.4.3. Timing of identification measures
+### 16.4.2. Timing of identification measures
 
 Accountants
 
@@ -219,7 +221,7 @@ Accountants
 
 **40.** Where the provision of supervised business by the Accountant is urgent, this undertaking may be provided prior to obtaining evidence of identity if there is little risk of money laundering, the financing of terrorism, or the financing pf proliferation occurring, and evidence of identity is obtained as soon as reasonably practicable.
 
-## 16.4.4. Timing for 'Existing Clients'
+### 16.4.3. Timing for 'Existing Clients'
 
 Accountants
 
@@ -233,7 +235,7 @@ Accountants
 
 **45.** Once an existing relati onship has been 'remediated', then Article 13(1)(c)(ii) of the Money Laundering Order will apply to such a relationship in the same way as a relationship established on or after 1 May 2008 (on the basis that documents, data or information will have been obtained under the CDD measures prescribed in Article 3).
 
-## 16.4.5. Ascertaining legal position
+### 16.4.4. Ascertaining legal position
 
 Accountants
 
@@ -298,11 +300,11 @@ This version is effective from: 1 September 2023
 
 **62.** Because money launderers, terrorist financers and proliferators are always developing new techniques, no list of examples can be fully comprehensive. However, the following are some key factors indicating activity or transactions which might heighten a customer's risk profile or give cause for concern.
 
-## 16.6.2. Accountancy and audit services
+### 16.6.1. Accountancy and audit services
 
 ## Accountants
 
-## 16.6.2.1. General warning signs
+#### 16.6.1.1. General warning signs
 
 **63.** Any of the following general warning signs should prompt additional questions or investigation by those offering accountancy services and audit services:
 
@@ -310,7 +312,7 @@ This version is effective from: 1 September 2023
 - the client has a history of changing bookkeepers or Accountant s yearly;
 - company records consistently reflect sales at less than cost, thus putting the company into a loss position, but the company continues to operate without reasonable explanation of the continued loss.
 
-## 16.6.3. Tax advisers
+### 16.6.2. Tax advisers
 
 ## Accountants
 
@@ -323,27 +325,27 @@ This version is effective from: 1 September 2023
 - tax evasion, including making false returns (including supporting documents), accounts or financial statements or deliberate failure to submit returns; and
 - deliberate refusal to correct known errors.
 
-## 16.6.3.1. Innocent or negligent error
+#### 16.6.2.1. Innocent or negligent error
 
 **67.** It is not uncommon for tax advisers to become aware of errors or omissions, in current or past years, from customer's tax returns, or any calculations or statements appertaining to any liability, or an underpayment of tax, for example, because a payment date has been missed. If the tax adviser has no cause to doubt that these came about because of an innocent mistake or negligence, then they will not have formed a suspicion. However, in some cases the tax adviser may form a suspicion that the original irregularity was criminal in nature, and this will then become a reportable suspicion.
 
-## 16.6.3.2. Unwillingness or refusal to disclose to a revenue authority
+#### 16.6.2.2. Unwillingness or refusal to disclose to a revenue authority
 
 **68.** Where a customer indicates that they are unwilling, or refuse, to disclose the matter to a revenue authority (e.g., HMRC, Revenue Jersey etc) to avoid paying the tax due, the customer appears to have formed a criminal intent and therefore a reporting obligation arises. The tax adviser should also consider whether they can continue to act and should consult their professional body's guidance on such matters. This paragraph applies equally to potential customers for whom the tax adviser has declined to act.
 
-## 16.6.3.3. Adjusting subsequent returns
+#### 16.6.2.3. Adjusting subsequent returns
 
 **69.** Where the legislation permits the correction of small errors by subsequent tax adjustments, and the original error was not attributable to any criminal conduct, then the adjustment itself will not give rise to the need to report, since no crime will have been committed.
 
-## 16.6.3.4. Intention to underpay
+#### 16.6.2.4. Intention to underpay
 
 **70.** A customer may suggest that they will, in the future, underpay tax. This would be tax evasion and a money laundering offence when it occurs. A tax advisor can and should apply their professional body's normal ethical guidance to persuade the customer to comply with the legislation. Should the customer's intention in this regard remain in doubt, the tax adviser should consider carefully whether they can commence or continue to act, and if in doubt should seek specialist legal advice. A SAR may well be required in such cases.
 
-## 16.6.3.5. Offences applicable to Value Added Tax
+#### 16.6.2.5. Offences applicable to Value Added Tax
 
 **71.** A customer which is a business resident in the UK or an EU member state will normally be subject to VAT. Guidance on the offences applicable to VAT, for example fraudulent evasion of VAT and production or sending of false documents or statements, is set out in the 'Supplementary Anti Money Laundering Guidance for Tax Practitioners' produced as an appendix to the AML/CFT Guidance for the Accountancy Sector released by the UK Consultative Committee of Accountancy Bodies ( CCAB ).
 
-## 16.6.4. Business recovery or receiverships
+### 16.6.3. Business recovery or receiverships
 
 ## Accountants
 
@@ -356,7 +358,7 @@ This version is effective from: 1 September 2023
 - tax fraud has been committed by reducing income or profits; or
 - a white knight (a form of hostile takeover defence by a 'friendly' buyer) has invested criminal funds.
 
-## 16.6.4.1. Observation of unlawful conduct resulting in advice
+#### 16.6.3.1. Observation of unlawful conduct resulting in advice
 
 **73.** It should be borne in mind that for property to be criminal property, not only must it constitute a person's benefit from criminal conduct, but the alleged offender must know or suspect that the property constitutes such a benefit. This means, for example, that if someone has made an innocent error, even if such an error resulted in benefit and constituted a strict liability criminal offence, then the proceeds are not criminal property and no money laundering offence has arisen until the offender becomes aware of the error.
 
@@ -371,7 +373,7 @@ This version is effective from: 1 September 2023
 
 Accountants
 
-## 16.7.1. Further enquiries by auditors
+### 16.7.1. Further enquiries by auditors
 
 **75.** This section is supplemental to and should be read in conjunction with [section 8.2](08-reporting-obligations.md#82-reporting-knowledge-or-suspicion) of this Handbook (Reporting knowledge or suspicion).
 
@@ -394,11 +396,11 @@ Accountants
 
 **82.** Partners and employees of supervised persons carrying on audit services will need to follow their internal reporting procedures when considering whether to include documentation relating to money laundering reporting in the audit working papers.
 
-## 16.7.2. Auditor' s responsibility for monitoring compliance
+### 16.7.2. Auditor' s responsibility for monitoring compliance
 
 Accountants
 
-**83.** The International Standard on Auditing's Policy Paper ISA 250 establishes standards and provides guidance on the auditor's responsibility to consider legislation in an audit of financial statements. The Anti-Money Laundering and Counter-Terrorism Legislation does not require the auditor to extend the scope of an audit except as set out in section 16.7.3 of this Handbook, but regular audit work could still give rise to knowledge or suspicion, or reasonable grounds for knowledge or suspicion, that will need to be reported. Such knowledge or suspicion may arise in relation to:
+**83.** The International Standard on Auditing's [Policy Paper ISA 250](https://www.iaasb.org/publications/isa-250-revised-consideration-laws-and-regulations-audit-financial-statements-13) establishes standards and provides guidance on the auditor's responsibility to consider legislation in an audit of financial statements. The Anti-Money Laundering and Counter-Terrorism Legislation does not require the auditor to extend the scope of an audit except as set out in section 16.7.3 of this Handbook, but regular audit work could still give rise to knowledge or suspicion, or reasonable grounds for knowledge or suspicion, that will need to be reported. Such knowledge or suspicion may arise in relation to:
 
 - legislation linked directly to the preparation of the financial statements;
 - legislation which provides a legal framework within which the customer conducts its business; and
@@ -422,7 +424,7 @@ Accountants
 
 **89.** In some situations, the auditor's customer may have obtained legal advice to the effect that certain actions or circumstances do not give rise to criminal conduct and therefore cannot give rise to criminal property. Determining whether an act constitutes non-compliance with the Anti-Money Laundering and Counter-Terrorism Legislation may involve consideration of matters which do not lie within the competence and experience of the auditor. As a result, provided that the auditor considers that the advice has been obtained from a suitably qualified and independent Lawyer and the Lawyer was made aware of all relevant circumstances known to the auditor, then the auditor may rely on such advice, provided the auditor has complied with auditing standards on using the work of an expert.
 
-## 16.7.3. Reporting to regulators
+### 16.7.3. Reporting to regulators
 
 Accountants
 
@@ -432,7 +434,7 @@ Accountants
 - audits of customers in the public sector: A uditors of some customers which operate in the public sector may be required to report on the customer's compliance with regulatory requirements around financial transactions. Activity connected with money laundering may constitute a breach of those requirements;
 - audits of other types of customer: A uditors of some other types of customers are also required to report matters of 'material significance' to regulators (for example, charities and occupational pension schemes).
 
-## 16.7.4. Balancing professional work and post-reporting requirements
+### 16.7.4. Balancing professional work and post-reporting requirements
 
 Accountants
 
@@ -453,7 +455,7 @@ Accountants
 
 **95.** MLROs may on occasion need advice to assist them in formulating their instructions to the supervised person. Legal advice may be sought from a suitably skilled and knowledgeable professional legal adviser, and recourse may also be had to helplines and support services provided by professional bodies. Discussion with the FIU may well be valuable, but MLROs should bear in mind that the FIU and law enforcement are not able to advise, nor are they entitled to dictate, how professional relationships should be conducted.
 
-## 16.7.5. Auditor's report on financial statements
+### 16.7.5. Auditor's report on financial statements
 
 Accountants
 
@@ -471,7 +473,7 @@ Accountants
 
 100. If it is concluded that a qualified audit report must be issued, the supervised person may need to seek legal advice before issuing the report. In exceptional circumstances, it may be necessary to make an application to the court in respect of the content of the qualified audit report.
 
-## 16.7.6. Resignation as auditor
+### 16.7.6. Resignation as auditor
 
 ## Accountants
 
