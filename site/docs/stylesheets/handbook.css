@@ -446,6 +446,97 @@ html {
   scroll-margin-top: 4rem;
 }
 
+/* ===== Handbook Page Rhythm ===== */
+
+/* Numbered paragraphs: more space between them so they read as distinct items */
+.md-typeset > p + p {
+  margin-top: 1.2rem;
+}
+
+/* Bold numbered markers get visual weight */
+.md-typeset > p > strong:first-child {
+  color: var(--md-primary-fg-color);
+  font-size: 0.9em;
+  letter-spacing: 0.02em;
+}
+
+/* h2 sections: subtle top rule to break the wall */
+.md-typeset h2 {
+  padding-top: 1.6rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+/* First h2 after h1 doesn't need the rule */
+.md-typeset h1 + h2 {
+  border-top: none;
+  padding-top: 0;
+}
+
+/* h3 subsections: slight breathing room */
+.md-typeset h3 {
+  padding-top: 0.8rem;
+}
+
+/* Lists inside body text: tighter to their parent paragraph */
+.md-typeset > p + ul,
+.md-typeset > p + ol {
+  margin-top: -0.4rem;
+}
+
+/* ===== Homepage Layout ===== */
+
+/* More space around the start reading button */
+.start-reading-btn {
+  margin-top: 0.5rem !important;
+}
+
+/* Collapsed quick nav: style the details/summary */
+.md-typeset details.note {
+  border-color: rgba(128, 128, 128, 0.2);
+  background: transparent;
+}
+
+.md-typeset details.note > summary {
+  background: transparent;
+  font-size: 0.85rem;
+  letter-spacing: 0.01em;
+}
+
+/* Home colour key: compact single-line legend */
+.home-colour-key {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+  padding: 0.8rem 0;
+  border-top: 1px solid rgba(128, 128, 128, 0.15);
+  margin-top: 2rem;
+  line-height: 1.6;
+}
+
+.home-colour-key p {
+  margin: 0;
+}
+
+/* Colour key inline icons */
+.statutory-icon {
+  color: var(--jfsc-statutory-border);
+}
+
+.code-icon {
+  color: var(--jfsc-code-border);
+}
+
+.guidance-icon {
+  color: var(--jfsc-guidance-border);
+}
+
+/* Source attribution: quiet footnote */
+.home-source {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.6rem;
+  padding-bottom: 1rem;
+}
+
 /* ===== Responsive ===== */
 @media screen and (max-width: 76.25em) {
   .role-grid {

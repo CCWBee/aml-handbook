@@ -88,50 +88,37 @@ Sections 1-11 + Section 18
   </a>
 </p>
 
-## Quick Navigation { #quick-nav }
+??? note "Quick Navigation — All Sections"
 
-<div id="section-list" markdown>
+    <div id="section-list" markdown>
 
-| # | Section | Applies To |
-|---|---------|------------|
-| [1](sections/01-introduction.md) | [Introduction](sections/01-introduction.md) | All |
-| [2](sections/02-corporate-governance.md) | [Corporate Governance](sections/02-corporate-governance.md) | All |
-| [3](sections/03-identification-overview.md) | [Identification Measures - Overview](sections/03-identification-overview.md) | All |
-| [4](sections/04-identification-measures.md) | [Identification Measures](sections/04-identification-measures.md) | All |
-| [5](sections/05-reliance-obliged-persons.md) | [Reliance on Obliged Persons](sections/05-reliance-obliged-persons.md) | All |
-| [6](sections/06-ongoing-monitoring.md) | [Ongoing Monitoring](sections/06-ongoing-monitoring.md) | All |
-| [7](sections/07-enhanced-simplified-cdd.md) | [Enhanced and Simplified CDD](sections/07-enhanced-simplified-cdd.md) | All |
-| [8](sections/08-reporting-obligations.md) | [Reporting Obligations](sections/08-reporting-obligations.md) | All |
-| [9](sections/09-screening-awareness-training.md) | [Screening, Awareness and Training](sections/09-screening-awareness-training.md) | All |
-| [10](sections/10-record-keeping.md) | [Record Keeping](sections/10-record-keeping.md) | All |
-| [11](sections/11-wire-transfers.md) | [Wire Transfers](sections/11-wire-transfers.md) | All |
-| [12](sections/12-trust-company.md) | [Trust Company Business](sections/12-trust-company.md) | TCSPs |
-| [13](sections/13-fund-services.md) | [Fund and Security Services](sections/13-fund-services.md) | Fund Services |
-| [14](sections/14-estate-agents-hvd.md) | [Estate Agents and HVDs](sections/14-estate-agents-hvd.md) | Estate Agents, HVDs |
-| [15](sections/15-lawyers.md) | [Lawyers](sections/15-lawyers.md) | Lawyers |
-| [16](sections/16-accountants.md) | [Accountants](sections/16-accountants.md) | Accountants |
-| [17](sections/17-prescribed-npos.md) | [Prescribed NPOs](sections/17-prescribed-npos.md) | NPOs |
-| [18](sections/18-aml-providers.md) | [AML Service Providers](sections/18-aml-providers.md) | AML Providers |
+    | # | Section | Applies To |
+    |---|---------|------------|
+    | [1](sections/01-introduction.md) | [Introduction](sections/01-introduction.md) | All |
+    | [2](sections/02-corporate-governance.md) | [Corporate Governance](sections/02-corporate-governance.md) | All |
+    | [3](sections/03-identification-overview.md) | [Identification Measures - Overview](sections/03-identification-overview.md) | All |
+    | [4](sections/04-identification-measures.md) | [Identification Measures](sections/04-identification-measures.md) | All |
+    | [5](sections/05-reliance-obliged-persons.md) | [Reliance on Obliged Persons](sections/05-reliance-obliged-persons.md) | All |
+    | [6](sections/06-ongoing-monitoring.md) | [Ongoing Monitoring](sections/06-ongoing-monitoring.md) | All |
+    | [7](sections/07-enhanced-simplified-cdd.md) | [Enhanced and Simplified CDD](sections/07-enhanced-simplified-cdd.md) | All |
+    | [8](sections/08-reporting-obligations.md) | [Reporting Obligations](sections/08-reporting-obligations.md) | All |
+    | [9](sections/09-screening-awareness-training.md) | [Screening, Awareness and Training](sections/09-screening-awareness-training.md) | All |
+    | [10](sections/10-record-keeping.md) | [Record Keeping](sections/10-record-keeping.md) | All |
+    | [11](sections/11-wire-transfers.md) | [Wire Transfers](sections/11-wire-transfers.md) | All |
+    | [12](sections/12-trust-company.md) | [Trust Company Business](sections/12-trust-company.md) | TCSPs |
+    | [13](sections/13-fund-services.md) | [Fund and Security Services](sections/13-fund-services.md) | Fund Services |
+    | [14](sections/14-estate-agents-hvd.md) | [Estate Agents and HVDs](sections/14-estate-agents-hvd.md) | Estate Agents, HVDs |
+    | [15](sections/15-lawyers.md) | [Lawyers](sections/15-lawyers.md) | Lawyers |
+    | [16](sections/16-accountants.md) | [Accountants](sections/16-accountants.md) | Accountants |
+    | [17](sections/17-prescribed-npos.md) | [Prescribed NPOs](sections/17-prescribed-npos.md) | NPOs |
+    | [18](sections/18-aml-providers.md) | [AML Service Providers](sections/18-aml-providers.md) | AML Providers |
+
+    </div>
+
+<div class="home-colour-key" markdown>
+
+Content uses the JFSC's colour coding: **:material-alert-octagon:{ .statutory-icon } Statutory Requirements** · **:material-alert:{ .code-icon } Codes of Practice** · **:material-information:{ .guidance-icon } Guidance**. Use **Search** to find any term. **Glossary terms** show definitions on hover.
 
 </div>
 
-## How to Use This Site
-
-- **Search** -- Use the search bar to find any term or topic across all sections
-- **Role Filter** -- Select your sector above to hide irrelevant sections from navigation
-- **Glossary Tooltips** -- Hover over highlighted terms to see definitions
-- **Visual Tags** -- Content uses the JFSC's own colour coding:
-
-!!! danger "Statutory Requirement"
-
-    Mandatory obligations set out in legislation. Failure to comply is a criminal offence.
-
-!!! warning "AML/CFT/CPF Code of Practice"
-
-    Mandatory codes issued under the Supervisory Bodies Law.
-
-!!! info "Guidance"
-
-    Guidance notes to assist supervised persons in meeting their obligations.
-
-Generated from the official JFSC AML/CFT/CPF Handbook PDFs at [jerseyfsc.org](https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/amlcftcpf-handbook/). Always refer to the official documents for authoritative guidance.
+<p class="home-source">Generated from the official JFSC AML/CFT/CPF Handbook PDFs at <a href="https://www.jerseyfsc.org/industry/financial-crime/amlcftcpf-handbooks/amlcftcpf-handbook/">jerseyfsc.org</a>. Always refer to the official documents for authoritative guidance.</p>
