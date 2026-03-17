@@ -34,8 +34,8 @@ theme:
   icon:
     logo: material/shield-check
   font:
-    text: Inter
-    code: JetBrains Mono
+    text: IBM Plex Sans
+    code: IBM Plex Mono
 
 plugins:
   - search
