@@ -340,10 +340,11 @@ html {
   margin-bottom: 0.8rem;
 }
 
-/* Statutory Requirements */
+/* Statutory Requirements — Blue */
 .md-typeset .admonition.danger,
 .md-typeset details.danger {
   border-color: var(--jfsc-statutory-border);
+  background-color: var(--jfsc-statutory-bg);
 }
 
 .md-typeset .admonition.danger > .admonition-title,
@@ -357,10 +358,11 @@ html {
   background-color: var(--jfsc-statutory-icon);
 }
 
-/* Codes of Practice */
+/* Codes of Practice — Pink/Red */
 .md-typeset .admonition.warning,
 .md-typeset details.warning {
   border-color: var(--jfsc-code-border);
+  background-color: var(--jfsc-code-bg);
 }
 
 .md-typeset .admonition.warning > .admonition-title,
@@ -374,10 +376,11 @@ html {
   background-color: var(--jfsc-code-icon);
 }
 
-/* Guidance */
+/* Guidance — Green */
 .md-typeset .admonition.info,
 .md-typeset details.info {
   border-color: var(--jfsc-guidance-border);
+  background-color: var(--jfsc-guidance-bg);
 }
 
 .md-typeset .admonition.info > .admonition-title,
@@ -539,61 +542,71 @@ html {
 
 /* ===== Admonition Filter ===== */
 .admonition-filter {
-  position: fixed;
-  bottom: 1.5rem;
-  left: 1.5rem;
-  z-index: 90;
   display: flex;
-  gap: 1px;
-  background: rgba(128, 128, 128, 0.15);
-  border-radius: 0;
+  align-items: center;
+  gap: 0.4rem;
+  float: right;
+  margin: -0.5rem 0 1rem 1rem;
+}
+
+.af-label {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--md-default-fg-color--light);
+  font-weight: 500;
 }
 
 .af-pill {
-  padding: 0.3rem 0.6rem;
-  font-size: 0.62rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.45rem;
+  font-size: 0.6rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
   border: none;
   cursor: pointer;
-  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1),
-              background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  color: #fff;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.af-pill--statutory {
-  background: var(--jfsc-statutory-border);
+.af-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.af-pill--code {
-  background: var(--jfsc-code-border);
-}
-
-.af-pill--guidance {
-  background: var(--jfsc-guidance-border);
-}
+.af-pill--statutory .af-dot { background: var(--jfsc-statutory-border); }
+.af-pill--code .af-dot { background: var(--jfsc-code-border); }
+.af-pill--guidance .af-dot { background: var(--jfsc-guidance-border); }
 
 .af-pill--off {
-  opacity: 0.25;
+  opacity: 0.3;
+  text-decoration: line-through;
 }
 
 .af-pill:hover {
-  opacity: 0.85;
+  opacity: 0.7;
 }
 
 .af-pill--off:hover {
-  opacity: 0.4;
+  opacity: 0.5;
 }
 
 /* Dimmed admonitions */
 .admonition-dimmed {
-  opacity: 0.12;
+  opacity: 0.1;
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: none;
 }
 
 .admonition-dimmed:hover {
-  opacity: 0.4;
+  opacity: 0.3;
+  pointer-events: auto;
 }
 
 /* ===== Reading Progress Bar ===== */
@@ -790,6 +803,22 @@ html {
 .md-typeset abbr[title]:hover {
   background-color: rgba(29, 112, 184, 0.06);
   border-bottom-style: solid;
+}
+
+/* Abbreviations in headings, nav, footer: no special styling */
+.md-typeset h1 abbr[title],
+.md-typeset h2 abbr[title],
+.md-typeset h3 abbr[title],
+.md-typeset h4 abbr[title],
+.md-footer abbr[title],
+.md-nav abbr[title],
+.md-header abbr[title],
+.admonition-title abbr[title],
+summary abbr[title] {
+  border-bottom: none;
+  font-style: inherit;
+  cursor: inherit;
+  background-image: none;
 }
 
 [data-md-color-scheme="slate"] .md-typeset abbr[title]:hover {
