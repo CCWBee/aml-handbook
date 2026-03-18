@@ -26,6 +26,7 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.tracking
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -71,6 +72,7 @@ extra_javascript:
   - javascripts/role-filter.js
   - javascripts/touch-tooltips.js
   - javascripts/markdown-pitch.js
+  - javascripts/reading-progress.js
 
 nav:
   - Home: index.md
