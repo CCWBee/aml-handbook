@@ -723,6 +723,7 @@ html {
   text-decoration: none;
   border-bottom: 1.5px dashed var(--md-primary-fg-color);
   cursor: help;
+  font-style: italic;
   transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
               background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
