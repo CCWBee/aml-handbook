@@ -796,13 +796,18 @@ html {
   border-bottom: 1.5px dashed var(--md-primary-fg-color);
   cursor: help;
   font-style: italic;
-  transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
-              background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  background-image: linear-gradient(var(--md-primary-fg-color), var(--md-primary-fg-color));
+  background-size: 0% 1.5px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 1s cubic-bezier(0.4, 0, 0.2, 1),
+              background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .md-typeset abbr[title]:hover {
   background-color: rgba(29, 112, 184, 0.06);
-  border-bottom-style: solid;
+  background-size: 100% 1.5px;
+  border-bottom-color: transparent;
 }
 
 /* Abbreviations in headings, nav, footer: no special styling */
