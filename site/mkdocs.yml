@@ -74,6 +74,7 @@ extra_javascript:
   - javascripts/markdown-pitch.js
   - javascripts/reading-progress.js
   - javascripts/admonition-filter.js
+  - javascripts/version-diff.js
 
 nav:
   - Home: index.md

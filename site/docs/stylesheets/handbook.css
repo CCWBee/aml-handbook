@@ -1221,6 +1221,106 @@ summary abbr[title] {
   }
 }
 
+/* ===== Version Comparison ===== */
+:root {
+  --vc-del-color: #d4351c;
+  --vc-del-bg: rgba(212, 53, 28, 0.08);
+  --vc-ins-color: #00703c;
+  --vc-ins-bg: rgba(0, 112, 60, 0.08);
+  --vc-changed-border: #f47738;
+}
+
+[data-md-color-scheme="slate"] {
+  --vc-del-color: #f47738;
+  --vc-del-bg: rgba(244, 119, 56, 0.1);
+  --vc-ins-color: #66bb6a;
+  --vc-ins-bg: rgba(102, 187, 106, 0.1);
+  --vc-changed-border: #f47738;
+}
+
+.version-compare {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.5rem 0 1.2rem;
+  font-size: 0.7rem;
+}
+
+.vc-label {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+}
+
+.vc-select {
+  font-size: 0.7rem;
+  font-family: var(--md-text-font);
+  padding: 0.2rem 0.4rem;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 0;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+}
+
+.vc-summary-badge {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--vc-changed-border);
+  white-space: nowrap;
+}
+
+/* Redline markup */
+.vc-redline {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  padding: 0.5rem 0.8rem;
+  margin: 0.3rem 0 1rem;
+  border-left: 3px solid var(--vc-changed-border);
+  background: rgba(128, 128, 128, 0.03);
+}
+
+.vc-del {
+  color: var(--vc-del-color);
+  background: var(--vc-del-bg);
+  text-decoration: line-through;
+}
+
+.vc-ins {
+  color: var(--vc-ins-color);
+  background: var(--vc-ins-bg);
+  font-weight: 600;
+}
+
+.vc-clause-changed {
+  border-left: 3px solid var(--vc-changed-border);
+  padding-left: 0.8rem;
+}
+
+.vc-clause-new {
+  border-left: 3px solid var(--vc-ins-color);
+  padding-left: 0.8rem;
+}
+
+.vc-badge {
+  display: inline-block;
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.1rem 0.3rem;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.vc-badge--new {
+  background: var(--vc-ins-bg);
+  color: var(--vc-ins-color);
+  border: 1px solid var(--vc-ins-color);
+}
+
 /* ===== Print ===== */
 @media print {
   .role-badge,
