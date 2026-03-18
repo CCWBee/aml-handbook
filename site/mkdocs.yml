@@ -73,6 +73,7 @@ extra_javascript:
   - javascripts/touch-tooltips.js
   - javascripts/markdown-pitch.js
   - javascripts/reading-progress.js
+  - javascripts/admonition-filter.js
 
 nav:
   - Home: index.md

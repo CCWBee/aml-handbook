@@ -537,6 +537,65 @@ html {
   padding-bottom: 1rem;
 }
 
+/* ===== Admonition Filter ===== */
+.admonition-filter {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  z-index: 90;
+  display: flex;
+  gap: 1px;
+  background: rgba(128, 128, 128, 0.15);
+  border-radius: 0;
+}
+
+.af-pill {
+  padding: 0.3rem 0.6rem;
+  font-size: 0.62rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+              background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  color: #fff;
+}
+
+.af-pill--statutory {
+  background: var(--jfsc-statutory-border);
+}
+
+.af-pill--code {
+  background: var(--jfsc-code-border);
+}
+
+.af-pill--guidance {
+  background: var(--jfsc-guidance-border);
+}
+
+.af-pill--off {
+  opacity: 0.25;
+}
+
+.af-pill:hover {
+  opacity: 0.85;
+}
+
+.af-pill--off:hover {
+  opacity: 0.4;
+}
+
+/* Dimmed admonitions */
+.admonition-dimmed {
+  opacity: 0.12;
+  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.admonition-dimmed:hover {
+  opacity: 0.4;
+}
+
 /* ===== Reading Progress Bar ===== */
 .reading-progress {
   position: fixed;
