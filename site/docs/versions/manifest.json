@@ -2,10 +2,10 @@
   "versions": [
     {
       "id": "2026-03-18",
-      "label": "18 March 2026",
+      "label": "18 March 2026 (baseline)",
       "date": "2026-03-18",
       "baseline": true
     }
   ],
-  "current": "2026-03-18"
+  "current": "live"
 }

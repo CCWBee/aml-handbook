@@ -547,7 +547,7 @@ html {
   justify-content: flex-end;
   gap: 0.4rem;
   position: sticky;
-  top: 0;
+  top: 3.2rem;
   z-index: 10;
   background: var(--md-default-bg-color);
   padding: 0.4rem 0;

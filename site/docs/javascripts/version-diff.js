@@ -394,7 +394,12 @@
       bar.id = "version-compare";
       bar.className = "version-compare";
 
-      if (manifest.versions.length <= 1) {
+      // Get comparable versions (all stored versions)
+      var comparableVersions = manifest.versions.filter(function (v) {
+        return v.id !== manifest.current;
+      });
+
+      if (comparableVersions.length === 0) {
         bar.innerHTML =
           '<span class="vc-label">Version tracking active</span>';
         insertBar(bar);
@@ -414,8 +419,7 @@
       optNone.textContent = "Current (no comparison)";
       select.appendChild(optNone);
 
-      manifest.versions.forEach(function (v) {
-        if (v.id === manifest.current) return;
+      comparableVersions.forEach(function (v) {
         var opt = document.createElement("option");
         opt.value = v.id;
         opt.textContent = v.label;
