@@ -545,8 +545,14 @@ html {
   display: flex;
   align-items: center;
   gap: 0.4rem;
+  position: sticky;
+  top: 3.2rem;
   float: right;
   margin: -0.5rem 0 1rem 1rem;
+  z-index: 10;
+  background: var(--md-default-bg-color);
+  padding: 0.3rem 0.5rem;
+  border: 1px solid rgba(128, 128, 128, 0.15);
 }
 
 .af-label {
@@ -561,15 +567,20 @@ html {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  padding: 0.2rem 0.45rem;
+  padding: 0.2rem 0.5rem;
   font-size: 0.6rem;
   font-weight: 500;
   letter-spacing: 0.02em;
-  border: none;
+  border: 1px solid rgba(128, 128, 128, 0.2);
   cursor: pointer;
   background: transparent;
   color: var(--md-default-fg-color);
-  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+              border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.af-pill:active {
+  transform: scale(0.95);
 }
 
 .af-dot {
