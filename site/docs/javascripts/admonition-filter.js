@@ -141,36 +141,111 @@
     for (var k in oldMap) { if (!matched[k]) results.push({type:"removed",clause:oldMap[k]}); }
     return results;
   }
-  function clearRedlines() {
-    document.querySelectorAll(".vc-redline, .vc-badge").forEach(function(el) { el.remove(); });
-    document.querySelectorAll(".vc-clause-changed, .vc-clause-new").forEach(function(el) {
-      el.classList.remove("vc-clause-changed", "vc-clause-new");
+  function clearComparison() {
+    document.querySelectorAll(".vc-redline, .vc-badge, .vc-change-list").forEach(function(el) { el.remove(); });
+    document.querySelectorAll(".vc-clause-changed, .vc-clause-new, .vc-clause-marker").forEach(function(el) {
+      el.classList.remove("vc-clause-changed", "vc-clause-new", "vc-clause-marker");
     });
   }
-  function renderRedlines(results) {
-    clearRedlines();
+
+  function renderChangeList(results) {
+    clearComparison();
     var changed = 0, added = 0, removed = 0;
+
+    // Mark changed clauses with a subtle indicator (no redline yet)
     results.forEach(function(r) {
       if (r.type === "changed" && r.clause.element) {
         changed++;
-        r.clause.element.classList.add("vc-clause-changed");
-        var div = document.createElement("div"); div.className = "vc-redline"; div.innerHTML = r.diffHtml;
-        r.clause.element.insertAdjacentElement("afterend", div);
+        r.clause.element.classList.add("vc-clause-marker");
+        r.clause.element.setAttribute("data-vc-diff", r.diffHtml);
       } else if (r.type === "added" && r.clause.element) {
         added++;
         r.clause.element.classList.add("vc-clause-new");
-        var badge = document.createElement("span"); badge.className = "vc-badge vc-badge--new"; badge.textContent = "NEW";
+        var badge = document.createElement("span");
+        badge.className = "vc-badge vc-badge--new";
+        badge.textContent = "NEW";
         r.clause.element.insertAdjacentElement("afterbegin", badge);
       } else if (r.type === "removed") { removed++; }
     });
-    return {changed:changed, added:added, removed:removed};
+
+    // Build the change list panel
+    if (changed + added + removed === 0) return { changed:0, added:0, removed:0 };
+
+    var list = document.createElement("div");
+    list.className = "vc-change-list";
+
+    var header = document.createElement("div");
+    header.className = "vc-change-header";
+    var parts = [];
+    if (changed) parts.push(changed + " changed");
+    if (added) parts.push(added + " added");
+    if (removed) parts.push(removed + " removed");
+    header.textContent = parts.join(" · ");
+    list.appendChild(header);
+
+    var items = document.createElement("div");
+    items.className = "vc-change-items";
+
+    results.forEach(function(r) {
+      if ((r.type === "changed" || r.type === "added") && r.clause.element) {
+        var item = document.createElement("a");
+        item.className = "vc-change-item";
+        item.href = "#";
+
+        var num = document.createElement("span");
+        num.className = "vc-change-num";
+        num.textContent = "§" + r.clause.num;
+        item.appendChild(num);
+
+        var ctx = document.createElement("span");
+        ctx.className = "vc-change-ctx";
+        ctx.textContent = r.clause.heading || "";
+        item.appendChild(ctx);
+
+        var tag = document.createElement("span");
+        tag.className = "vc-change-tag vc-change-tag--" + r.type;
+        tag.textContent = r.type === "changed" ? "Changed" : "New";
+        item.appendChild(tag);
+
+        item.addEventListener("click", function(e) {
+          e.preventDefault();
+          // Scroll to clause
+          r.clause.element.scrollIntoView({ behavior: "smooth", block: "center" });
+          // Toggle redline on this clause
+          var existing = r.clause.element.nextElementSibling;
+          if (existing && existing.classList.contains("vc-redline")) {
+            existing.remove();
+            r.clause.element.classList.remove("vc-clause-changed");
+            r.clause.element.classList.add("vc-clause-marker");
+          } else if (r.type === "changed") {
+            r.clause.element.classList.remove("vc-clause-marker");
+            r.clause.element.classList.add("vc-clause-changed");
+            var div = document.createElement("div");
+            div.className = "vc-redline";
+            div.innerHTML = r.diffHtml || r.clause.element.getAttribute("data-vc-diff") || "";
+            r.clause.element.insertAdjacentElement("afterend", div);
+          }
+        });
+
+        items.appendChild(item);
+      }
+    });
+
+    list.appendChild(items);
+
+    // Insert after the toolbar
+    var bar = document.querySelector(".admonition-filter");
+    if (bar) bar.insertAdjacentElement("afterend", list);
+
+    return { changed: changed, added: added, removed: removed };
   }
+
   function runComparison(versionId, slug, toggle) {
     loadVersion(versionId, slug, function(data) {
       if (!data) return;
       var current = extractCurrentClauses();
       var results = compareClauses(data.clauses, current);
-      var counts = renderRedlines(results);
+      var counts = renderChangeList(results);
       var parts = [];
       if (counts.changed) parts.push(counts.changed + " changed");
       if (counts.added) parts.push(counts.added + " new");
@@ -188,7 +263,7 @@
     // Clean slate
     var old = document.querySelector(".admonition-filter");
     if (old) old.remove();
-    clearRedlines();
+    clearComparison();
 
     // Only on pages with admonitions
     if (!document.querySelector(".md-typeset .admonition")) return;
@@ -245,7 +320,7 @@
           panel.style.display = "none";
           toggle.classList.remove("active");
           toggle.innerHTML = clockSvg + 'History';
-          clearRedlines();
+          clearComparison();
         });
         panel.appendChild(noneBtn);
 
