@@ -185,10 +185,8 @@
   // ── UI ────────────────────────────────────────────────────────────
 
   function inject() {
-    var old = document.getElementById("vc-toggle");
-    if (old) old.remove();
-    var oldPanel = document.getElementById("vc-panel");
-    if (oldPanel) oldPanel.remove();
+    // Remove ALL version UI elements (robust dedup)
+    document.querySelectorAll("#vc-toggle, #vc-panel, .vc-toggle, .vc-panel").forEach(function(el) { el.remove(); });
     clearRedlines();
 
     var slug = getSectionSlug();
