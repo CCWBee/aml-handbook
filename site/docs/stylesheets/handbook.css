@@ -716,19 +716,41 @@ html {
   }
 }
 
+/* ===== Abbreviation Definitions ===== */
+
+/* Style the <abbr> elements themselves */
+.md-typeset abbr[title] {
+  text-decoration: none;
+  border-bottom: 1.5px dashed var(--md-primary-fg-color);
+  cursor: help;
+  transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+              background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.md-typeset abbr[title]:hover {
+  background-color: rgba(29, 112, 184, 0.06);
+  border-bottom-style: solid;
+}
+
+[data-md-color-scheme="slate"] .md-typeset abbr[title]:hover {
+  background-color: rgba(110, 168, 216, 0.1);
+}
+
 /* ===== Touch Tooltips ===== */
 .abbr-tooltip {
   position: absolute;
-  background: #0b0c0c;
+  background: var(--md-primary-fg-color--dark);
   color: #fff;
-  padding: 0.4rem 0.6rem;
+  padding: 0.5rem 0.8rem;
   border-radius: 0;
-  font-size: 0.8rem;
-  line-height: 1.4;
-  max-width: 280px;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  max-width: 300px;
   z-index: 100;
   pointer-events: none;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  letter-spacing: 0.005em;
+  border-left: 3px solid var(--md-primary-fg-color);
 }
 
 .abbr-tooltip::before {
@@ -738,16 +760,17 @@ html {
   left: 1rem;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
-  border-bottom: 6px solid #0b0c0c;
+  border-bottom: 6px solid var(--md-primary-fg-color--dark);
 }
 
 [data-md-color-scheme="slate"] .abbr-tooltip {
-  background: #d4d4d4;
-  color: #1a1a1a;
+  background: #1a2a3a;
+  color: #e0e0e0;
+  border-left-color: var(--md-primary-fg-color);
 }
 
 [data-md-color-scheme="slate"] .abbr-tooltip::before {
-  border-bottom-color: #d4d4d4;
+  border-bottom-color: #1a2a3a;
 }
 
 /* ===== "Why Markdown?" Pitch ===== */
