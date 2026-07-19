@@ -1,8 +1,6 @@
 # JFSC AML/CFT/CPF Handbook
 
-An interactive web version of the Jersey Financial Services Commission's AML/CFT/CPF Handbook, built as an MkDocs site with role-based filtering, so a given reader sees the guidance that applies to them rather than the whole tome.
-
-An unofficial reference, put together to make the material easier to work through. It does not replace the JFSC's own published handbook, which remains the authority.
+The JFSC's AML/CFT/CPF Handbook is a long PDF, read in full by everyone regardless of which parts actually apply to them. This is an interactive web version that filters by role, so a given reader sees the obligations relevant to them rather than the whole tome. Built as an MkDocs site from the source text.
 
 ## Build
 
@@ -15,3 +13,7 @@ mkdocs build      # static output
 ```
 
 The pipeline that turns the source into the site lives in `pipeline/` and `scripts/`.
+
+## Standing
+
+A personal prototype, built in my own time. It is not a work product, and it is not affiliated with, endorsed by or representative of any employer or of the body that publishes the handbook. It does not replace the official published handbook, which remains the authority.
